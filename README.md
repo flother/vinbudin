@@ -1,28 +1,20 @@
-Load the data into PostgreSQL:
+This repository contains:
 
-    CREATE TABLE vinbudin (
-      id INTEGER PRIMARY KEY,
-      name TEXT NOT NULL,
-      country_of_origin TEXT,
-      district_of_origin TEXT,
-      place_of_origin TEXT,
-      year INTEGER,
-      alcohol_volume DECIMAL(3, 1),
-      wine_category TEXT,
-      taste_group TEXT,
-      is_organic BOOLEAN NOT NULL,
-      bottled_volume NUMERIC(6, 1) NOT NULL,
-      packaging_closing TEXT,
-      container_type TEXT,
-      category TEXT NOT NULL,
-      sub_category TEXT,
-      price INTEGER NOT NULL,
-      inventory INTEGER NOT NULL,
-      is_on_sale BOOLEAN NOT NULL,
-      is_special_order BOOLEAN NOT NULL,
-      is_special_reserve BOOLEAN NOT NULL,
-      date_on_market DATE NOT NULL,
-      is_available BOOLEAN NOT NULL,
-      is_gift BOOLEAN NOT NULL
-    );
-    COPY vinbudin FROM 'data/catalogue.csv' DELIMITER ',' CSV HEADER;
+* the code to scrape products and their current stock levels from vinbudin.is,
+  the website of Iceland's state alcohol monopoly [ÁTVR] [1]; and
+* data files containing these products and their current stock levels.
+
+The code is in the form of a [Scrapy] [2]-based scraper written using
+[Python 2.7] [3].
+
+To load the data into two tables named `vinbudin_products` and `vinbudin_stock`
+in a [PostgreSQL] [4] database named `data`, run this command in the top-level
+directory of this repo:
+
+     psql -d data -1 -f import.sql
+
+
+[1]: http://www.vinbudin.is/english/Heim/um_%C3%81TVR/history-of-%C3%A1tvr/history-of-atvr.aspx
+[2]: http://scrapy.org/
+[3]: https://www.python.org/
+[4]: http://www.postgresql.org/
