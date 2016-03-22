@@ -1,2 +1,5 @@
 *.pyc
-
+setup.py
+scrapinghub.yml
+project.egg-info/
+build/
