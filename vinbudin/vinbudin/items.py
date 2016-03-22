@@ -19,6 +19,7 @@ class Product(scrapy.Item):
     container = scrapy.Field()
     category = scrapy.Field()
     sub_category = scrapy.Field()
+    goes_with = scrapy.Field()
     price = scrapy.Field()
     is_temp_sale = scrapy.Field()
     is_special_order = scrapy.Field()

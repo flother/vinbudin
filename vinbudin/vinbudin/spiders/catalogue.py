@@ -39,6 +39,7 @@ class CatalogueSpider(scrapy.Spider):
                 item["sub_category"] = product["ProductSubCategory"]["name"]
             except TypeError:
                 item["sub_category"] = ""
+            item["goes_with"] = product["ProductFoodCategories"]
             item["price"] = product["ProductPrice"]
             item["is_temp_sale"] = str(product["ProductIsTemporaryOnSale"]).lower()
             item["is_special_order"] = str(product["ProductIsSpecialOrder"]).lower()

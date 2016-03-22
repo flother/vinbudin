@@ -15,6 +15,7 @@ CREATE TABLE IF NOT EXISTS vinbudin_products (
   container TEXT,
   category TEXT NOT NULL,
   sub_category TEXT,
+  goes_with TEXT[],
   price INTEGER NOT NULL,
   is_temp_sale BOOLEAN NOT NULL,
   is_special_order BOOLEAN NOT NULL,

@@ -28,6 +28,35 @@ class ProductPipeline(object):
         "STKORK-D": "korkur",
         "VITOP": "Vitop",
     }
+    GOES_WITH = {
+        "1": u"saltfiskur",  # Saltfish, ~20 records
+        "2": u"pylsur",  # Sausages, ~80 records
+        "3": u"pítsa",  # Pizza, ~80 records
+        "4": u"sushi",  # Sushi, ~100 records
+        "A": u"fordrykkir og smáréttir",  # Aperitifs/appetizers, ~320 records
+        "B": u"skelfiskur",  # Shellfish, ~280 records
+        "C": u"fiskur",  # Fish, ~430 records
+        "D": u"alifuglar",  # Poultry, ~440 records
+        "E": u"nautakjöt",  # Beef, ~330 records
+        "F": u"lambakjöt",  # Lamb, ~410 records
+        "G": u"svínakjöt",  # Pork, ~320 records
+        "H": u"kröftugri villibráð",  # Strong game, ~180 records
+        "I": u"grænmetisréttir",  # Vegetarian, ~220 records
+        "J": u"grillað kjöt",  # Grilled meat, ~310 records
+        "K": u"austurlenskur matur",  # Asian food, ~90 records
+        "L": u"ostar",  # Cheese, ~250 records
+        "M": u"pastaréttir",  # Pasta, ~310 records
+        "N": u"ábætisréttir",  # Dessert wines, ~50 records
+        "O": u"sólpallavín",  # Wines on the sundeck, ~20 records
+        "P": u"smáréttir",  # Hors-d'oeuvres, ~540 records
+        "R": u"reykt kjöt",  # Smoked meats, ~60 records
+        "S": u"pottréttir",  # Casseroles, ~160 records
+        "T": u"léttari villibráð",  # "Lighter" game, ~190 records
+        "V": u"sterkkryddaður matur",  # Spicy foods, ~20 records
+        "W": u"eitt og sér",  # Wine to serve on their own, ~10 records
+        # "Y": "",  # ?, ~1110 records
+        # u"Æ": "",  # ?, ~220 records
+    }
 
     def __init__(self):
         self.products = []
@@ -70,6 +99,12 @@ class ProductPipeline(object):
             item["container"] = self.CONTAINERS.get(item["container"],
                                                     item["container"].lower())
             item["seal"] = self.SEALS.get(item["seal"], item["seal"].lower())
+            # Use full descriptions for the "goes_with" fields.
+            # item["goes_with"] = "{" + ", ".join([
+            #     self.GOES_WITH.get(item["goes_with"],
+            #                        item["goes_with"])]) + "}"
+            # Use abbreviated terms for "goes_with" field.
+            item["goes_with"] = "{" + ",".join(item["goes_with"]) + "}"
             # Convert boolean values to "true" or "false".
             item["is_organic"] = str(item["is_organic"]).lower()
             item["is_temp_sale"] = str(item["is_temp_sale"]).lower()
@@ -95,6 +130,7 @@ class ProductPipeline(object):
                 item["container"],
                 item["category"],
                 item["sub_category"],
+                item["goes_with"],
                 item["price"],
                 item["is_temp_sale"],
                 item["is_special_order"],
