@@ -1,2 +1,3 @@
 csvkit
 scrapy
+git+https://github.com/gbirke/scrapy-multifeedexporter.git#egg=multifeedexporter

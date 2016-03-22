@@ -1,4 +1,7 @@
 # coding: UTF-8
+from multifeedexporter import MultiFeedExporter
+
+
 BOT_NAME = "vinbudin"
 SPIDER_MODULES = ['vinbudin.spiders']
 NEWSPIDER_MODULE = 'vinbudin.spiders'
@@ -15,3 +18,11 @@ ITEM_PIPELINES = {
     "vinbudin.pipelines.ProductPipeline": 100,
     "vinbudin.pipelines.StockPipeline": 200,
 }
+
+
+EXTENSIONS = {
+    'scrapy.contrib.feedexport.FeedExporter': None,
+    'multifeedexporter.MultiFeedExporter': 500,
+}
+MULTIFEEDEXPORTER_ITEMS = MultiFeedExporter.get_bot_items(BOT_NAME)
+FEED_FORMAT = "csv"
