@@ -89,3 +89,7 @@ def main():
         print "Pushed to origin."
     else:
         print "No changes to commit."
+
+
+if __name__ == "__main__":
+    main()
