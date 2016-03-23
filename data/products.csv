@@ -1,3 +1,4 @@
+id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcohol_volume,grape,taste_group,is_organic,bottled_volume,seal,container,category,sub_category,goes_with,price,is_temp_sale,is_special_order,is_special_reserve,date_on_market,is_available,is_gift
 10037,Caussade XO,Elgur ehf,frakkland,armagnac,armagnac ac,,40.0,,,false,750.0,,flaska,strong,brandy,{},14989,false,false,false,2010-10-01,true,false
 10046,Meukow VSOP smáflöskur,Elgur ehf,frakkland,cognac,cognac,,40.0,,,false,50.0,,flaska,strong,brandy,{},690,false,true,false,2005-12-01,false,false
 10048,Rosemount GTR,Ölgerðin Egill Skallagríms ehf,ástralía,enginn,south eastern australia,2015,10.0,gewurztraminer,02LM,false,3000.0,,box,white,,"{A,K,P,Y}",6642,false,false,false,2006-03-01,true,false
