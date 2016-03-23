@@ -59,6 +59,7 @@ def main():
     product_rows = UnicodeCSVDictReader(io.BytesIO(products.read()))
     with open(products_filename, "wb") as fh:
         products_output = UnicodeCSVWriter(fh, lineterminator="\n")
+        products_output.writerow(PRODUCT_FIELDS)
         for row in sorted(product_rows, key=lambda r: r["id"]):
             products_output.writerow([row[key] for key in PRODUCT_FIELDS])
 
@@ -67,6 +68,7 @@ def main():
     stock_rows = UnicodeCSVDictReader(io.BytesIO(stock.read()))
     with open(stock_filename, "wb") as fh:
         stock_output = UnicodeCSVWriter(fh, lineterminator="\n")
+        stock_output.writerow(STOCK_FIELDS)
         for row in sorted(stock_rows, key=lambda r: (int(r["product_id"]),
                                                      r["store"])):
             stock_output.writerow([row[key] for key in STOCK_FIELDS])
