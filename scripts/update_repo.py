@@ -78,13 +78,12 @@ def main():
 
     repo = Repo(repo_root)
     repo.git.reset()
+    repo.remotes.origin.pull()
     if repo.is_dirty():
         print "Changes to commit."
         repo.index.add([products_filename, stock_filename])
         repo.index.commit("Add latest inventory data")
         print "Committed locally."
-        repo.remotes.origin.pull()
-        print "Pulled from origin."
         repo.remotes.origin.push()
         print "Pushed to origin."
     else:
