@@ -1089,7 +1089,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21748,Volcanic Askja Apple Schnapps,Eldfjallabrugg ehf,ísland,,,,18.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},3390,false,false,false,2015-12-01,true,false
 21753,Ölvisholt Barón Brúnöl,Karl K. Karlsson ehf.,ísland,,,,4.5,,61ÖL,false,330.0,crown,flaska,beer,,{},389,true,false,false,2016-02-09,true,false
 21756,Chapoutier Duo,Vínekran Bourgogne ehf,frakkland,,,,13.0,,,false,1500.0,,askja,red,,{},6799,false,false,false,2014-12-01,true,true
-21758,Redhook Winterhook,Vín Tríó ehf,bandaríkin,,,,6.0,,61ÖL,false,355.0,crown,flaska,beer,,{},481,true,false,false,2015-11-01,true,false
 21760,Momo Verdejo Viura,Trölladyngja sf,spánn,castilla y,rueda,2013,12.5,verdejo,02L,false,750.0,korkur,flaska,white,,"{A,M,Y}",1703,false,false,false,2015-12-01,true,false
 21763,Cardenal Mendoza Solera Gran Reserva,Trölladyngja sf,spánn,,jerez,,40.0,,,false,700.0,korktappi,flaska,strong,brandy,{},8702,false,false,false,2015-12-01,true,false
 21770,Gajol Original grátt,Vífilfell hf.,danmörk,,,,16.4,,,false,1000.0,skrúftappi,flaska,strong,shots,{},4790,false,false,false,2015-10-01,true,false
@@ -1641,7 +1640,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 3495,Rosemount Shiraz,Ölgerðin Egill Skallagríms ehf,ástralía,,south australia,2014,13.5,shiraz,01M,false,750.0,skrúftappi,flaska,red,,"{D,I,J,K,Y}",2430,false,false,false,1999-08-01,true,false
 3496,Rosemount Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,ástralía,,south eastern australia,2012,13.5,cabernet sauvignon,01T,false,750.0,skrúftappi,flaska,red,,"{E,F,H,J,Y}",2450,false,false,false,2001-12-01,true,false
 3498,Jim Beam Black Bourbon 6 ára,Haugen-Gruppen ehf.,bandaríkin,,kentucky,,43.0,,,false,700.0,skrúftappi,flaska,strong,whisky,{},7199,false,false,false,2012-07-01,true,false
-354,Joseph Drouhin Laforet Chardonnay,Bakkus ehf.,frakkland,bourgogne,bourgogne,2012,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,Y}",2196,false,false,false,2014-10-01,true,false
 3555,Pfaff Pinot Gris Cuvée Rabelais,Rolf Johansen & Co ehf,frakkland,alsace,alsace ac,2012,13.5,pinot gris,02T,false,750.0,korkur,flaska,white,,"{C,K,L,R,Æ}",2850,false,false,false,1999-09-01,true,false
 3560,Grolsch,Mekka Wines & Spirits hf,holland,,,,5.0,,60LL,false,450.0,smella,flaska,beer,,{},439,false,false,false,2016-03-01,true,false
 3567,Sandeman's Fine Tawny,Mekka Wines & Spirits hf,portúgal,,,,19.5,,,false,1000.0,,flaska,fortified,port,"{A,L,N,W,Y}",5599,false,false,false,1999-10-01,true,false
