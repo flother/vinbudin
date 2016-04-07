@@ -1525,7 +1525,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22423,Anderra Sauvignon Blanc,Bakkus ehf.,chile,valledecen,valle central,2014,12.5,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{1,C,I,L,Y}",2210,false,false,false,2016-02-01,true,false
 22424,La Miranda Secastilla Garnacha,Bakkus ehf.,spánn,aragon,somontano,2013,14.0,garnacha,01M,false,750.0,korkur,flaska,red,,"{D,G,J,L,M,Y}",1999,false,false,false,2016-04-01,true,false
 22425,La Miranda Secastilla Garnacha Blanca,Bakkus ehf.,spánn,aragon,somontano,2013,13.5,grenache blanc,02M,false,750.0,korkur,flaska,white,,"{4,B,C,D,Y}",1999,false,false,false,2016-02-01,true,false
-22426,Gassier Coteaux d'Aix-en-Provence rósavín,Bakkus ehf.,frakkland,provence,coteaux d'aix-en-provence,2014,13.0,,03,true,3000.0,,box,rose,,"{B,C,I,M,Y}",6498,false,false,false,2016-01-01,true,false
+22426,Gassier Coteaux d'Aix-en-Provence rósavín,Bakkus ehf.,frakkland,provence,coteaux d'aix-en-provence,2014,13.0,,03,true,3000.0,,box,rose,,"{B,C,I,M,Y}",6498,false,false,false,2016-04-01,true,false
 22428,Gerard Bertrand Gris Blanc,Globus hf,frakkland,languedoc-,pays d'oc,2014,12.5,grenache,03,false,750.0,skrúftappi,flaska,rose,,"{C,I,M,P,Y}",1999,false,false,false,2016-03-01,true,false
 22429,Gran Lomo Malbec,Globus hf,argentína,,,2015,12.5,malbec,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,J,P,Y}",1599,false,false,false,2016-03-01,true,false
 2243,Stroh 60,Haugen-Gruppen ehf.,austurríki,,,,60.0,,,false,500.0,skrúftappi,flaska,strong,rum,{},6999,false,false,false,2011-05-01,true,false
@@ -1653,7 +1653,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 2973,Trimbach Pinot Gris Reserve Personelle,Globus hf,frakkland,alsace,alsace ac,2010,13.5,pinot gris,02TM,false,750.0,korkur,flaska,white,,"{2,L,R,T,Æ}",4698,false,false,false,2008-11-01,true,false
 2989,Delapierre Tradicion Seco,Mekka Wines & Spirits hf,spánn,,cava,,11.5,,04M,false,750.0,korkur,flaska,bubbly,,"{C,P,Y}",1399,false,false,false,2015-11-01,true,false
 2991,Codorniu Seleccion Raventos Brut,Mekka Wines & Spirits hf,spánn,catalunya,cava,,11.5,chardonnay,04,false,750.0,korkur,flaska,bubbly,,{},2599,false,false,false,2010-10-01,true,false
-2994,Sunrise Cabernet Sauvignon,Mekka Wines & Spirits hf,chile,,valle central,2013,13.0,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{2,D,M,P,Y}",1599,false,false,false,1999-06-01,true,false
+2994,Sunrise Cabernet Sauvignon,Mekka Wines & Spirits hf,chile,,valle central,2013,12.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{2,D,M,P,Y}",1599,false,false,false,1999-06-01,true,false
 3017,Amarula Cream,Globus hf,suðurafríka,,,,17.0,,,false,700.0,skrúftappi,flaska,strong,liqueur,{},3899,false,false,false,2000-09-01,true,false
 3026,Lopez de Haro Gran Reserva,Vín Tríó ehf,spánn,,rioja,2008,14.0,graciano,01M,false,750.0,korkur,flaska,red,,"{E,F,H,S,T,Y}",3290,false,false,false,2016-04-01,true,false
 3066,Pfaff Pinot Gris,Rolf Johansen & Co ehf,frakkland,alsace,alsace ac,2013,13.5,pinot gris,02M,false,750.0,korkur,flaska,white,,"{4,C,D,M,Y}",2525,false,false,false,2004-10-01,true,false
@@ -1668,7 +1668,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 3188,Carlsberg,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.0,,60LL,false,330.0,,dós,beer,,{},249,false,false,false,2002-11-01,true,false
 3189,Carlsberg,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.0,,60LL,false,500.0,,dós,beer,,{},329,false,false,false,1998-12-01,true,false
 3195,Bolla Bardolino Chiaretto La Canestraia,Karl K. Karlsson ehf.,ítalía,veneto,bardolino,2014,11.5,,03,false,750.0,korkur,flaska,rose,,"{3,M,P,Y}",2035,false,false,false,2015-12-01,true,false
-3198,Pinot Gris Cuvee Rene Dopff,Ölgerðin Egill Skallagríms ehf,frakkland,alsace,alsace ac,2014,13.0,pinot gris,02MM,false,750.0,skrúftappi,flaska,white,,"{D,G,K,R,Y}",2430,false,false,false,2015-06-01,true,false
+3198,Pinot Gris Cuvee Rene Dopff,Ölgerðin Egill Skallagríms ehf,frakkland,alsace,alsace ac,2014,13.5,pinot gris,02MM,false,750.0,skrúftappi,flaska,white,,"{D,G,K,R,Y}",2430,false,false,false,2015-06-01,true,false
 3212,Martell VSOP,Mekka Wines & Spirits hf,frakkland,cognac,cognac,,40.0,,,false,700.0,,flaska,strong,brandy,{},8799,false,false,false,2013-11-01,true,false
 3222,Georges Duboeuf Fleurie,Bakkus ehf.,frakkland,bourgogne,fleurie,2012,13.0,gamay,,false,750.0,korkur,flaska,red,,"{A,D,I,P,Y}",2468,false,false,false,2014-03-01,true,false
 3235,Fetzer Valley Oaks Cabernet Sauvignon,Mekka Wines & Spirits hf,bandaríkin,kalifornía,kalifornía,2010,13.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{E,F,J,T,Y}",2199,false,false,false,2015-06-01,true,false
@@ -1963,7 +1963,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 6159,Föroya Slupp Öl,Föroya Bjór ehf,færeyjar,,,,5.8,,60DL,false,330.0,crown,flaska,beer,,{},342,false,false,false,2016-03-01,true,false
 6194,Smirnoff,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,37.5,,,false,1000.0,skrúftappi,flaska,strong,vodka,{},7499,false,false,false,1999-10-01,true,false
 6195,Smirnoff,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5499,false,false,false,1999-10-01,true,false
-6196,Cuvee Rene Dopff Gewurztraminer,Ölgerðin Egill Skallagríms ehf,frakkland,alsace,alsace ac,2013,13.5,gewurztraminer,02MM,false,750.0,skrúftappi,flaska,white,,"{4,K,L,V,Y}",2610,false,false,false,2015-06-01,true,false
+6196,Cuvee Rene Dopff Gewurztraminer,Ölgerðin Egill Skallagríms ehf,frakkland,alsace,alsace ac,2013,13.0,gewurztraminer,02MM,false,750.0,skrúftappi,flaska,white,,"{4,K,L,V,Y}",2610,false,false,false,2015-06-01,true,false
 6198,Osborne Ruby,Globus hf,portúgal,,,,19.5,,,false,750.0,korkur,flaska,fortified,port,"{A,L,N}",3798,false,false,false,2003-10-01,true,false
 621,Martini Rosso,Mekka Wines & Spirits hf,ítalía,,,,15.0,,,false,1000.0,skrúftappi,flaska,strong,bitterspice,{},2899,false,false,false,1999-01-01,true,false
 6218,Angostura Aromatic Bitter,Alvin Nordic Associates ehf,trínidadogtóbagó,,,,44.7,,,false,200.0,skrúftappi,flaska,strong,bitterspice,{},3915,false,false,false,2008-12-18,true,false
@@ -2266,7 +2266,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 9321,Erdinger Weissbrau gjafaaskja m/glasi,Rolf Johansen & Co ehf,þýskaland,,,,5.3,,62HV,false,1000.0,crown,gjafaaskja,beer,,{},2223,false,false,false,2008-12-01,true,true
 9340,Sunrise Cabernet Sauvignon,Mekka Wines & Spirits hf,chile,valledecen,valle central,2015,12.5,cabernet sauvignon,01M,false,3000.0,Vitop,box,red,,"{2,3,M,P,Y}",5499,false,false,false,2005-02-01,true,false
 9416,Louis Jadot Savigny les Beaune La Dominode 1er Cru,Vínfélagið ehf,frakkland,bourgogne,savigny-les-beaune 1er cru,2009,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{D,G,Y}",6449,false,false,false,2016-01-01,true,false
-9417,Marimar Estate Pinot Noir,Karl K. Karlsson ehf.,bandaríkin,northcoast,russian river valley,2009,14.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{C,D,G,T,Y}",6175,false,false,false,2012-11-01,true,false
+9417,Marimar Estate Pinot Noir,Karl K. Karlsson ehf.,bandaríkin,northcoast,russian river valley,2009,14.0,pinot noir,01M,false,750.0,korkur,flaska,red,,"{C,D,G,T,Y}",6175,false,false,false,2012-11-01,true,false
 945,Bombay Sapphire,Mekka Wines & Spirits hf,stórabretland,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,gin,{},7099,false,false,false,2001-08-01,true,false
 9453,Jacquesson Millesimé,Ber ehf,frakkland,champagne,champagne,1996,12.0,pinot noir,,false,750.0,korkur,flaska,bubbly,,"{A,Y}",17553,false,false,false,2008-12-15,true,false
 9461,Norton Reserva Cabernet Sauvignon,Vínfélagið ehf,argentína,mendoza,mendoza,2011,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",2995,false,false,false,2015-06-01,true,false
