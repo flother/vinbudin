@@ -105,7 +105,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 10866,Saku Rock,Bakkus ehf.,eistland,,,,5.3,,60LL,false,500.0,,dós,beer,,{},327,false,false,false,2013-12-01,true,false
 10873,Kanonkop Cabernet Sauvignon,Haugen-Gruppen ehf.,suðurafríka,,simonsberg stellenbosch,2002,14.0,cabernet sauvignon,,false,750.0,,flaska,red,,"{E,L,S,Y}",5039,false,true,false,2008-08-01,false,false
 10878,Vina Maipo Vitral Reserva Cabernet Sauvignon,Globus hf,chile,valledecen,valle del maipo,2012,13.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,Y}",1899,false,false,false,2015-03-01,true,false
-10879,Vina Maipo Vitral Reserva Carmenere,Globus hf,chile,valledecen,rapel valley,2012,13.5,carmenere,01M,false,750.0,korkur,flaska,red,,"{E,F,J,S,Y}",1899,false,false,false,2013-11-01,true,false
 10882,Vina Maipo Vitral Reserva Chardonnay,Globus hf,chile,aconcagua,valle de casablanca,2013,13.5,chardonnay,02L,false,750.0,korkur,flaska,white,,"{A,B,C,Y}",1899,false,false,false,2015-03-01,true,false
 10885,Alamos Merlot,Bakkus ehf.,argentína,mendoza,mendoza,2013,13.0,merlot,01M,false,750.0,skrúftappi,flaska,red,,"{2,E,F,J,Y}",1999,false,false,false,2015-07-01,true,false
 10887,Altano Duoro rautt,Bakkus ehf.,portúgal,,douro,2012,13.5,tinta barroca,01M,false,750.0,korkur,flaska,red,,"{1,G,J,P,Y}",1898,false,false,false,2014-09-01,true,false
@@ -894,7 +893,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21121,Pata Negra Cava Semi Seco,Globus hf,spánn,,cava,,11.5,xarel.lo,04M,false,750.0,korkur,flaska,bubbly,,"{K,P}",1498,false,false,false,2015-12-01,true,false
 21124,Úlfur Úlfur Double IPA nr. 17,Ölgerðin Egill Skallagríms ehf,ísland,,,,9.0,,61ÖL,false,330.0,crown,flaska,beer,,{},777,true,false,false,2016-04-01,true,false
 21125,Montes Twins Malbec Cabernet Sauvignon,Globus hf,chile,valledecen,colchagua valley,2012,14.0,cabernet sauvignon,01T,false,750.0,skrúftappi,flaska,red,,"{F,G,J,S,Y}",2199,false,false,false,2013-12-01,true,false
-21126,Trivento Tribu Cabernet Sauvignon,Globus hf,argentína,mendoza,mendoza,2014,13.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{D,F,G,T,Y}",1699,false,false,false,2016-02-01,true,false
+21126,Trivento Tribu Cabernet Sauvignon,Globus hf,argentína,mendoza,mendoza,2014,14.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{D,F,G,T,Y}",1699,false,false,false,2016-02-01,true,false
 21129,Björk & Birkir í gjafaöskju,Globus hf,ísland,,,,31.7,,,false,1000.0,korktappi,askja,strong,snaps,{},11199,false,false,false,2013-06-01,true,true
 21130,Vínhandbókin,ENNEMM ehf,,,,,0.0,,,false,0.0,,stykki,wrapper,,{},585,false,false,false,2013-05-16,true,false
 21132,Steðji Dökkur,Brugghús Steðja ehf.,ísland,,,,5.1,,60DL,false,330.0,crown,flaska,beer,,{},380,false,false,false,2015-06-01,true,false
@@ -955,7 +954,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21320,Castelforte Pinot Grigio,JK Holding premium ehf.,ítalía,,venezie,2015,13.5,pinot grigio,02L,false,750.0,korkur,flaska,white,,"{3,D,I,Y}",1893,false,false,false,2016-03-01,true,false
 21326,Gentleman Jack Tennessee Whiskey,Mekka Wines & Spirits hf,bandaríkin,,tennessee,,40.0,,,false,1000.0,skrúftappi,flaska,strong,whisky,{},10999,false,false,false,2015-01-01,true,false
 21340,Apothic Red,Globus hf,bandaríkin,,kalifornía,2012,13.5,zinfandel,01MM,false,750.0,plasttappi,flaska,red,,"{D,G,J,R,Y}",2199,false,false,false,2014-04-01,true,false
-21341,Barefoot Bubbly Pink Moscato,Globus hf,bandaríkin,,,,8.0,pink moscato,04S,false,750.0,korkur,flaska,bubbly,,"{A,N,Y}",1399,false,false,false,2014-11-01,true,false
 21342,Prince de Richemont Demi-Sec Blanc de Blancs,Globus hf,frakkland,,,,11.5,,04M,false,750.0,korkur,flaska,bubbly,,"{A,P,Y}",1599,false,false,false,2015-01-01,true,false
 21344,Camus Borderies VSOP,Globus hf,frakkland,cognac,cognac borderies,,40.0,,,false,700.0,skrúftappi,flaska,strong,brandy,{},9799,false,false,false,2015-10-01,true,false
 21352,Grand Marnier í gjafaöskju með aukahlut,Ölgerðin Egill Skallagríms ehf,frakkland,,,,40.0,,,false,700.0,korktappi,gjafaaskja,strong,liqueur,{},7599,false,false,false,2013-12-01,true,true
