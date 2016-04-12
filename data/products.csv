@@ -657,7 +657,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 19049,Castillo Perelada Brut Nature Magnum,Ber ehf,spánn,,cava,2007,11.5,parellada,04,false,1500.0,korkur,flaska,bubbly,,"{A,B,C,P,Y}",5123,false,false,false,2012-07-01,true,false
 19052,Rabarbara,Víngerð Reykjavíkur ehf,ísland,,,,21.0,,,false,200.0,skrúftappi,flaska,strong,liqueur,{},2999,false,false,false,2012-07-01,true,false
 1906,Courvoisier XO Imperial,Haugen-Gruppen ehf.,frakkland,cognac,cognac,,40.0,,,false,700.0,,flaska,strong,brandy,{},17866,false,false,false,2013-06-01,true,false
-19079,Fuzion Torrontes,Vistir Wine estate ehf,argentína,mendoza,mendoza,2010,13.0,torrontes,02L,false,750.0,,flaska,white,,"{A,C,D,I,Y}",1591,false,false,false,2012-09-01,true,false
 19080,Fuzion Brut,Vistir Wine estate ehf,argentína,,,,12.5,,,false,750.0,korkur,flaska,bubbly,,"{A,C,D,P}",1975,false,false,false,2012-10-01,true,false
 19094,Larsen VSOP,Ölgerðin Egill Skallagríms ehf,frakkland,,,,40.0,,,false,500.0,skrúftappi,peli,strong,brandy,{},5799,false,false,false,2013-11-01,true,false
 19103,Excelsior Chardonnay,German ehf.,suðurafríka,breederive,robertson,2014,13.5,chardonnay,02M,false,750.0,skrúftappi,flaska,white,,"{A,B,C,I,Y}",2190,false,false,false,2015-11-01,true,false
@@ -1677,7 +1676,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 3382,Vaucher Chablis,AMKA Ísland ehf.,frakkland,bourgogne,chablis,2014,12.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",2998,false,false,false,2013-11-01,true,false
 3385,Piccini Chianti,Ölgerðin Egill Skallagríms ehf,ítalía,toskana,chianti,2014,12.5,sangiovese,01M,false,750.0,korkur,flaska,red,,"{D,I,L,P,Y}",1795,false,false,false,2009-06-01,true,false
 3406,Villa Antinori rautt,Globus hf,ítalía,toskana,toscana,2012,13.5,sangiovese,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",2999,false,false,false,2002-05-01,true,false
-3411,Chateau Cantenac Brown,Globus hf,frakkland,bordeaux,margaux,2008,13.5,,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",11009,false,false,false,2009-11-01,true,false
+3411,Chateau Cantenac Brown,Globus hf,frakkland,bordeaux,margaux,2008,13.5,,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",11999,false,false,false,2009-11-01,true,false
 3412,Jacob's Creek Shiraz Cabernet,Mekka Wines & Spirits hf,ástralía,,south eastern australia,2011,13.9,shiraz,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,M,P,Y}",1999,false,false,false,2003-02-01,true,false
 3413,Jacob's Creek Riesling,Mekka Wines & Spirits hf,ástralía,enginn,south eastern australia,2015,12.1,riesling,02L,false,750.0,skrúftappi,flaska,white,,"{C,I,M,P,Y}",1899,false,false,false,2009-04-01,true,false
 3435,Dr Loosen Wehlener Sonnenuhr Riesling Kabinett,Vínfélagið ehf,þýskaland,mosel,mosel,2013,8.0,riesling,02LM,false,750.0,skrúftappi,flaska,white,,"{2,4,C,K,R,Y}",2495,false,false,false,2013-11-01,true,false
@@ -1791,7 +1790,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 455,Mateus,Mekka Wines & Spirits hf,portúgal,,,,10.0,,03M,false,375.0,skrúftappi,flaska,rose,,"{A,D,I,P,Y}",779,false,false,false,2013-04-01,true,false
 4573,Tuborg Gold,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.5,,60LL,false,500.0,,dós,beer,,{},384,false,false,false,2003-04-01,true,false
 4574,Tuborg Gold,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.5,,60LL,false,330.0,crown,flaska,beer,,{},329,false,false,false,2016-04-01,true,false
-4586,Disznoko Tokaji Aszu 5 Puttonyos,Globus hf,ungverjaland,,tokaj hegyalia,2005,11.5,,02TS,false,500.0,korkur,flaska,white,,"{L,N,Æ}",4776,false,false,false,2008-11-01,true,false
+4586,Disznoko Tokaji Aszu 5 Puttonyos,Globus hf,ungverjaland,,tokaj hegyalia,2005,11.5,,02TS,false,500.0,korkur,flaska,white,,"{L,N,Æ}",4499,false,false,false,2008-11-01,true,false
 46,Chateau Coucheroy,Vínfélagið ehf,frakkland,bordeaux,pessac-leognan,2011,13.0,merlot,01M,false,750.0,korkur,flaska,red,,"{D,G,L,S,Y}",3180,false,false,false,2010-10-01,true,false
 4631,Tinda vodka,Ölgerðin Egill Skallagríms ehf,ísland,,,,37.5,,,false,500.0,skrúftappi,flaska,strong,vodka,{},3759,false,false,false,2008-11-01,true,false
 470,Riunite Blush Bianco,Bakkus ehf.,ítalía,,,,8.0,,03M,false,750.0,skrúftappi,flaska,rose,,"{A,P,Y}",1198,false,false,false,1998-08-01,true,false
