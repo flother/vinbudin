@@ -384,7 +384,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 14072,Torres Celeste Crianza,Karl K. Karlsson ehf.,spánn,castilla y,ribera del duero,2012,14.0,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,H,J,T,Æ}",2890,false,false,false,2010-05-01,true,false
 14079,Masi Modello rautt,Ölgerðin Egill Skallagríms ehf,ítalía,,venezie,2015,12.0,,01M,false,3000.0,Vitop,box,red,,"{2,D,G,M,Y}",6580,false,false,false,2009-09-01,true,false
 1410,Moet & Chandon Rose Imperial,Ölgerðin Egill Skallagríms ehf,frakkland,,,,12.0,chardonnay,04,false,750.0,korkur,flaska,bubbly,,"{A,C,I,P,Y}",8499,false,false,false,2015-08-01,true,false
-14113,Life Club Classic,Magnval ehf,búlgaría,,,,37.5,,,false,500.0,skrúftappi,peli,strong,vodka,{},3526,false,false,false,2015-02-01,true,false
+14113,Life Club Classic,Avons ehf,búlgaría,,,,37.5,,,false,500.0,skrúftappi,peli,strong,vodka,{},3526,false,false,false,2015-02-01,true,false
 14149,Messias Reserva,Elgur ehf,portúgal,,douro,2010,12.5,tinta roriz,01M,false,750.0,korkur,flaska,red,,"{E,F,G,P,Y}",2490,false,false,false,2010-08-01,true,false
 14167,Anchor Porter,Elgur ehf,bandaríkin,,,,5.6,,61SP,false,355.0,crown,flaska,beer,,{},698,false,false,false,2013-08-09,true,false
 14170,Weihenstephaner Dunkel Hefe Weissbier,Elgur ehf,þýskaland,,,,5.3,,62HV,false,500.0,crown,flaska,beer,,{},689,false,false,false,2010-07-01,true,false
@@ -515,7 +515,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 17530,Don Luciano Moscato,HOB-vín ehf,spánn,,,,7.0,moscato bianco,04M,false,750.0,korkur,flaska,bubbly,,"{A,O,P,Y}",899,false,false,false,2010-04-01,true,false
 17531,Castillo de Gredos hvítt,HOB-vín ehf,spánn,,,,12.0,airen,02L,false,3000.0,,box,white,,"{A,I,P,Y}",4999,false,false,false,2011-07-01,true,false
 17569,Don Luciano Crianza,HOB-vín ehf,spánn,castilla l,la mancha,2011,13.0,tempranillo,01M,false,750.0,korkur,flaska,red,,"{A,D,P,Y}",1499,false,false,false,2013-05-01,true,false
-17577,Life Club Classic,Magnval ehf,búlgaría,,,,37.5,,,false,200.0,skrúftappi,peli,strong,vodka,{},1658,false,false,false,2015-02-01,true,false
+17577,Life Club Classic,Avons ehf,búlgaría,,,,37.5,,,false,200.0,skrúftappi,peli,strong,vodka,{},1658,false,false,false,2015-02-01,true,false
 17604,Víking Lager,Vífilfell hf.,ísland,,,,4.5,,60LL,false,330.0,,dós,beer,,{},199,false,false,false,2010-04-01,true,false
 17607,Lívsins vatn,Dism Spf.,færeyjar,,,,38.0,,,false,700.0,skrúftappi,flaska,strong,snaps,{},5190,false,false,false,2011-08-01,true,false
 17608,Fuller's India Pale Ale,Winehouse ehf,stórabretland,,,,5.3,,61ÖL,false,500.0,crown,flaska,beer,,{},690,false,false,false,2010-07-01,true,false
@@ -962,7 +962,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21365,Kopparberg Strawberry Lime Cider,Mekka Wines & Spirits hf,svíþjóð,,,,4.5,,,false,330.0,crown,flaska,cidersoda,cider,{},279,false,false,false,2015-01-01,true,false
 21370,Cono Sur Riesling Reserva Especial,Rolf Johansen & Co ehf,chile,regiondels,bio bio,2012,13.5,riesling,02M,false,750.0,skrúftappi,flaska,white,,"{A,B,C,D,Y}",2335,false,false,false,2015-02-01,true,false
 21371,Cono Sur Sauvignon Blanc Reserva Especial,Rolf Johansen & Co ehf,chile,aconcagua,valle de casablanca,2014,13.0,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{B,C,D,L,Y}",2335,false,false,false,2016-02-01,true,false
-21372,Cono Sur Cabernet Sauvignon Reserva Especial,Rolf Johansen & Co ehf,chile,valledecen,valle del maipo,2013,14.0,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",2335,false,false,false,2014-12-01,true,false
 21373,Cono Sur Pinot Noir Reserva Especial,Rolf Johansen & Co ehf,chile,aconcagua,san antonio,2014,14.0,pinot noir,01M,false,750.0,skrúftappi,flaska,red,,"{2,C,D,G,R,Y}",2425,false,false,false,2014-11-01,true,false
 21375,Brundlmayer Riesling Kamptaler Terrassen,Rolf Johansen & Co ehf,austurríki,niederoste,kamptal,2012,12.5,riesling,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,Æ}",3150,false,false,false,2015-02-01,true,false
 21381,Vondeling Baldrick Shiraz,E.H. Einars ehf.,suðurafríka,,paardeberg,2012,14.0,shiraz,01M,false,750.0,skrúftappi,flaska,red,,"{E,F,J,S,Æ}",2122,false,false,false,2015-05-01,true,false
@@ -1196,7 +1195,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21999,Föroya 1888 Gyltur Veðrur,Föroya Bjór ehf,færeyjar,,,,10.0,,61ÖL,false,330.0,crown,flaska,beer,,{},599,false,false,false,2015-05-01,true,false
 22000,Föroya Sterkur Veðrur,Föroya Bjór ehf,færeyjar,,,,7.2,,60LL,false,330.0,,dós,beer,,{},448,false,false,false,2015-05-01,true,false
 22001,Carawine,Ölgerðin Egill Skallagríms ehf,ítalía,puglia,puglia,2013,14.0,,01M,false,3000.0,,box,red,,"{E,F,J,M,Y}",6659,false,false,false,2015-04-01,true,false
-22002,Montalto Nero d'Avola Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,ítalía,sikiley,terre siciliane,,13.5,cabernet sauvignon,01M,false,3000.0,Vitop,box,red,,"{3,D,M,P,Y}",5998,false,false,false,2015-04-01,true,false
+22002,Montalto Nero d'Avola Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,ítalía,sikiley,terre siciliane,,13.5,cabernet sauvignon,01M,false,3000.0,Vitop,box,red,,"{D,J,K,R,Y}",5998,false,false,false,2015-04-01,true,false
 22003,Montalto Pinot Grigio,Ölgerðin Egill Skallagríms ehf,ítalía,sikiley,sicilia,,12.0,pinot grigio,02L,false,3000.0,,box,white,,"{C,M,P,Y}",5580,false,false,false,2015-10-01,true,false
 22004,Grevens Skogsbær,Smádeilur ehf,noregur,,,,4.7,,,false,500.0,,dós,cidersoda,cider,{},491,false,false,false,2015-12-01,true,false
 22005,Grevens Pærecider,Smádeilur ehf,noregur,,,,4.7,,,false,500.0,,dós,cidersoda,cider,{},491,false,false,false,2015-05-01,true,false
@@ -1437,7 +1436,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22309,Lamberti Prosecco,Haugen-Gruppen ehf.,ítalía,veneto,prosecco,,11.0,glera,04,false,750.0,korkur,flaska,bubbly,,"{A,P,Y}",1999,false,false,false,2015-12-01,true,false
 22311,Mosketto delicate sweet red,Ölgerðin Egill Skallagríms ehf,ítalía,,,,5.5,,,false,750.0,skrúftappi,flaska,fortified,fruit,{},950,false,false,false,2015-11-01,true,false
 22312,Mosketto Delicate Sweet White,Ölgerðin Egill Skallagríms ehf,ítalía,,,,5.0,,,false,750.0,skrúftappi,flaska,fortified,fruit,{},950,false,false,false,2015-11-01,true,false
-22313,Casa Nostra Appassimento,Vínfélagið ehf,ítalía,puglia,puglia,,13.0,nero di troia,01M,false,3000.0,,box,red,,"{G,I,J,Y}",5999,false,false,false,2015-11-01,true,false
+22313,Casa Nostra Appassimento,Vínfélagið ehf,ítalía,puglia,puglia,,13.0,nero di troia,01M,false,3000.0,,box,red,,"{2,M,P,R}",5999,false,false,false,2015-11-01,true,false
 22314,Ogier Cotes du Rhone Gentilhomme,Bakkus ehf.,frakkland,rhone,cotes-du-rhone,2013,13.0,,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,L,Y}",1999,false,false,false,2015-11-01,true,false
 22315,Baron de Venzac Saint-Emilion,Bakkus ehf.,frakkland,bordeaux,saint-emilion,2013,12.5,merlot,01L,false,750.0,korkur,flaska,red,,"{F,G,L,P,Y}",3298,false,false,false,2016-01-01,true,false
 22316,Achaval Ferrer Cabernet Sauvignon,Ber ehf,argentína,mendoza,mendoza,2013,14.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,L,S,Æ}",3491,false,false,false,2015-11-01,true,false
@@ -1628,7 +1627,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 2701,Cidre Bouche Lemasson Brut,Vínekran Bourgogne ehf,frakkland,,,,5.0,,,true,750.0,korkur,flaska,cidersoda,cider,{},1590,false,false,false,2015-11-01,true,false
 2725,Liefmans Kriek Brut ávaxtabjór,Elgur ehf,belgía,,,,6.0,,62ÁK,false,330.0,crown,flaska,beer,,{},799,false,false,false,2013-08-09,true,false
 2744,Bollinger Special Cuvee,Vífilfell hf.,frakkland,champagne,champagne,,12.0,pinot noir,04,false,375.0,korkur,flaska,bubbly,,"{A,Y}",3999,false,false,false,2013-07-01,true,false
-2754,Joseph Cartron Pisang,Mekka Wines & Spirits hf,frakkland,,,,21.0,,,false,500.0,,flaska,strong,liqueur,{},3299,false,false,false,2008-11-01,true,false
 2771,Tempt 3 Apple,HOB-vín ehf,danmörk,,,,4.5,,,false,330.0,,dós,cidersoda,cider,{},199,false,false,false,2013-12-01,true,false
 2777,Kilbeggan 8 ára,Haugen-Gruppen ehf.,írland,,,,40.0,,,false,700.0,korktappi,flaska,strong,whisky,{},7699,false,false,false,2013-01-01,true,false
 2789,Columbia Crest Grand Estates Merlot,Bakkus ehf.,bandaríkin,washington,columbia valley,2012,13.5,merlot,01T,false,750.0,korkur,flaska,red,,"{E,F,S,T,Æ}",2798,false,false,false,2010-06-01,true,false
@@ -2064,7 +2062,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 7155,Pasqua Chardonnay Organic,Rolf Johansen & Co ehf,ítalía,,venezie,2014,12.5,chardonnay,02L,true,3000.0,,box,white,,"{A,I,P,Y}",5995,false,false,false,2015-02-01,true,false
 7197,Faxe Premium,HOB-vín ehf,danmörk,,,,5.0,,60LL,false,1000.0,,dós,beer,,{},699,false,false,false,2015-10-01,true,false
 7216,De Kuyper Butterscotch,Globus hf,holland,,,,15.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},2398,false,false,false,2016-01-01,true,false
-7237,Mosen Cleto Crianza,Magnval ehf,spánn,aragon,campo de borja,2011,12.5,garnacha,01M,false,750.0,korkur,flaska,red,,"{F,G,J,P,Y}",1990,false,false,false,2016-03-01,true,false
+7237,Mosen Cleto Crianza,Avons ehf,spánn,aragon,campo de borja,2011,12.5,garnacha,01M,false,750.0,korkur,flaska,red,,"{F,G,J,P,Y}",1990,false,false,false,2016-03-01,true,false
 7250,Faxe Royal,HOB-vín ehf,danmörk,,,,5.6,,60LL,false,500.0,,dós,beer,,{},359,false,false,false,2003-11-01,true,false
 7251,Vina Maipo Cabernet Merlot,Globus hf,chile,valledecen,valle central,2013,12.0,cabernet sauvignon,01L,false,750.0,skrúftappi,flaska,red,,"{D,I,L,M,Y}",1399,false,false,false,2005-09-01,true,false
 7256,Jagermeister,Ölgerðin Egill Skallagríms ehf,þýskaland,,,,35.0,,,false,1000.0,skrúftappi,flaska,strong,bitterspice,{},8390,false,false,false,2008-09-01,true,false
