@@ -786,7 +786,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 20575,Vikingfjord Blueberry Ice Shot,Haugen-Gruppen ehf.,noregur,,,,20.0,,,false,700.0,skrúftappi,flaska,strong,shots,{},2499,false,false,false,2015-06-01,true,false
 20579,Linie Aquavit,Haugen-Gruppen ehf.,noregur,,,,41.5,,,false,500.0,skrúftappi,flaska,strong,snaps,{},4999,false,false,false,2013-08-01,true,false
 20581,Fireball Cinnamon,Haugen-Gruppen ehf.,kanada,,,,33.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},3999,false,false,false,2013-08-01,true,false
-20583,Marques de Casa Concha Pinot Noir,Mekka Wines & Spirits hf,chile,coquim,limarí valley,2013,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{C,D,G,P,Y}",2999,false,false,false,2014-10-01,true,false
+20583,Marques de Casa Concha Pinot Noir,Mekka Wines & Spirits hf,chile,coquim,limarí valley,2013,14.0,pinot noir,01M,false,750.0,korkur,flaska,red,,"{C,D,G,P,Y}",2999,false,false,false,2014-10-01,true,false
 20586,64° Brennivín 50,Víngerð Reykjavíkur ehf,ísland,,,,50.0,,,false,200.0,skrúftappi,flaska,strong,snaps,{},3399,false,false,false,2013-07-01,true,false
 20607,Domaine Weinbach Riesling Cuvee Theo,Föroya Bjór ehf,frakkland,alsace,alsace ac,2014,13.5,riesling,02M,false,750.0,korkur,flaska,white,,"{4,B,C,I,Æ}",4388,false,false,false,2015-12-01,true,false
 20608,Domaine Weinbach Gewurztraminer Cuvee Theo,Föroya Bjór ehf,frakkland,alsace,alsace ac,2014,13.5,gewurztraminer,02MM,false,750.0,korkur,flaska,white,,"{2,4,K,L,Y}",4960,false,false,false,2015-12-01,true,false
@@ -885,6 +885,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 2111,Smirnoff Espresso,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,37.5,,,false,1000.0,skrúftappi,flaska,strong,vodka,{},7499,false,false,false,2015-12-01,true,false
 21111,Freixenet Legero - óáfengt,Vín Tríó ehf,spánn,,,,0.0,muscat,,false,750.0,,flaska,other,,{},1229,false,false,false,2014-07-01,true,false
 21113,Piccini Rosso,Ölgerðin Egill Skallagríms ehf,ítalía,,,,12.5,,01L,false,187.0,skrúftappi,flaska,red,,"{D,G,M,P,Y}",499,false,false,false,2015-10-01,true,false
+21115,J.P. Chenet Medium Sweet,Mekka Wines & Spirits hf,frakkland,,cotes de thau,2014,11.0,,02LM,false,3000.0,,box,white,,"{2,A,K,P,Y}",4999,false,false,false,2016-02-01,true,false
 21117,Bienvenido Gran Reserva Tempranillo,HOB-vín ehf,spánn,castilla l,valdepenas,2006,13.0,tempranillo,01M,false,750.0,korkur,flaska,red,,"{E,F,J,T,Y}",1499,false,false,false,2014-05-01,true,false
 21118,Mayor de Castilla Crianza,HOB-vín ehf,spánn,castilla y,ribera del duero,2011,14.0,tinta del pais,01M,false,750.0,korkur,flaska,red,,"{F,G,J,Y}",2099,false,false,false,2014-06-01,true,false
 21120,Pata Negra Cava Brut,Globus hf,spánn,,cava,,11.5,,04,false,750.0,korkur,flaska,bubbly,,"{4,A,B,P,Y}",1498,false,false,false,2015-09-01,true,false
@@ -1791,7 +1792,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 46,Chateau Coucheroy,Vínfélagið ehf,frakkland,bordeaux,pessac-leognan,2011,13.0,merlot,01M,false,750.0,korkur,flaska,red,,"{D,G,L,S,Y}",3180,false,false,false,2010-10-01,true,false
 4631,Tinda vodka,Ölgerðin Egill Skallagríms ehf,ísland,,,,37.5,,,false,500.0,skrúftappi,flaska,strong,vodka,{},3759,false,false,false,2008-11-01,true,false
 470,Riunite Blush Bianco,Bakkus ehf.,ítalía,,,,8.0,,03M,false,750.0,skrúftappi,flaska,rose,,"{A,P,Y}",1198,false,false,false,1998-08-01,true,false
-4702,Chateau Lanessan,Ber ehf,frakkland,bordeaux,haut-medoc,2004,13.0,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{F,H,L,T,Y}",4151,false,false,false,2010-03-01,true,false
+4702,Chateau Lanessan,Ber ehf,frakkland,bordeaux,haut-medoc,2004,14.0,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{F,H,L,T,Y}",4151,false,false,false,2010-03-01,true,false
 4707,Planeta La Segreta hvítt,Vínfélagið ehf,ítalía,sikiley,sicilia,2014,12.5,grecanico,02M,false,750.0,korkur,flaska,white,,"{C,I,M,P,Y}",2499,false,false,false,2016-02-01,true,false
 4711,Pernod,Mekka Wines & Spirits hf,frakkland,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,snaps,{},6199,false,false,false,2010-04-01,true,false
 4713,Moosehead Lager,Elgur ehf,kanada,,,,5.0,,60LL,false,350.0,crown,flaska,beer,,{},299,false,false,false,2010-02-01,true,false
@@ -2224,7 +2225,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 90097,Flöskupoki - Corona 2 litir,Danco - Daníel Pétursson ehf.,,,,,0.0,,,false,0.0,,stykki,wrapper,,{},790,false,false,false,2014-11-01,true,false
 90098,Burðarpokar - rauðir margnota - veski,Green Bag (Rec.) Ltd.,kína,,,,0.0,,,false,0.0,,stykki,wrapper,,{},180,false,false,false,2014-06-03,true,false
 901,Absolut,Globus hf,svíþjóð,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5599,false,false,false,2000-01-01,true,false
-90132,Flöskupoki Book Club brúnn - tvöfaldur,Ásbjörn Ólafsson ehf,kína,,,,0.0,,,false,0.0,,stykki,wrapper,,{},485,false,false,false,2015-04-20,true,false
 90133,Flöskupoki Book Club hvítur - tvöfaldur,Ásbjörn Ólafsson ehf,kína,,,,0.0,,,false,0.0,,stykki,wrapper,,{},487,false,false,false,2015-04-20,true,false
 90147,Flöskupoki - Tígull,Danco - Daníel Pétursson ehf.,,,,,0.0,,,false,0.0,,stykki,wrapper,,{},520,false,false,false,2015-08-14,true,false
 90148,Flöskupoki - Hekla hreindýr - rauður,heklaislandi ehf,ísland,,,,0.0,,,false,0.0,,stykki,wrapper,,{},524,false,false,false,2015-09-08,true,false
