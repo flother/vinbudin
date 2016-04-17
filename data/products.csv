@@ -973,7 +973,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21394,Altano Reserva Quinta do Ataide,Bakkus ehf.,portúgal,,douro,2009,14.0,touriga nacional,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",3455,false,false,false,2015-03-01,true,false
 21398,Patron Anejo Tequila,Karl K. Karlsson ehf.,mexíkó,,,,40.0,,,false,700.0,korktappi,flaska,strong,tequila,{},12835,false,false,false,2015-03-01,true,false
 21401,Giacondi Cabernet rautt,Ölgerðin Egill Skallagríms ehf,ítalía,,,,12.5,cabernet,01L,false,3000.0,,box,red,,"{E,G,L,P,Y}",5740,false,false,false,2014-11-01,true,false
-21402,Giacondi Pinot Grigio,Ölgerðin Egill Skallagríms ehf,ítalía,,venezie,,12.0,pinot grigio,02L,false,3000.0,,box,white,,"{A,C,I,Y}",5935,false,false,false,2014-10-01,true,false
 21403,Torres Habitat Garnacha Syrah,Karl K. Karlsson ehf.,spánn,catalunya,catalunya,2012,14.0,garnacha,01L,true,750.0,korkur,flaska,red,,"{G,J,M,Y}",2590,false,false,false,2015-03-01,true,false
 21404,Giacondi Chardonnay,Ölgerðin Egill Skallagríms ehf,ítalía,,venezie,2014,12.0,chardonnay,02L,false,750.0,korkur,flaska,white,,"{A,B,P,Y}",1515,false,false,false,2015-04-01,true,false
 21405,Torres Habitat Garnacha Xarel.lo,Karl K. Karlsson ehf.,spánn,catalunya,catalunya,2012,13.0,garnacha,02M,true,750.0,korkur,flaska,white,,"{A,B,P,Y}",2490,false,false,false,2015-03-01,true,false
@@ -2115,7 +2114,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 772,Scottish Leader,Globus hf,stórabretland,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,whisky,{},5899,false,false,false,1995-11-01,true,false
 773,Scottish Leader,Globus hf,stórabretland,,,,40.0,,,false,350.0,skrúftappi,flaska,strong,whisky,{},3299,false,false,false,1997-06-01,true,false
 7731,Beronia Crianza,Bakkus ehf.,spánn,,rioja,2012,13.5,tempranillo,01M,false,750.0,skrúftappi,flaska,red,,"{1,D,G,P,Y}",2299,false,false,false,2003-09-01,true,false
-7732,Föroya Páskabryggj,Föroya Bjór ehf,færeyjar,,,,5.8,,60DL,false,330.0,crown,flaska,beer,,{},359,true,false,false,2016-02-09,true,false
 7737,Guelbenzu Evo,Ber ehf,spánn,navarra,ribera del queiles,2007,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",2965,false,false,false,2009-11-01,true,false
 7738,Pesquera Reserva,Ber ehf,spánn,castilla y,ribera del duero,2008,14.0,tempranillo,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",4660,false,false,false,2012-09-01,true,false
 7739,Pesquera Crianza,Ber ehf,spánn,castilla y,ribera del duero,2012,13.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,H,T,Æ}",3581,false,false,false,2009-06-01,true,false

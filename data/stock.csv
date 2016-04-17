@@ -1140,7 +1140,7 @@ product_id,region,store,quantity
 479,Austurland,Neskaupstað,5
 479,Vestfirðir,Patreksfirði,5
 479,Suðurland,Reykjanesbæ,3
-479,Austurland,Reyðarfirði,7
+479,Austurland,Reyðarfirði,6
 479,Norðurland,Sauðárkróki,3
 479,Suðurland,Selfossi,5
 479,Austurland,Seyðisfirði,6
@@ -4178,7 +4178,7 @@ product_id,region,store,quantity
 1446,Austurland,Neskaupstað,440
 1446,Vestfirðir,Patreksfirði,34
 1446,Suðurland,Reykjanesbæ,1540
-1446,Austurland,Reyðarfirði,260
+1446,Austurland,Reyðarfirði,230
 1446,Norðurland,Sauðárkróki,824
 1446,Suðurland,Selfossi,1950
 1446,Austurland,Seyðisfirði,129
@@ -6872,7 +6872,7 @@ product_id,region,store,quantity
 3951,Höfuðborgarsvæðið,Mosfellsbæ,316
 3951,Austurland,Neskaupstað,445
 3951,Suðurland,Reykjanesbæ,1233
-3951,Austurland,Reyðarfirði,410
+3951,Austurland,Reyðarfirði,400
 3951,Norðurland,Sauðárkróki,576
 3951,Suðurland,Selfossi,1702
 3951,Austurland,Seyðisfirði,144
@@ -7780,7 +7780,7 @@ product_id,region,store,quantity
 4519,Austurland,Neskaupstað,15
 4519,Vestfirðir,Patreksfirði,8
 4519,Suðurland,Reykjanesbæ,23
-4519,Austurland,Reyðarfirði,14
+4519,Austurland,Reyðarfirði,13
 4519,Norðurland,Sauðárkróki,13
 4519,Suðurland,Selfossi,17
 4519,Austurland,Seyðisfirði,13
@@ -9226,7 +9226,7 @@ product_id,region,store,quantity
 5478,Austurland,Neskaupstað,5
 5478,Vestfirðir,Patreksfirði,9
 5478,Suðurland,Reykjanesbæ,11
-5478,Austurland,Reyðarfirði,3
+5478,Austurland,Reyðarfirði,2
 5478,Norðurland,Sauðárkróki,9
 5478,Suðurland,Selfossi,19
 5478,Norðurland,Siglufirði,25
@@ -12355,7 +12355,6 @@ product_id,region,store,quantity
 7731,Vesturland,Ólafsvík,5
 7731,Suðurland,Þorlákshöfn,3
 7731,Austurland,Þórshöfn,7
-7732,Höfuðborgarsvæðið,Heiðrún,6
 7737,Norðurland,Akureyri,6
 7737,Höfuðborgarsvæðið,Eiðistorgi,1
 7737,Höfuðborgarsvæðið,Hafnarfirði,3
@@ -13604,7 +13603,7 @@ product_id,region,store,quantity
 9005,Austurland,Neskaupstað,10
 9005,Vestfirðir,Patreksfirði,4
 9005,Suðurland,Reykjanesbæ,28
-9005,Austurland,Reyðarfirði,12
+9005,Austurland,Reyðarfirði,11
 9005,Norðurland,Sauðárkróki,15
 9005,Suðurland,Selfossi,11
 9005,Austurland,Seyðisfirði,6
@@ -15957,7 +15956,7 @@ product_id,region,store,quantity
 10786,Austurland,Neskaupstað,108
 10786,Vestfirðir,Patreksfirði,17
 10786,Suðurland,Reykjanesbæ,275
-10786,Austurland,Reyðarfirði,121
+10786,Austurland,Reyðarfirði,115
 10786,Norðurland,Sauðárkróki,260
 10786,Suðurland,Selfossi,169
 10786,Austurland,Seyðisfirði,70
@@ -16784,7 +16783,7 @@ product_id,region,store,quantity
 11508,Austurland,Neskaupstað,6
 11508,Vestfirðir,Patreksfirði,10
 11508,Suðurland,Reykjanesbæ,27
-11508,Austurland,Reyðarfirði,9
+11508,Austurland,Reyðarfirði,5
 11508,Norðurland,Sauðárkróki,8
 11508,Suðurland,Selfossi,19
 11508,Austurland,Seyðisfirði,11
@@ -17396,7 +17395,7 @@ product_id,region,store,quantity
 11814,Austurland,Neskaupstað,68
 11814,Vestfirðir,Patreksfirði,12
 11814,Suðurland,Reykjanesbæ,324
-11814,Austurland,Reyðarfirði,161
+11814,Austurland,Reyðarfirði,155
 11814,Norðurland,Sauðárkróki,131
 11814,Suðurland,Selfossi,137
 11814,Austurland,Seyðisfirði,76
@@ -19197,7 +19196,7 @@ product_id,region,store,quantity
 13957,Höfuðborgarsvæðið,Mosfellsbæ,110
 13957,Austurland,Neskaupstað,112
 13957,Suðurland,Reykjanesbæ,108
-13957,Austurland,Reyðarfirði,100
+13957,Austurland,Reyðarfirði,90
 13957,Norðurland,Sauðárkróki,7
 13957,Suðurland,Selfossi,157
 13957,Höfuðborgarsvæðið,Skeifunni,171
@@ -19274,7 +19273,7 @@ product_id,region,store,quantity
 13983,Austurland,Neskaupstað,99
 13983,Vestfirðir,Patreksfirði,37
 13983,Suðurland,Reykjanesbæ,177
-13983,Austurland,Reyðarfirði,78
+13983,Austurland,Reyðarfirði,72
 13983,Norðurland,Sauðárkróki,183
 13983,Suðurland,Selfossi,103
 13983,Austurland,Seyðisfirði,43
@@ -25124,7 +25123,7 @@ product_id,region,store,quantity
 21461,Austurland,Neskaupstað,3
 21461,Vestfirðir,Patreksfirði,8
 21461,Suðurland,Reykjanesbæ,10
-21461,Austurland,Reyðarfirði,3
+21461,Austurland,Reyðarfirði,1
 21461,Norðurland,Sauðárkróki,2
 21461,Suðurland,Selfossi,4
 21461,Austurland,Seyðisfirði,3
