@@ -1530,6 +1530,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22433,Katla Vodka,Víngerð Reykjavíkur ehf,ísland,,,,40.0,,,false,700.0,plasttappi,flaska,strong,vodka,{},6299,false,false,false,2016-01-01,true,false
 22434,Katla Vodka,Víngerð Reykjavíkur ehf,ísland,,,,40.0,,,false,1000.0,,flaska,strong,vodka,{},8799,false,false,false,2016-01-01,true,false
 22436,Hoegaarden Wit-Blanche,Haugen-Gruppen ehf.,belgía,,,,4.9,,62HV,false,330.0,,dós,beer,,{},329,false,false,false,2016-04-01,true,false
+22437,Fjólubláa Höndin,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.6,,62ÁK,false,330.0,crown,flaska,beer,,{},1290,false,false,false,2016-04-18,true,false
 22438,Murphy-Goode Pinot Grigio,HOB-vín ehf,bandaríkin,,kalifornía,2011,13.5,pinot grigio,02M,false,750.0,skrúftappi,flaska,white,,"{M,P,Y}",1999,false,false,false,2016-02-01,true,false
 22439,Cantine Povero Chardonnay,Haugen-Gruppen ehf.,ítalía,,,,12.0,chardonnay,02L,false,3000.0,,box,white,,"{I,M,P,Y}",5362,false,false,false,2016-03-01,true,false
 22440,Cantine Povero Piemonte Barbera,Haugen-Gruppen ehf.,ítalía,piemonte,piemonte,2014,12.5,barbera,01L,false,3000.0,,box,red,,"{I,M,P,Y}",5999,false,false,false,2016-02-01,true,false
