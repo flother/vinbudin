@@ -437,7 +437,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 14765,Fortius Crianza,Haugen-Gruppen ehf.,spánn,navarra,navarra,2009,13.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,J,Y}",1999,false,false,false,2010-10-01,true,false
 14779,Ramon Roqueta Tempranillo,Haugen-Gruppen ehf.,spánn,catalunya,catalunya,2014,13.5,tempranillo,01M,false,750.0,skrúftappi,flaska,red,,"{D,G,M,P,Y}",1699,false,false,false,2015-11-01,true,false
 14782,Pata Negra Reserva Tempranillo,Globus hf,spánn,castilla l,valdepenas,2007,13.0,tempranillo,01M,false,750.0,korkur,flaska,red,,"{F,J,P,Y}",1798,false,false,false,2015-12-01,true,false
-148,Beronia Reserva,Bakkus ehf.,spánn,,rioja,2010,13.5,tempranillo,01M,false,750.0,korkur,flaska,red,,"{E,F,H,J,Æ}",2798,false,false,false,1997-04-01,true,false
+148,Beronia Reserva,Bakkus ehf.,spánn,,rioja,2010,14.0,tempranillo,01M,false,750.0,korkur,flaska,red,,"{E,F,H,J,Æ}",2798,false,false,false,1997-04-01,true,false
 14814,Fischer Classic Blauer Portugieser,Haugen-Gruppen ehf.,austurríki,,thermenregion,2011,12.5,portugieser,01L,false,750.0,skrúftappi,flaska,red,,"{C,D,I,M,Y}",1999,false,false,false,2010-12-01,true,false
 14822,Marques de Casa Concha Merlot,Mekka Wines & Spirits hf,chile,valledecen,peumo,2013,14.0,merlot,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",2999,false,false,false,2012-02-01,true,false
 14829,Vífilfell 5x50 cl dósir í öskju,Vífilfell hf.,ísland,,,,5.22,,60LL,false,2500.0,,askja,beer,,{},2230,false,false,false,2009-11-01,true,true
@@ -910,7 +910,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21189,Volcanic Gin,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,gin,{},5798,false,false,false,2014-10-01,true,false
 21191,Volcanic Vodka,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,500.0,skrúftappi,flaska,strong,vodka,{},3999,false,false,false,2015-10-01,true,false
 21192,Volcanic Vodka,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5529,false,false,false,2015-11-01,true,false
-21194,Banfi Aska Bolgheri,Bakkus ehf.,ítalía,toskana,bolgheri,2011,14.0,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",3498,false,false,false,2015-10-01,true,false
+21194,Banfi Aska Bolgheri,Bakkus ehf.,ítalía,toskana,bolgheri,2011,13.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",3498,false,false,false,2015-10-01,true,false
 21195,Banfi La Lus Albarossa,Bakkus ehf.,ítalía,piemonte,piemonte,2012,13.5,albarossa,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",2998,false,false,false,2014-02-01,true,false
 21196,Banfi Rivo Al Poggio rautt,Bakkus ehf.,ítalía,toskana,toscana,2013,13.0,,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,L,M,Y}",1876,false,false,false,2014-07-01,true,false
 21205,Banfi La Pettegola Vermentino,Bakkus ehf.,ítalía,toskana,toscana,2013,12.5,vermentino,02M,false,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",2666,false,false,false,2014-02-01,true,false
