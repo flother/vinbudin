@@ -355,7 +355,7 @@ product_id,region,store,quantity
 162,Norðurland,Sauðárkróki,7
 162,Suðurland,Selfossi,9
 162,Norðurland,Siglufirði,3
-162,Höfuðborgarsvæðið,Skeifunni,5
+162,Höfuðborgarsvæðið,Skeifunni,4
 162,Höfuðborgarsvæðið,Skútuvogi,8
 162,Höfuðborgarsvæðið,Smáralind,5
 162,Höfuðborgarsvæðið,Spöngin,9
@@ -471,7 +471,7 @@ product_id,region,store,quantity
 177,Austurland,Seyðisfirði,11
 177,Norðurland,Siglufirði,10
 177,Höfuðborgarsvæðið,Skeifunni,44
-177,Höfuðborgarsvæðið,Skútuvogi,27
+177,Höfuðborgarsvæðið,Skútuvogi,25
 177,Höfuðborgarsvæðið,Smáralind,15
 177,Höfuðborgarsvæðið,Spöngin,31
 177,Höfuðborgarsvæðið,Stekkjarbakka,15
@@ -826,7 +826,7 @@ product_id,region,store,quantity
 390,Vesturland,Borgarnesi,7
 390,Höfuðborgarsvæðið,Borgartúni,73
 390,Vesturland,Búðardal,5
-390,Höfuðborgarsvæðið,Dalvegi,62
+390,Höfuðborgarsvæðið,Dalvegi,61
 390,Norðurland,Dalvík,11
 390,Austurland,Djúpivogur,4
 390,Austurland,Egilsstöðum,11
@@ -856,8 +856,8 @@ product_id,region,store,quantity
 390,Suðurland,Selfossi,16
 390,Austurland,Seyðisfirði,8
 390,Norðurland,Siglufirði,12
-390,Höfuðborgarsvæðið,Skeifunni,116
-390,Höfuðborgarsvæðið,Skútuvogi,67
+390,Höfuðborgarsvæðið,Skeifunni,115
+390,Höfuðborgarsvæðið,Skútuvogi,66
 390,Höfuðborgarsvæðið,Smáralind,58
 390,Höfuðborgarsvæðið,Spöngin,12
 390,Höfuðborgarsvæðið,Stekkjarbakka,24
@@ -916,7 +916,7 @@ product_id,region,store,quantity
 412,Höfuðborgarsvæðið,Austurstræti,11
 412,Vesturland,Borgarnesi,8
 412,Höfuðborgarsvæðið,Borgartúni,17
-412,Höfuðborgarsvæðið,Dalvegi,8
+412,Höfuðborgarsvæðið,Dalvegi,7
 412,Höfuðborgarsvæðið,Eiðistorgi,16
 412,Höfuðborgarsvæðið,Hafnarfirði,7
 412,Höfuðborgarsvæðið,Heiðrún,17
@@ -932,7 +932,7 @@ product_id,region,store,quantity
 414,Norðurland,Akureyri,41
 414,Höfuðborgarsvæðið,Austurstræti,11
 414,Höfuðborgarsvæðið,Borgartúni,14
-414,Höfuðborgarsvæðið,Dalvegi,21
+414,Höfuðborgarsvæðið,Dalvegi,20
 414,Höfuðborgarsvæðið,Eiðistorgi,10
 414,Vesturland,Grundarfjörður,2
 414,Höfuðborgarsvæðið,Hafnarfirði,19
@@ -1796,7 +1796,7 @@ product_id,region,store,quantity
 628,Vesturland,Borgarnesi,3
 628,Höfuðborgarsvæðið,Borgartúni,5
 628,Vesturland,Búðardal,4
-628,Höfuðborgarsvæðið,Dalvegi,23
+628,Höfuðborgarsvæðið,Dalvegi,21
 628,Norðurland,Dalvík,4
 628,Austurland,Djúpivogur,13
 628,Austurland,Egilsstöðum,14
@@ -1849,7 +1849,7 @@ product_id,region,store,quantity
 631,Höfuðborgarsvæðið,Mosfellsbæ,11
 631,Suðurland,Reykjanesbæ,26
 631,Suðurland,Selfossi,10
-631,Höfuðborgarsvæðið,Skeifunni,23
+631,Höfuðborgarsvæðið,Skeifunni,22
 631,Höfuðborgarsvæðið,Skútuvogi,32
 631,Höfuðborgarsvæðið,Smáralind,6
 631,Höfuðborgarsvæðið,Spöngin,11
@@ -2328,7 +2328,7 @@ product_id,region,store,quantity
 763,Suðurland,Reykjanesbæ,5
 763,Norðurland,Sauðárkróki,10
 763,Suðurland,Selfossi,7
-763,Höfuðborgarsvæðið,Skeifunni,16
+763,Höfuðborgarsvæðið,Skeifunni,15
 763,Höfuðborgarsvæðið,Skútuvogi,8
 763,Höfuðborgarsvæðið,Smáralind,6
 763,Höfuðborgarsvæðið,Spöngin,14
@@ -2482,7 +2482,7 @@ product_id,region,store,quantity
 791,Höfuðborgarsvæðið,Mosfellsbæ,10
 791,Suðurland,Reykjanesbæ,13
 791,Suðurland,Selfossi,17
-791,Höfuðborgarsvæðið,Skeifunni,14
+791,Höfuðborgarsvæðið,Skeifunni,13
 791,Höfuðborgarsvæðið,Skútuvogi,16
 791,Höfuðborgarsvæðið,Smáralind,7
 791,Höfuðborgarsvæðið,Spöngin,11
@@ -2671,7 +2671,7 @@ product_id,region,store,quantity
 876,Norðurland,Sauðárkróki,38
 876,Suðurland,Selfossi,38
 876,Norðurland,Siglufirði,26
-876,Höfuðborgarsvæðið,Skeifunni,69
+876,Höfuðborgarsvæðið,Skeifunni,66
 876,Höfuðborgarsvæðið,Skútuvogi,83
 876,Höfuðborgarsvæðið,Smáralind,24
 876,Höfuðborgarsvæðið,Spöngin,29
@@ -2733,7 +2733,7 @@ product_id,region,store,quantity
 881,Norðurland,Akureyri,16
 881,Höfuðborgarsvæðið,Austurstræti,9
 881,Höfuðborgarsvæðið,Borgartúni,25
-881,Höfuðborgarsvæðið,Dalvegi,37
+881,Höfuðborgarsvæðið,Dalvegi,36
 881,Höfuðborgarsvæðið,Eiðistorgi,6
 881,Höfuðborgarsvæðið,Hafnarfirði,26
 881,Höfuðborgarsvæðið,Heiðrún,21
@@ -2741,7 +2741,7 @@ product_id,region,store,quantity
 881,Höfuðborgarsvæðið,Mosfellsbæ,19
 881,Suðurland,Reykjanesbæ,28
 881,Suðurland,Selfossi,12
-881,Höfuðborgarsvæðið,Skeifunni,17
+881,Höfuðborgarsvæðið,Skeifunni,16
 881,Höfuðborgarsvæðið,Skútuvogi,9
 881,Höfuðborgarsvæðið,Smáralind,17
 881,Höfuðborgarsvæðið,Spöngin,17
@@ -2833,7 +2833,7 @@ product_id,region,store,quantity
 887,Vesturland,Borgarnesi,47
 887,Höfuðborgarsvæðið,Borgartúni,58
 887,Vesturland,Búðardal,19
-887,Höfuðborgarsvæðið,Dalvegi,231
+887,Höfuðborgarsvæðið,Dalvegi,230
 887,Norðurland,Dalvík,20
 887,Austurland,Djúpivogur,5
 887,Austurland,Egilsstöðum,34
@@ -2863,7 +2863,7 @@ product_id,region,store,quantity
 887,Suðurland,Selfossi,75
 887,Austurland,Seyðisfirði,9
 887,Norðurland,Siglufirði,24
-887,Höfuðborgarsvæðið,Skeifunni,74
+887,Höfuðborgarsvæðið,Skeifunni,73
 887,Höfuðborgarsvæðið,Skútuvogi,106
 887,Höfuðborgarsvæðið,Smáralind,50
 887,Höfuðborgarsvæðið,Spöngin,48
@@ -2965,7 +2965,7 @@ product_id,region,store,quantity
 929,Höfuðborgarsvæðið,Austurstræti,13
 929,Norðurland,Blönduósi,16
 929,Höfuðborgarsvæðið,Borgartúni,24
-929,Höfuðborgarsvæðið,Dalvegi,37
+929,Höfuðborgarsvæðið,Dalvegi,36
 929,Höfuðborgarsvæðið,Eiðistorgi,23
 929,Vesturland,Grundarfjörður,17
 929,Höfuðborgarsvæðið,Hafnarfirði,9
@@ -2992,7 +2992,7 @@ product_id,region,store,quantity
 930,Höfuðborgarsvæðið,Mosfellsbæ,13
 930,Suðurland,Reykjanesbæ,10
 930,Suðurland,Selfossi,11
-930,Höfuðborgarsvæðið,Skeifunni,20
+930,Höfuðborgarsvæðið,Skeifunni,19
 930,Höfuðborgarsvæðið,Skútuvogi,12
 930,Höfuðborgarsvæðið,Smáralind,8
 930,Höfuðborgarsvæðið,Spöngin,11
@@ -3367,7 +3367,7 @@ product_id,region,store,quantity
 1067,Höfuðborgarsvæðið,Austurstræti,15
 1067,Vesturland,Borgarnesi,15
 1067,Höfuðborgarsvæðið,Borgartúni,5
-1067,Höfuðborgarsvæðið,Dalvegi,20
+1067,Höfuðborgarsvæðið,Dalvegi,19
 1067,Norðurland,Dalvík,3
 1067,Austurland,Egilsstöðum,9
 1067,Höfuðborgarsvæðið,Eiðistorgi,9
@@ -3399,7 +3399,7 @@ product_id,region,store,quantity
 1069,Vesturland,Borgarnesi,181
 1069,Höfuðborgarsvæðið,Borgartúni,263
 1069,Vesturland,Búðardal,111
-1069,Höfuðborgarsvæðið,Dalvegi,173
+1069,Höfuðborgarsvæðið,Dalvegi,161
 1069,Austurland,Egilsstöðum,368
 1069,Höfuðborgarsvæðið,Eiðistorgi,263
 1069,Austurland,Fáskrúðsfirði,57
@@ -3526,7 +3526,7 @@ product_id,region,store,quantity
 1111,Suðurland,Reykjanesbæ,51
 1111,Suðurland,Selfossi,9
 1111,Höfuðborgarsvæðið,Skeifunni,21
-1111,Höfuðborgarsvæðið,Skútuvogi,30
+1111,Höfuðborgarsvæðið,Skútuvogi,27
 1111,Höfuðborgarsvæðið,Smáralind,29
 1111,Höfuðborgarsvæðið,Stekkjarbakka,34
 1112,Vesturland,Akranesi,7
@@ -3651,7 +3651,7 @@ product_id,region,store,quantity
 1119,Vesturland,Borgarnesi,13
 1119,Höfuðborgarsvæðið,Borgartúni,9
 1119,Vesturland,Búðardal,3
-1119,Höfuðborgarsvæðið,Dalvegi,19
+1119,Höfuðborgarsvæðið,Dalvegi,18
 1119,Norðurland,Dalvík,13
 1119,Austurland,Djúpivogur,2
 1119,Austurland,Egilsstöðum,5
@@ -3703,10 +3703,6 @@ product_id,region,store,quantity
 1155,Höfuðborgarsvæðið,Heiðrún,12
 1155,Höfuðborgarsvæðið,Kringlunni,7
 1155,Höfuðborgarsvæðið,Skútuvogi,9
-1156,Höfuðborgarsvæðið,Hafnarfirði,7
-1156,Höfuðborgarsvæðið,Heiðrún,7
-1156,Höfuðborgarsvæðið,Kringlunni,3
-1156,Höfuðborgarsvæðið,Skútuvogi,9
 1172,Vesturland,Akranesi,69
 1172,Norðurland,Akureyri,167
 1172,Höfuðborgarsvæðið,Austurstræti,93
@@ -3750,7 +3746,7 @@ product_id,region,store,quantity
 1202,Norðurland,Akureyri,24
 1202,Höfuðborgarsvæðið,Austurstræti,26
 1202,Höfuðborgarsvæðið,Borgartúni,14
-1202,Höfuðborgarsvæðið,Dalvegi,35
+1202,Höfuðborgarsvæðið,Dalvegi,33
 1202,Höfuðborgarsvæðið,Eiðistorgi,16
 1202,Höfuðborgarsvæðið,Hafnarfirði,11
 1202,Höfuðborgarsvæðið,Heiðrún,21
@@ -3770,13 +3766,13 @@ product_id,region,store,quantity
 1205,Höfuðborgarsvæðið,Hafnarfirði,24
 1205,Höfuðborgarsvæðið,Heiðrún,8
 1205,Höfuðborgarsvæðið,Kringlunni,28
-1205,Höfuðborgarsvæðið,Skeifunni,14
+1205,Höfuðborgarsvæðið,Skeifunni,13
 1205,Höfuðborgarsvæðið,Skútuvogi,8
 1205,Höfuðborgarsvæðið,Smáralind,13
 1215,Norðurland,Akureyri,207
 1215,Höfuðborgarsvæðið,Austurstræti,258
 1215,Höfuðborgarsvæðið,Borgartúni,412
-1215,Höfuðborgarsvæðið,Dalvegi,998
+1215,Höfuðborgarsvæðið,Dalvegi,976
 1215,Norðurland,Dalvík,75
 1215,Höfuðborgarsvæðið,Eiðistorgi,417
 1215,Höfuðborgarsvæðið,Hafnarfirði,324
@@ -3785,8 +3781,8 @@ product_id,region,store,quantity
 1215,Höfuðborgarsvæðið,Mosfellsbæ,154
 1215,Suðurland,Reykjanesbæ,74
 1215,Suðurland,Selfossi,62
-1215,Höfuðborgarsvæðið,Skeifunni,519
-1215,Höfuðborgarsvæðið,Skútuvogi,532
+1215,Höfuðborgarsvæðið,Skeifunni,501
+1215,Höfuðborgarsvæðið,Skútuvogi,526
 1215,Höfuðborgarsvæðið,Smáralind,214
 1215,Höfuðborgarsvæðið,Spöngin,190
 1215,Höfuðborgarsvæðið,Stekkjarbakka,219
@@ -3811,7 +3807,7 @@ product_id,region,store,quantity
 1219,Suðurland,Reykjanesbæ,35
 1219,Norðurland,Sauðárkróki,87
 1219,Suðurland,Selfossi,48
-1219,Höfuðborgarsvæðið,Skeifunni,35
+1219,Höfuðborgarsvæðið,Skeifunni,33
 1219,Höfuðborgarsvæðið,Skútuvogi,64
 1219,Höfuðborgarsvæðið,Smáralind,18
 1219,Höfuðborgarsvæðið,Spöngin,46
@@ -3822,7 +3818,7 @@ product_id,region,store,quantity
 1220,Vesturland,Borgarnesi,107
 1220,Höfuðborgarsvæðið,Borgartúni,658
 1220,Vesturland,Búðardal,164
-1220,Höfuðborgarsvæðið,Dalvegi,1364
+1220,Höfuðborgarsvæðið,Dalvegi,1304
 1220,Norðurland,Dalvík,203
 1220,Austurland,Egilsstöðum,470
 1220,Höfuðborgarsvæðið,Eiðistorgi,300
@@ -3839,7 +3835,7 @@ product_id,region,store,quantity
 1220,Suðurland,Reykjanesbæ,238
 1220,Norðurland,Sauðárkróki,318
 1220,Suðurland,Selfossi,765
-1220,Höfuðborgarsvæðið,Skeifunni,788
+1220,Höfuðborgarsvæðið,Skeifunni,778
 1220,Höfuðborgarsvæðið,Skútuvogi,764
 1220,Höfuðborgarsvæðið,Smáralind,305
 1220,Höfuðborgarsvæðið,Spöngin,114
@@ -3851,7 +3847,7 @@ product_id,region,store,quantity
 1223,Norðurland,Akureyri,31
 1223,Höfuðborgarsvæðið,Austurstræti,33
 1223,Höfuðborgarsvæðið,Borgartúni,29
-1223,Höfuðborgarsvæðið,Dalvegi,28
+1223,Höfuðborgarsvæðið,Dalvegi,27
 1223,Höfuðborgarsvæðið,Eiðistorgi,15
 1223,Höfuðborgarsvæðið,Hafnarfirði,23
 1223,Höfuðborgarsvæðið,Heiðrún,28
@@ -4113,7 +4109,7 @@ product_id,region,store,quantity
 1441,Vesturland,Borgarnesi,380
 1441,Höfuðborgarsvæðið,Borgartúni,2114
 1441,Vesturland,Búðardal,165
-1441,Höfuðborgarsvæðið,Dalvegi,2491
+1441,Höfuðborgarsvæðið,Dalvegi,2454
 1441,Norðurland,Dalvík,190
 1441,Austurland,Egilsstöðum,465
 1441,Höfuðborgarsvæðið,Eiðistorgi,500
@@ -4142,7 +4138,7 @@ product_id,region,store,quantity
 1441,Suðurland,Selfossi,795
 1441,Austurland,Seyðisfirði,170
 1441,Norðurland,Siglufirði,241
-1441,Höfuðborgarsvæðið,Skeifunni,1191
+1441,Höfuðborgarsvæðið,Skeifunni,1160
 1441,Höfuðborgarsvæðið,Skútuvogi,2256
 1441,Höfuðborgarsvæðið,Smáralind,594
 1441,Höfuðborgarsvæðið,Spöngin,1663
@@ -4160,7 +4156,7 @@ product_id,region,store,quantity
 1442,Höfuðborgarsvæðið,Austurstræti,256
 1442,Vesturland,Borgarnesi,307
 1442,Höfuðborgarsvæðið,Borgartúni,464
-1442,Höfuðborgarsvæðið,Dalvegi,1241
+1442,Höfuðborgarsvæðið,Dalvegi,1219
 1442,Austurland,Egilsstöðum,160
 1442,Höfuðborgarsvæðið,Eiðistorgi,543
 1442,Austurland,Fáskrúðsfirði,10
@@ -4175,7 +4171,7 @@ product_id,region,store,quantity
 1442,Norðurland,Sauðárkróki,580
 1442,Suðurland,Selfossi,558
 1442,Austurland,Seyðisfirði,152
-1442,Höfuðborgarsvæðið,Skeifunni,2053
+1442,Höfuðborgarsvæðið,Skeifunni,2023
 1442,Höfuðborgarsvæðið,Skútuvogi,990
 1442,Höfuðborgarsvæðið,Smáralind,150
 1442,Höfuðborgarsvæðið,Spöngin,221
@@ -4190,7 +4186,7 @@ product_id,region,store,quantity
 1446,Vesturland,Borgarnesi,635
 1446,Höfuðborgarsvæðið,Borgartúni,790
 1446,Vesturland,Búðardal,180
-1446,Höfuðborgarsvæðið,Dalvegi,3371
+1446,Höfuðborgarsvæðið,Dalvegi,3351
 1446,Norðurland,Dalvík,83
 1446,Austurland,Djúpivogur,190
 1446,Austurland,Egilsstöðum,293
@@ -4239,7 +4235,7 @@ product_id,region,store,quantity
 1448,Vesturland,Borgarnesi,955
 1448,Höfuðborgarsvæðið,Borgartúni,1868
 1448,Vesturland,Búðardal,250
-1448,Höfuðborgarsvæðið,Dalvegi,1714
+1448,Höfuðborgarsvæðið,Dalvegi,1654
 1448,Norðurland,Dalvík,132
 1448,Austurland,Djúpivogur,210
 1448,Austurland,Egilsstöðum,655
@@ -4269,8 +4265,8 @@ product_id,region,store,quantity
 1448,Suðurland,Selfossi,590
 1448,Austurland,Seyðisfirði,124
 1448,Norðurland,Siglufirði,170
-1448,Höfuðborgarsvæðið,Skeifunni,1701
-1448,Höfuðborgarsvæðið,Skútuvogi,1664
+1448,Höfuðborgarsvæðið,Skeifunni,1665
+1448,Höfuðborgarsvæðið,Skútuvogi,1657
 1448,Höfuðborgarsvæðið,Smáralind,1414
 1448,Höfuðborgarsvæðið,Spöngin,1843
 1448,Höfuðborgarsvæðið,Stekkjarbakka,1792
@@ -4287,7 +4283,7 @@ product_id,region,store,quantity
 1461,Höfuðborgarsvæðið,Austurstræti,166
 1461,Vesturland,Borgarnesi,290
 1461,Höfuðborgarsvæðið,Borgartúni,271
-1461,Höfuðborgarsvæðið,Dalvegi,542
+1461,Höfuðborgarsvæðið,Dalvegi,537
 1461,Norðurland,Dalvík,84
 1461,Austurland,Djúpivogur,42
 1461,Austurland,Egilsstöðum,408
@@ -4310,8 +4306,8 @@ product_id,region,store,quantity
 1461,Austurland,Reyðarfirði,118
 1461,Norðurland,Sauðárkróki,66
 1461,Suðurland,Selfossi,488
-1461,Höfuðborgarsvæðið,Skeifunni,539
-1461,Höfuðborgarsvæðið,Skútuvogi,277
+1461,Höfuðborgarsvæðið,Skeifunni,526
+1461,Höfuðborgarsvæðið,Skútuvogi,267
 1461,Höfuðborgarsvæðið,Smáralind,180
 1461,Höfuðborgarsvæðið,Spöngin,326
 1461,Höfuðborgarsvæðið,Stekkjarbakka,229
@@ -4331,7 +4327,7 @@ product_id,region,store,quantity
 1466,Höfuðborgarsvæðið,Mosfellsbæ,15
 1466,Norðurland,Sauðárkróki,10
 1466,Höfuðborgarsvæðið,Skeifunni,14
-1466,Höfuðborgarsvæðið,Skútuvogi,37
+1466,Höfuðborgarsvæðið,Skútuvogi,35
 1466,Höfuðborgarsvæðið,Smáralind,38
 1466,Höfuðborgarsvæðið,Spöngin,33
 1466,Höfuðborgarsvæðið,Stekkjarbakka,4
@@ -4341,7 +4337,7 @@ product_id,region,store,quantity
 1468,Norðurland,Blönduósi,6
 1468,Vesturland,Borgarnesi,301
 1468,Höfuðborgarsvæðið,Borgartúni,785
-1468,Höfuðborgarsvæðið,Dalvegi,1999
+1468,Höfuðborgarsvæðið,Dalvegi,1993
 1468,Norðurland,Dalvík,32
 1468,Austurland,Egilsstöðum,267
 1468,Höfuðborgarsvæðið,Eiðistorgi,333
@@ -4362,7 +4358,7 @@ product_id,region,store,quantity
 1468,Suðurland,Selfossi,639
 1468,Norðurland,Siglufirði,33
 1468,Höfuðborgarsvæðið,Skeifunni,781
-1468,Höfuðborgarsvæðið,Skútuvogi,2158
+1468,Höfuðborgarsvæðið,Skútuvogi,2146
 1468,Höfuðborgarsvæðið,Smáralind,309
 1468,Höfuðborgarsvæðið,Spöngin,390
 1468,Höfuðborgarsvæðið,Stekkjarbakka,517
@@ -4378,7 +4374,7 @@ product_id,region,store,quantity
 1484,Vesturland,Borgarnesi,2149
 1484,Höfuðborgarsvæðið,Borgartúni,1880
 1484,Vesturland,Búðardal,456
-1484,Höfuðborgarsvæðið,Dalvegi,6372
+1484,Höfuðborgarsvæðið,Dalvegi,6192
 1484,Norðurland,Dalvík,477
 1484,Austurland,Djúpivogur,74
 1484,Austurland,Egilsstöðum,1364
@@ -4408,8 +4404,8 @@ product_id,region,store,quantity
 1484,Suðurland,Selfossi,2570
 1484,Austurland,Seyðisfirði,48
 1484,Norðurland,Siglufirði,927
-1484,Höfuðborgarsvæðið,Skeifunni,3881
-1484,Höfuðborgarsvæðið,Skútuvogi,5307
+1484,Höfuðborgarsvæðið,Skeifunni,3737
+1484,Höfuðborgarsvæðið,Skútuvogi,5255
 1484,Höfuðborgarsvæðið,Smáralind,2360
 1484,Höfuðborgarsvæðið,Spöngin,1962
 1484,Höfuðborgarsvæðið,Stekkjarbakka,3034
@@ -4428,7 +4424,7 @@ product_id,region,store,quantity
 1485,Vesturland,Borgarnesi,2620
 1485,Höfuðborgarsvæðið,Borgartúni,2290
 1485,Vesturland,Búðardal,133
-1485,Höfuðborgarsvæðið,Dalvegi,2588
+1485,Höfuðborgarsvæðið,Dalvegi,2578
 1485,Norðurland,Dalvík,590
 1485,Austurland,Djúpivogur,237
 1485,Austurland,Egilsstöðum,1130
@@ -4458,8 +4454,8 @@ product_id,region,store,quantity
 1485,Suðurland,Selfossi,2373
 1485,Austurland,Seyðisfirði,187
 1485,Norðurland,Siglufirði,646
-1485,Höfuðborgarsvæðið,Skeifunni,2570
-1485,Höfuðborgarsvæðið,Skútuvogi,2964
+1485,Höfuðborgarsvæðið,Skeifunni,2560
+1485,Höfuðborgarsvæðið,Skútuvogi,2954
 1485,Höfuðborgarsvæðið,Smáralind,438
 1485,Höfuðborgarsvæðið,Spöngin,1737
 1485,Höfuðborgarsvæðið,Stekkjarbakka,932
@@ -4477,7 +4473,7 @@ product_id,region,store,quantity
 1499,Vesturland,Borgarnesi,566
 1499,Höfuðborgarsvæðið,Borgartúni,1323
 1499,Vesturland,Búðardal,160
-1499,Höfuðborgarsvæðið,Dalvegi,1058
+1499,Höfuðborgarsvæðið,Dalvegi,1033
 1499,Norðurland,Dalvík,451
 1499,Austurland,Djúpivogur,181
 1499,Austurland,Egilsstöðum,571
@@ -4526,7 +4522,7 @@ product_id,region,store,quantity
 1503,Vesturland,Borgarnesi,451
 1503,Höfuðborgarsvæðið,Borgartúni,2153
 1503,Vesturland,Búðardal,177
-1503,Höfuðborgarsvæðið,Dalvegi,1242
+1503,Höfuðborgarsvæðið,Dalvegi,1149
 1503,Norðurland,Dalvík,323
 1503,Austurland,Djúpivogur,88
 1503,Austurland,Egilsstöðum,767
@@ -4556,8 +4552,8 @@ product_id,region,store,quantity
 1503,Suðurland,Selfossi,1500
 1503,Austurland,Seyðisfirði,60
 1503,Norðurland,Siglufirði,697
-1503,Höfuðborgarsvæðið,Skeifunni,2330
-1503,Höfuðborgarsvæðið,Skútuvogi,2334
+1503,Höfuðborgarsvæðið,Skeifunni,2310
+1503,Höfuðborgarsvæðið,Skútuvogi,2332
 1503,Höfuðborgarsvæðið,Smáralind,604
 1503,Höfuðborgarsvæðið,Spöngin,452
 1503,Höfuðborgarsvæðið,Stekkjarbakka,2114
@@ -4570,12 +4566,12 @@ product_id,region,store,quantity
 1503,Suðurland,Þorlákshöfn,508
 1503,Austurland,Þórshöfn,101
 1504,Norðurland,Akureyri,67
-1504,Höfuðborgarsvæðið,Dalvegi,231
+1504,Höfuðborgarsvæðið,Dalvegi,225
 1504,Höfuðborgarsvæðið,Hafnarfirði,98
 1504,Höfuðborgarsvæðið,Heiðrún,66
 1504,Höfuðborgarsvæðið,Kringlunni,84
 1504,Höfuðborgarsvæðið,Skeifunni,84
-1504,Höfuðborgarsvæðið,Skútuvogi,102
+1504,Höfuðborgarsvæðið,Skútuvogi,100
 1510,Vesturland,Akranesi,150
 1510,Norðurland,Akureyri,325
 1510,Höfuðborgarsvæðið,Austurstræti,232
@@ -4608,7 +4604,7 @@ product_id,region,store,quantity
 1514,Norðurland,Akureyri,75
 1514,Höfuðborgarsvæðið,Austurstræti,138
 1514,Höfuðborgarsvæðið,Borgartúni,218
-1514,Höfuðborgarsvæðið,Dalvegi,323
+1514,Höfuðborgarsvæðið,Dalvegi,306
 1514,Höfuðborgarsvæðið,Eiðistorgi,246
 1514,Höfuðborgarsvæðið,Hafnarfirði,148
 1514,Höfuðborgarsvæðið,Heiðrún,238
@@ -4617,7 +4613,7 @@ product_id,region,store,quantity
 1514,Suðurland,Reykjanesbæ,255
 1514,Suðurland,Selfossi,111
 1514,Höfuðborgarsvæðið,Skeifunni,366
-1514,Höfuðborgarsvæðið,Skútuvogi,203
+1514,Höfuðborgarsvæðið,Skútuvogi,191
 1514,Höfuðborgarsvæðið,Smáralind,29
 1514,Höfuðborgarsvæðið,Spöngin,204
 1514,Höfuðborgarsvæðið,Stekkjarbakka,185
@@ -4642,7 +4638,7 @@ product_id,region,store,quantity
 1531,Austurland,Reyðarfirði,68
 1531,Suðurland,Selfossi,168
 1531,Höfuðborgarsvæðið,Skeifunni,116
-1531,Höfuðborgarsvæðið,Skútuvogi,164
+1531,Höfuðborgarsvæðið,Skútuvogi,160
 1531,Höfuðborgarsvæðið,Smáralind,83
 1531,Höfuðborgarsvæðið,Spöngin,91
 1531,Höfuðborgarsvæðið,Stekkjarbakka,78
@@ -4651,7 +4647,7 @@ product_id,region,store,quantity
 1547,Norðurland,Akureyri,76
 1547,Höfuðborgarsvæðið,Austurstræti,140
 1547,Höfuðborgarsvæðið,Borgartúni,216
-1547,Höfuðborgarsvæðið,Dalvegi,308
+1547,Höfuðborgarsvæðið,Dalvegi,305
 1547,Höfuðborgarsvæðið,Eiðistorgi,108
 1547,Höfuðborgarsvæðið,Hafnarfirði,107
 1547,Höfuðborgarsvæðið,Heiðrún,169
@@ -4666,11 +4662,11 @@ product_id,region,store,quantity
 1547,Höfuðborgarsvæðið,Stekkjarbakka,221
 1547,Suðurland,Þorlákshöfn,124
 1554,Norðurland,Akureyri,130
-1554,Höfuðborgarsvæðið,Dalvegi,254
+1554,Höfuðborgarsvæðið,Dalvegi,253
 1554,Höfuðborgarsvæðið,Hafnarfirði,28
 1554,Höfuðborgarsvæðið,Heiðrún,170
 1554,Höfuðborgarsvæðið,Kringlunni,79
-1554,Höfuðborgarsvæðið,Skeifunni,211
+1554,Höfuðborgarsvæðið,Skeifunni,210
 1554,Höfuðborgarsvæðið,Skútuvogi,220
 1554,Höfuðborgarsvæðið,Smáralind,99
 1556,Norðurland,Akureyri,101
@@ -4678,13 +4674,13 @@ product_id,region,store,quantity
 1556,Höfuðborgarsvæðið,Hafnarfirði,76
 1556,Höfuðborgarsvæðið,Heiðrún,61
 1556,Höfuðborgarsvæðið,Kringlunni,60
-1556,Höfuðborgarsvæðið,Skeifunni,170
+1556,Höfuðborgarsvæðið,Skeifunni,169
 1556,Höfuðborgarsvæðið,Skútuvogi,42
 1556,Höfuðborgarsvæðið,Smáralind,72
 1568,Norðurland,Akureyri,388
 1568,Höfuðborgarsvæðið,Austurstræti,79
 1568,Höfuðborgarsvæðið,Borgartúni,77
-1568,Höfuðborgarsvæðið,Dalvegi,359
+1568,Höfuðborgarsvæðið,Dalvegi,311
 1568,Höfuðborgarsvæðið,Eiðistorgi,55
 1568,Höfuðborgarsvæðið,Hafnarfirði,309
 1568,Höfuðborgarsvæðið,Heiðrún,193
@@ -4695,7 +4691,7 @@ product_id,region,store,quantity
 1568,Suðurland,Reykjanesbæ,214
 1568,Suðurland,Selfossi,247
 1568,Höfuðborgarsvæðið,Skeifunni,229
-1568,Höfuðborgarsvæðið,Skútuvogi,318
+1568,Höfuðborgarsvæðið,Skútuvogi,316
 1568,Höfuðborgarsvæðið,Smáralind,76
 1568,Höfuðborgarsvæðið,Spöngin,100
 1568,Höfuðborgarsvæðið,Stekkjarbakka,479
@@ -4713,7 +4709,7 @@ product_id,region,store,quantity
 1577,Höfuðborgarsvæðið,Kringlunni,6
 1577,Suðurland,Reykjanesbæ,8
 1577,Suðurland,Selfossi,14
-1577,Höfuðborgarsvæðið,Skeifunni,6
+1577,Höfuðborgarsvæðið,Skeifunni,5
 1577,Höfuðborgarsvæðið,Skútuvogi,13
 1577,Höfuðborgarsvæðið,Smáralind,12
 1577,Höfuðborgarsvæðið,Spöngin,10
@@ -4757,7 +4753,7 @@ product_id,region,store,quantity
 1606,Höfuðborgarsvæðið,Hafnarfirði,104
 1606,Höfuðborgarsvæðið,Heiðrún,79
 1606,Höfuðborgarsvæðið,Kringlunni,56
-1606,Höfuðborgarsvæðið,Skeifunni,106
+1606,Höfuðborgarsvæðið,Skeifunni,98
 1606,Höfuðborgarsvæðið,Skútuvogi,69
 1613,Norðurland,Akureyri,6
 1613,Höfuðborgarsvæðið,Austurstræti,2
@@ -4800,7 +4796,7 @@ product_id,region,store,quantity
 1657,Vesturland,Borgarnesi,11
 1657,Höfuðborgarsvæðið,Borgartúni,60
 1657,Vesturland,Búðardal,21
-1657,Höfuðborgarsvæðið,Dalvegi,189
+1657,Höfuðborgarsvæðið,Dalvegi,188
 1657,Norðurland,Dalvík,27
 1657,Austurland,Djúpivogur,24
 1657,Austurland,Egilsstöðum,44
@@ -4830,7 +4826,7 @@ product_id,region,store,quantity
 1657,Suðurland,Selfossi,40
 1657,Austurland,Seyðisfirði,42
 1657,Norðurland,Siglufirði,36
-1657,Höfuðborgarsvæðið,Skeifunni,92
+1657,Höfuðborgarsvæðið,Skeifunni,91
 1657,Höfuðborgarsvæðið,Skútuvogi,55
 1657,Höfuðborgarsvæðið,Smáralind,50
 1657,Höfuðborgarsvæðið,Spöngin,52
@@ -4870,7 +4866,7 @@ product_id,region,store,quantity
 1660,Norðurland,Sauðárkróki,210
 1660,Suðurland,Selfossi,287
 1660,Norðurland,Siglufirði,59
-1660,Höfuðborgarsvæðið,Skeifunni,247
+1660,Höfuðborgarsvæðið,Skeifunni,245
 1660,Höfuðborgarsvæðið,Skútuvogi,120
 1660,Höfuðborgarsvæðið,Smáralind,164
 1660,Höfuðborgarsvæðið,Spöngin,128
@@ -4910,7 +4906,7 @@ product_id,region,store,quantity
 1685,Norðurland,Akureyri,173
 1685,Höfuðborgarsvæðið,Austurstræti,30
 1685,Höfuðborgarsvæðið,Borgartúni,49
-1685,Höfuðborgarsvæðið,Dalvegi,136
+1685,Höfuðborgarsvæðið,Dalvegi,132
 1685,Norðurland,Dalvík,5
 1685,Höfuðborgarsvæðið,Eiðistorgi,50
 1685,Austurland,Fáskrúðsfirði,12
@@ -4923,7 +4919,7 @@ product_id,region,store,quantity
 1685,Suðurland,Reykjanesbæ,75
 1685,Suðurland,Selfossi,40
 1685,Höfuðborgarsvæðið,Skeifunni,117
-1685,Höfuðborgarsvæðið,Skútuvogi,122
+1685,Höfuðborgarsvæðið,Skútuvogi,120
 1685,Höfuðborgarsvæðið,Smáralind,75
 1685,Höfuðborgarsvæðið,Spöngin,7
 1685,Höfuðborgarsvæðið,Stekkjarbakka,101
@@ -4993,7 +4989,7 @@ product_id,region,store,quantity
 1851,Vesturland,Borgarnesi,518
 1851,Höfuðborgarsvæðið,Borgartúni,533
 1851,Vesturland,Búðardal,48
-1851,Höfuðborgarsvæðið,Dalvegi,2600
+1851,Höfuðborgarsvæðið,Dalvegi,2588
 1851,Norðurland,Dalvík,50
 1851,Austurland,Djúpivogur,165
 1851,Austurland,Egilsstöðum,190
@@ -5023,8 +5019,8 @@ product_id,region,store,quantity
 1851,Suðurland,Selfossi,768
 1851,Austurland,Seyðisfirði,60
 1851,Norðurland,Siglufirði,216
-1851,Höfuðborgarsvæðið,Skeifunni,1718
-1851,Höfuðborgarsvæðið,Skútuvogi,951
+1851,Höfuðborgarsvæðið,Skeifunni,1699
+1851,Höfuðborgarsvæðið,Skútuvogi,939
 1851,Höfuðborgarsvæðið,Smáralind,817
 1851,Höfuðborgarsvæðið,Spöngin,475
 1851,Höfuðborgarsvæðið,Stekkjarbakka,872
@@ -5047,10 +5043,6 @@ product_id,region,store,quantity
 1974,Höfuðborgarsvæðið,Heiðrún,10
 1974,Höfuðborgarsvæðið,Kringlunni,3
 1974,Höfuðborgarsvæðið,Skútuvogi,5
-2013,Höfuðborgarsvæðið,Hafnarfirði,6
-2013,Höfuðborgarsvæðið,Heiðrún,4
-2013,Höfuðborgarsvæðið,Kringlunni,4
-2013,Höfuðborgarsvæðið,Skútuvogi,6
 2018,Vesturland,Akranesi,21
 2018,Norðurland,Akureyri,69
 2018,Höfuðborgarsvæðið,Austurstræti,36
@@ -5058,7 +5050,7 @@ product_id,region,store,quantity
 2018,Vesturland,Borgarnesi,6
 2018,Höfuðborgarsvæðið,Borgartúni,22
 2018,Vesturland,Búðardal,11
-2018,Höfuðborgarsvæðið,Dalvegi,95
+2018,Höfuðborgarsvæðið,Dalvegi,94
 2018,Norðurland,Dalvík,5
 2018,Austurland,Djúpivogur,6
 2018,Austurland,Egilsstöðum,20
@@ -5108,7 +5100,7 @@ product_id,region,store,quantity
 2026,Vesturland,Borgarnesi,437
 2026,Höfuðborgarsvæðið,Borgartúni,1257
 2026,Vesturland,Búðardal,120
-2026,Höfuðborgarsvæðið,Dalvegi,1461
+2026,Höfuðborgarsvæðið,Dalvegi,1443
 2026,Norðurland,Dalvík,99
 2026,Austurland,Djúpivogur,232
 2026,Austurland,Egilsstöðum,414
@@ -5138,8 +5130,8 @@ product_id,region,store,quantity
 2026,Suðurland,Selfossi,1172
 2026,Austurland,Seyðisfirði,98
 2026,Norðurland,Siglufirði,562
-2026,Höfuðborgarsvæðið,Skeifunni,2074
-2026,Höfuðborgarsvæðið,Skútuvogi,2577
+2026,Höfuðborgarsvæðið,Skeifunni,2033
+2026,Höfuðborgarsvæðið,Skútuvogi,2567
 2026,Höfuðborgarsvæðið,Smáralind,368
 2026,Höfuðborgarsvæðið,Spöngin,1476
 2026,Höfuðborgarsvæðið,Stekkjarbakka,1821
@@ -5507,7 +5499,7 @@ product_id,region,store,quantity
 2399,Vesturland,Borgarnesi,3
 2399,Höfuðborgarsvæðið,Borgartúni,1
 2399,Vesturland,Búðardal,8
-2399,Höfuðborgarsvæðið,Dalvegi,30
+2399,Höfuðborgarsvæðið,Dalvegi,29
 2399,Norðurland,Dalvík,12
 2399,Austurland,Djúpivogur,9
 2399,Austurland,Egilsstöðum,9
@@ -5667,7 +5659,7 @@ product_id,region,store,quantity
 2436,Höfuðborgarsvæðið,Austurstræti,93
 2436,Vesturland,Borgarnesi,64
 2436,Höfuðborgarsvæðið,Borgartúni,292
-2436,Höfuðborgarsvæðið,Dalvegi,788
+2436,Höfuðborgarsvæðið,Dalvegi,774
 2436,Höfuðborgarsvæðið,Eiðistorgi,218
 2436,Höfuðborgarsvæðið,Hafnarfirði,469
 2436,Höfuðborgarsvæðið,Heiðrún,252
@@ -5676,8 +5668,8 @@ product_id,region,store,quantity
 2436,Höfuðborgarsvæðið,Mosfellsbæ,88
 2436,Suðurland,Reykjanesbæ,228
 2436,Suðurland,Selfossi,253
-2436,Höfuðborgarsvæðið,Skeifunni,156
-2436,Höfuðborgarsvæðið,Skútuvogi,318
+2436,Höfuðborgarsvæðið,Skeifunni,150
+2436,Höfuðborgarsvæðið,Skútuvogi,312
 2436,Höfuðborgarsvæðið,Smáralind,256
 2436,Höfuðborgarsvæðið,Spöngin,180
 2436,Höfuðborgarsvæðið,Stekkjarbakka,265
@@ -5770,7 +5762,7 @@ product_id,region,store,quantity
 2633,Höfuðborgarsvæðið,Hafnarfirði,93
 2633,Höfuðborgarsvæðið,Heiðrún,214
 2633,Höfuðborgarsvæðið,Kringlunni,78
-2633,Höfuðborgarsvæðið,Skeifunni,80
+2633,Höfuðborgarsvæðið,Skeifunni,77
 2633,Höfuðborgarsvæðið,Skútuvogi,45
 2633,Höfuðborgarsvæðið,Smáralind,47
 2633,Höfuðborgarsvæðið,Spöngin,67
@@ -5793,7 +5785,7 @@ product_id,region,store,quantity
 2651,Höfuðborgarsvæðið,Hafnarfirði,29
 2651,Höfuðborgarsvæðið,Heiðrún,45
 2651,Höfuðborgarsvæðið,Kringlunni,51
-2651,Höfuðborgarsvæðið,Skútuvogi,48
+2651,Höfuðborgarsvæðið,Skútuvogi,46
 2700,Höfuðborgarsvæðið,Hafnarfirði,9
 2700,Höfuðborgarsvæðið,Heiðrún,10
 2700,Höfuðborgarsvæðið,Kringlunni,5
@@ -5894,7 +5886,7 @@ product_id,region,store,quantity
 2968,Norðurland,Blönduósi,54
 2968,Vesturland,Borgarnesi,116
 2968,Höfuðborgarsvæðið,Borgartúni,137
-2968,Höfuðborgarsvæðið,Dalvegi,519
+2968,Höfuðborgarsvæðið,Dalvegi,517
 2968,Norðurland,Dalvík,57
 2968,Austurland,Egilsstöðum,133
 2968,Höfuðborgarsvæðið,Eiðistorgi,86
@@ -5917,7 +5909,7 @@ product_id,region,store,quantity
 2968,Norðurland,Sauðárkróki,151
 2968,Suðurland,Selfossi,222
 2968,Norðurland,Siglufirði,102
-2968,Höfuðborgarsvæðið,Skeifunni,192
+2968,Höfuðborgarsvæðið,Skeifunni,162
 2968,Höfuðborgarsvæðið,Skútuvogi,156
 2968,Höfuðborgarsvæðið,Smáralind,92
 2968,Höfuðborgarsvæðið,Spöngin,146
@@ -5974,7 +5966,7 @@ product_id,region,store,quantity
 2994,Norðurland,Sauðárkróki,13
 2994,Suðurland,Selfossi,20
 2994,Norðurland,Siglufirði,4
-2994,Höfuðborgarsvæðið,Skeifunni,32
+2994,Höfuðborgarsvæðið,Skeifunni,31
 2994,Höfuðborgarsvæðið,Skútuvogi,25
 2994,Höfuðborgarsvæðið,Smáralind,14
 2994,Höfuðborgarsvæðið,Spöngin,22
@@ -6099,10 +6091,6 @@ product_id,region,store,quantity
 3067,Vesturland,Ólafsvík,4
 3067,Suðurland,Þorlákshöfn,7
 3067,Austurland,Þórshöfn,6
-3075,Höfuðborgarsvæðið,Hafnarfirði,7
-3075,Höfuðborgarsvæðið,Heiðrún,17
-3075,Höfuðborgarsvæðið,Kringlunni,18
-3075,Höfuðborgarsvæðið,Skútuvogi,15
 3077,Höfuðborgarsvæðið,Hafnarfirði,5
 3077,Höfuðborgarsvæðið,Heiðrún,1
 3077,Höfuðborgarsvæðið,Kringlunni,8
@@ -6130,7 +6118,7 @@ product_id,region,store,quantity
 3187,Norðurland,Akureyri,114
 3187,Höfuðborgarsvæðið,Austurstræti,56
 3187,Höfuðborgarsvæðið,Borgartúni,115
-3187,Höfuðborgarsvæðið,Dalvegi,361
+3187,Höfuðborgarsvæðið,Dalvegi,355
 3187,Höfuðborgarsvæðið,Eiðistorgi,13
 3187,Höfuðborgarsvæðið,Hafnarfirði,253
 3187,Höfuðborgarsvæðið,Heiðrún,303
@@ -6178,7 +6166,7 @@ product_id,region,store,quantity
 3189,Vesturland,Borgarnesi,387
 3189,Höfuðborgarsvæðið,Borgartúni,454
 3189,Vesturland,Búðardal,60
-3189,Höfuðborgarsvæðið,Dalvegi,1368
+3189,Höfuðborgarsvæðið,Dalvegi,1366
 3189,Norðurland,Dalvík,140
 3189,Austurland,Egilsstöðum,251
 3189,Höfuðborgarsvæðið,Eiðistorgi,477
@@ -6201,7 +6189,7 @@ product_id,region,store,quantity
 3189,Norðurland,Sauðárkróki,273
 3189,Suðurland,Selfossi,759
 3189,Norðurland,Siglufirði,340
-3189,Höfuðborgarsvæðið,Skeifunni,624
+3189,Höfuðborgarsvæðið,Skeifunni,598
 3189,Höfuðborgarsvæðið,Skútuvogi,848
 3189,Höfuðborgarsvæðið,Smáralind,356
 3189,Höfuðborgarsvæðið,Spöngin,1031
@@ -6362,7 +6350,7 @@ product_id,region,store,quantity
 3412,Norðurland,Akureyri,9
 3412,Höfuðborgarsvæðið,Austurstræti,8
 3412,Höfuðborgarsvæðið,Borgartúni,6
-3412,Höfuðborgarsvæðið,Dalvegi,16
+3412,Höfuðborgarsvæðið,Dalvegi,15
 3412,Höfuðborgarsvæðið,Eiðistorgi,7
 3412,Höfuðborgarsvæðið,Hafnarfirði,7
 3412,Höfuðborgarsvæðið,Heiðrún,15
@@ -6386,7 +6374,7 @@ product_id,region,store,quantity
 3413,Höfuðborgarsvæðið,Mosfellsbæ,3
 3413,Suðurland,Reykjanesbæ,15
 3413,Suðurland,Selfossi,5
-3413,Höfuðborgarsvæðið,Skeifunni,12
+3413,Höfuðborgarsvæðið,Skeifunni,11
 3413,Höfuðborgarsvæðið,Skútuvogi,6
 3413,Höfuðborgarsvæðið,Smáralind,5
 3413,Höfuðborgarsvæðið,Spöngin,6
@@ -6547,7 +6535,7 @@ product_id,region,store,quantity
 3588,Suðurland,Selfossi,426
 3588,Austurland,Seyðisfirði,50
 3588,Norðurland,Siglufirði,148
-3588,Höfuðborgarsvæðið,Skeifunni,378
+3588,Höfuðborgarsvæðið,Skeifunni,372
 3588,Höfuðborgarsvæðið,Skútuvogi,345
 3588,Höfuðborgarsvæðið,Smáralind,338
 3588,Höfuðborgarsvæðið,Spöngin,66
@@ -6570,7 +6558,7 @@ product_id,region,store,quantity
 3589,Höfuðborgarsvæðið,Kringlunni,110
 3589,Höfuðborgarsvæðið,Mosfellsbæ,29
 3589,Suðurland,Reykjanesbæ,36
-3589,Höfuðborgarsvæðið,Skeifunni,146
+3589,Höfuðborgarsvæðið,Skeifunni,144
 3589,Höfuðborgarsvæðið,Skútuvogi,129
 3589,Höfuðborgarsvæðið,Smáralind,42
 3589,Höfuðborgarsvæðið,Spöngin,37
@@ -6588,7 +6576,7 @@ product_id,region,store,quantity
 3592,Höfuðborgarsvæðið,Mosfellsbæ,100
 3592,Suðurland,Reykjanesbæ,258
 3592,Suðurland,Selfossi,155
-3592,Höfuðborgarsvæðið,Skeifunni,197
+3592,Höfuðborgarsvæðið,Skeifunni,191
 3592,Höfuðborgarsvæðið,Skútuvogi,157
 3592,Höfuðborgarsvæðið,Smáralind,116
 3592,Höfuðborgarsvæðið,Spöngin,109
@@ -6604,7 +6592,7 @@ product_id,region,store,quantity
 3593,Höfuðborgarsvæðið,Mosfellsbæ,30
 3593,Suðurland,Reykjanesbæ,134
 3593,Suðurland,Selfossi,104
-3593,Höfuðborgarsvæðið,Skeifunni,116
+3593,Höfuðborgarsvæðið,Skeifunni,113
 3593,Höfuðborgarsvæðið,Skútuvogi,118
 3593,Höfuðborgarsvæðið,Smáralind,70
 3593,Höfuðborgarsvæðið,Spöngin,153
@@ -6652,7 +6640,7 @@ product_id,region,store,quantity
 3613,Höfuðborgarsvæðið,Austurstræti,29
 3613,Vesturland,Borgarnesi,39
 3613,Höfuðborgarsvæðið,Borgartúni,16
-3613,Höfuðborgarsvæðið,Dalvegi,63
+3613,Höfuðborgarsvæðið,Dalvegi,61
 3613,Austurland,Egilsstöðum,38
 3613,Höfuðborgarsvæðið,Eiðistorgi,32
 3613,Austurland,Fáskrúðsfirði,2
@@ -6664,7 +6652,7 @@ product_id,region,store,quantity
 3613,Suðurland,Reykjanesbæ,31
 3613,Norðurland,Sauðárkróki,26
 3613,Suðurland,Selfossi,43
-3613,Höfuðborgarsvæðið,Skeifunni,61
+3613,Höfuðborgarsvæðið,Skeifunni,60
 3613,Höfuðborgarsvæðið,Skútuvogi,65
 3613,Höfuðborgarsvæðið,Smáralind,28
 3613,Höfuðborgarsvæðið,Spöngin,25
@@ -6692,7 +6680,7 @@ product_id,region,store,quantity
 3621,Höfuðborgarsvæðið,Austurstræti,33
 3621,Vesturland,Borgarnesi,70
 3621,Höfuðborgarsvæðið,Borgartúni,78
-3621,Höfuðborgarsvæðið,Dalvegi,130
+3621,Höfuðborgarsvæðið,Dalvegi,128
 3621,Höfuðborgarsvæðið,Eiðistorgi,57
 3621,Höfuðborgarsvæðið,Hafnarfirði,180
 3621,Höfuðborgarsvæðið,Heiðrún,42
@@ -6722,7 +6710,7 @@ product_id,region,store,quantity
 3636,Höfuðborgarsvæðið,Skútuvogi,18
 3636,Höfuðborgarsvæðið,Spöngin,30
 3647,Norðurland,Akureyri,88
-3647,Höfuðborgarsvæðið,Dalvegi,225
+3647,Höfuðborgarsvæðið,Dalvegi,223
 3647,Höfuðborgarsvæðið,Hafnarfirði,187
 3647,Höfuðborgarsvæðið,Heiðrún,236
 3647,Höfuðborgarsvæðið,Kringlunni,191
@@ -6790,7 +6778,7 @@ product_id,region,store,quantity
 3753,Höfuðborgarsvæðið,Mosfellsbæ,7
 3753,Suðurland,Reykjanesbæ,7
 3753,Suðurland,Selfossi,4
-3753,Höfuðborgarsvæðið,Skeifunni,6
+3753,Höfuðborgarsvæðið,Skeifunni,5
 3753,Höfuðborgarsvæðið,Skútuvogi,11
 3753,Höfuðborgarsvæðið,Smáralind,15
 3753,Höfuðborgarsvæðið,Spöngin,11
@@ -6860,7 +6848,7 @@ product_id,region,store,quantity
 3876,Norðurland,Akureyri,19
 3876,Höfuðborgarsvæðið,Austurstræti,34
 3876,Höfuðborgarsvæðið,Borgartúni,46
-3876,Höfuðborgarsvæðið,Dalvegi,24
+3876,Höfuðborgarsvæðið,Dalvegi,22
 3876,Höfuðborgarsvæðið,Eiðistorgi,48
 3876,Höfuðborgarsvæðið,Hafnarfirði,48
 3876,Höfuðborgarsvæðið,Heiðrún,21
@@ -6890,7 +6878,7 @@ product_id,region,store,quantity
 3902,Höfuðborgarsvæðið,Austurstræti,232
 3902,Höfuðborgarsvæðið,Borgartúni,438
 3902,Vesturland,Búðardal,61
-3902,Höfuðborgarsvæðið,Dalvegi,756
+3902,Höfuðborgarsvæðið,Dalvegi,750
 3902,Höfuðborgarsvæðið,Eiðistorgi,336
 3902,Suðurland,Flúðum,174
 3902,Suðurland,Grindavík,295
@@ -6927,7 +6915,7 @@ product_id,region,store,quantity
 3951,Vesturland,Borgarnesi,638
 3951,Höfuðborgarsvæðið,Borgartúni,1530
 3951,Vesturland,Búðardal,170
-3951,Höfuðborgarsvæðið,Dalvegi,3377
+3951,Höfuðborgarsvæðið,Dalvegi,3287
 3951,Norðurland,Dalvík,320
 3951,Austurland,Djúpivogur,33
 3951,Austurland,Egilsstöðum,411
@@ -6957,7 +6945,7 @@ product_id,region,store,quantity
 3951,Suðurland,Selfossi,1422
 3951,Austurland,Seyðisfirði,124
 3951,Norðurland,Siglufirði,406
-3951,Höfuðborgarsvæðið,Skeifunni,1751
+3951,Höfuðborgarsvæðið,Skeifunni,1704
 3951,Höfuðborgarsvæðið,Skútuvogi,1752
 3951,Höfuðborgarsvæðið,Smáralind,957
 3951,Höfuðborgarsvæðið,Spöngin,1869
@@ -6999,7 +6987,7 @@ product_id,region,store,quantity
 3972,Norðurland,Sauðárkróki,12
 3972,Suðurland,Selfossi,16
 3972,Norðurland,Siglufirði,8
-3972,Höfuðborgarsvæðið,Skeifunni,22
+3972,Höfuðborgarsvæðið,Skeifunni,21
 3972,Höfuðborgarsvæðið,Skútuvogi,6
 3972,Höfuðborgarsvæðið,Smáralind,8
 3972,Höfuðborgarsvæðið,Spöngin,6
@@ -7022,7 +7010,7 @@ product_id,region,store,quantity
 4015,Norðurland,Blönduósi,122
 4015,Vesturland,Borgarnesi,202
 4015,Höfuðborgarsvæðið,Borgartúni,2530
-4015,Höfuðborgarsvæðið,Dalvegi,1497
+4015,Höfuðborgarsvæðið,Dalvegi,1485
 4015,Norðurland,Dalvík,81
 4015,Austurland,Egilsstöðum,294
 4015,Höfuðborgarsvæðið,Eiðistorgi,603
@@ -7047,8 +7035,8 @@ product_id,region,store,quantity
 4015,Suðurland,Selfossi,840
 4015,Austurland,Seyðisfirði,40
 4015,Norðurland,Siglufirði,120
-4015,Höfuðborgarsvæðið,Skeifunni,1570
-4015,Höfuðborgarsvæðið,Skútuvogi,1596
+4015,Höfuðborgarsvæðið,Skeifunni,1556
+4015,Höfuðborgarsvæðið,Skútuvogi,1578
 4015,Höfuðborgarsvæðið,Smáralind,874
 4015,Höfuðborgarsvæðið,Spöngin,1379
 4015,Höfuðborgarsvæðið,Stekkjarbakka,1448
@@ -7094,7 +7082,7 @@ product_id,region,store,quantity
 4027,Suðurland,Selfossi,13
 4027,Austurland,Seyðisfirði,4
 4027,Norðurland,Siglufirði,5
-4027,Höfuðborgarsvæðið,Skeifunni,34
+4027,Höfuðborgarsvæðið,Skeifunni,32
 4027,Höfuðborgarsvæðið,Skútuvogi,21
 4027,Höfuðborgarsvæðið,Smáralind,16
 4027,Höfuðborgarsvæðið,Spöngin,3
@@ -7482,7 +7470,7 @@ product_id,region,store,quantity
 4260,Norðurland,Blönduósi,8
 4260,Vesturland,Borgarnesi,15
 4260,Höfuðborgarsvæðið,Borgartúni,14
-4260,Höfuðborgarsvæðið,Dalvegi,39
+4260,Höfuðborgarsvæðið,Dalvegi,38
 4260,Norðurland,Dalvík,8
 4260,Austurland,Egilsstöðum,18
 4260,Höfuðborgarsvæðið,Eiðistorgi,19
@@ -7869,7 +7857,7 @@ product_id,region,store,quantity
 4519,Austurland,Seyðisfirði,13
 4519,Norðurland,Siglufirði,9
 4519,Höfuðborgarsvæðið,Skeifunni,18
-4519,Höfuðborgarsvæðið,Skútuvogi,24
+4519,Höfuðborgarsvæðið,Skútuvogi,23
 4519,Höfuðborgarsvæðið,Smáralind,20
 4519,Höfuðborgarsvæðið,Spöngin,10
 4519,Höfuðborgarsvæðið,Stekkjarbakka,15
@@ -7923,7 +7911,7 @@ product_id,region,store,quantity
 4573,Vesturland,Borgarnesi,613
 4573,Höfuðborgarsvæðið,Borgartúni,2025
 4573,Vesturland,Búðardal,122
-4573,Höfuðborgarsvæðið,Dalvegi,1536
+4573,Höfuðborgarsvæðið,Dalvegi,1484
 4573,Norðurland,Dalvík,170
 4573,Austurland,Djúpivogur,32
 4573,Austurland,Egilsstöðum,426
@@ -7953,8 +7941,8 @@ product_id,region,store,quantity
 4573,Suðurland,Selfossi,847
 4573,Austurland,Seyðisfirði,127
 4573,Norðurland,Siglufirði,204
-4573,Höfuðborgarsvæðið,Skeifunni,1361
-4573,Höfuðborgarsvæðið,Skútuvogi,2289
+4573,Höfuðborgarsvæðið,Skeifunni,1351
+4573,Höfuðborgarsvæðið,Skútuvogi,2279
 4573,Höfuðborgarsvæðið,Smáralind,196
 4573,Höfuðborgarsvæðið,Spöngin,1030
 4573,Höfuðborgarsvæðið,Stekkjarbakka,1965
@@ -8031,7 +8019,7 @@ product_id,region,store,quantity
 4713,Höfuðborgarsvæðið,Heiðrún,125
 4713,Höfuðborgarsvæðið,Kringlunni,72
 4713,Suðurland,Reykjanesbæ,24
-4713,Höfuðborgarsvæðið,Skeifunni,98
+4713,Höfuðborgarsvæðið,Skeifunni,97
 4713,Höfuðborgarsvæðið,Skútuvogi,109
 4722,Vesturland,Akranesi,7
 4722,Norðurland,Akureyri,8
@@ -8421,7 +8409,7 @@ product_id,region,store,quantity
 4943,Norðurland,Akureyri,72
 4943,Höfuðborgarsvæðið,Austurstræti,114
 4943,Höfuðborgarsvæðið,Borgartúni,58
-4943,Höfuðborgarsvæðið,Dalvegi,99
+4943,Höfuðborgarsvæðið,Dalvegi,85
 4943,Höfuðborgarsvæðið,Eiðistorgi,106
 4943,Höfuðborgarsvæðið,Hafnarfirði,111
 4943,Höfuðborgarsvæðið,Heiðrún,116
@@ -8472,7 +8460,7 @@ product_id,region,store,quantity
 4951,Suðurland,Reykjanesbæ,217
 4951,Suðurland,Selfossi,1167
 4951,Höfuðborgarsvæðið,Skeifunni,282
-4951,Höfuðborgarsvæðið,Skútuvogi,162
+4951,Höfuðborgarsvæðið,Skútuvogi,149
 4951,Höfuðborgarsvæðið,Smáralind,131
 4951,Höfuðborgarsvæðið,Spöngin,366
 4951,Höfuðborgarsvæðið,Stekkjarbakka,241
@@ -8653,7 +8641,7 @@ product_id,region,store,quantity
 5085,Austurland,Seyðisfirði,1
 5085,Norðurland,Siglufirði,18
 5085,Höfuðborgarsvæðið,Skeifunni,20
-5085,Höfuðborgarsvæðið,Skútuvogi,20
+5085,Höfuðborgarsvæðið,Skútuvogi,19
 5085,Höfuðborgarsvæðið,Smáralind,18
 5085,Höfuðborgarsvæðið,Spöngin,13
 5085,Höfuðborgarsvæðið,Stekkjarbakka,18
@@ -8674,7 +8662,7 @@ product_id,region,store,quantity
 5087,Höfuðborgarsvæðið,Mosfellsbæ,4
 5087,Suðurland,Reykjanesbæ,5
 5087,Höfuðborgarsvæðið,Skeifunni,20
-5087,Höfuðborgarsvæðið,Skútuvogi,13
+5087,Höfuðborgarsvæðið,Skútuvogi,12
 5087,Höfuðborgarsvæðið,Smáralind,7
 5087,Höfuðborgarsvæðið,Spöngin,7
 5087,Höfuðborgarsvæðið,Stekkjarbakka,4
@@ -8983,7 +8971,7 @@ product_id,region,store,quantity
 5236,Höfuðborgarsvæðið,Mosfellsbæ,16
 5236,Suðurland,Reykjanesbæ,12
 5236,Suðurland,Selfossi,21
-5236,Höfuðborgarsvæðið,Skeifunni,16
+5236,Höfuðborgarsvæðið,Skeifunni,15
 5236,Höfuðborgarsvæðið,Skútuvogi,21
 5236,Höfuðborgarsvæðið,Smáralind,8
 5236,Höfuðborgarsvæðið,Spöngin,18
@@ -8991,7 +8979,7 @@ product_id,region,store,quantity
 5237,Norðurland,Akureyri,11
 5237,Höfuðborgarsvæðið,Austurstræti,3
 5237,Höfuðborgarsvæðið,Borgartúni,20
-5237,Höfuðborgarsvæðið,Dalvegi,31
+5237,Höfuðborgarsvæðið,Dalvegi,30
 5237,Höfuðborgarsvæðið,Eiðistorgi,12
 5237,Höfuðborgarsvæðið,Hafnarfirði,8
 5237,Höfuðborgarsvæðið,Heiðrún,24
@@ -9182,7 +9170,7 @@ product_id,region,store,quantity
 5269,Vesturland,Borgarnesi,10
 5269,Höfuðborgarsvæðið,Borgartúni,19
 5269,Vesturland,Búðardal,12
-5269,Höfuðborgarsvæðið,Dalvegi,56
+5269,Höfuðborgarsvæðið,Dalvegi,54
 5269,Norðurland,Dalvík,15
 5269,Austurland,Djúpivogur,6
 5269,Austurland,Egilsstöðum,22
@@ -9255,7 +9243,7 @@ product_id,region,store,quantity
 5323,Suðurland,Selfossi,90
 5323,Norðurland,Siglufirði,216
 5323,Höfuðborgarsvæðið,Skeifunni,209
-5323,Höfuðborgarsvæðið,Skútuvogi,168
+5323,Höfuðborgarsvæðið,Skútuvogi,165
 5323,Höfuðborgarsvæðið,Smáralind,84
 5323,Höfuðborgarsvæðið,Spöngin,42
 5323,Höfuðborgarsvæðið,Stekkjarbakka,180
@@ -9288,7 +9276,7 @@ product_id,region,store,quantity
 5416,Höfuðborgarsvæðið,Mosfellsbæ,5
 5416,Suðurland,Reykjanesbæ,6
 5416,Suðurland,Selfossi,8
-5416,Höfuðborgarsvæðið,Skeifunni,14
+5416,Höfuðborgarsvæðið,Skeifunni,13
 5416,Höfuðborgarsvæðið,Skútuvogi,7
 5416,Höfuðborgarsvæðið,Smáralind,7
 5416,Höfuðborgarsvæðið,Spöngin,12
@@ -9481,7 +9469,7 @@ product_id,region,store,quantity
 5541,Norðurland,Akureyri,74
 5541,Höfuðborgarsvæðið,Austurstræti,51
 5541,Höfuðborgarsvæðið,Borgartúni,66
-5541,Höfuðborgarsvæðið,Dalvegi,243
+5541,Höfuðborgarsvæðið,Dalvegi,241
 5541,Norðurland,Dalvík,2
 5541,Höfuðborgarsvæðið,Eiðistorgi,43
 5541,Austurland,Fáskrúðsfirði,14
@@ -9491,8 +9479,8 @@ product_id,region,store,quantity
 5541,Höfuðborgarsvæðið,Mosfellsbæ,77
 5541,Suðurland,Reykjanesbæ,139
 5541,Suðurland,Selfossi,120
-5541,Höfuðborgarsvæðið,Skeifunni,120
-5541,Höfuðborgarsvæðið,Skútuvogi,195
+5541,Höfuðborgarsvæðið,Skeifunni,118
+5541,Höfuðborgarsvæðið,Skútuvogi,189
 5541,Höfuðborgarsvæðið,Smáralind,75
 5541,Höfuðborgarsvæðið,Spöngin,26
 5541,Höfuðborgarsvæðið,Stekkjarbakka,183
@@ -9517,7 +9505,7 @@ product_id,region,store,quantity
 5604,Suðurland,Reykjanesbæ,15
 5604,Norðurland,Sauðárkróki,10
 5604,Suðurland,Selfossi,10
-5604,Höfuðborgarsvæðið,Skeifunni,25
+5604,Höfuðborgarsvæðið,Skeifunni,24
 5604,Höfuðborgarsvæðið,Skútuvogi,19
 5604,Höfuðborgarsvæðið,Smáralind,13
 5604,Höfuðborgarsvæðið,Spöngin,7
@@ -9570,7 +9558,7 @@ product_id,region,store,quantity
 5690,Norðurland,Akureyri,22
 5690,Höfuðborgarsvæðið,Austurstræti,5
 5690,Höfuðborgarsvæðið,Borgartúni,11
-5690,Höfuðborgarsvæðið,Dalvegi,27
+5690,Höfuðborgarsvæðið,Dalvegi,26
 5690,Höfuðborgarsvæðið,Eiðistorgi,11
 5690,Höfuðborgarsvæðið,Hafnarfirði,19
 5690,Höfuðborgarsvæðið,Heiðrún,17
@@ -9669,7 +9657,7 @@ product_id,region,store,quantity
 5771,Vestfirðir,Ísafirði,11
 5771,Vesturland,Ólafsvík,5
 5773,Norðurland,Akureyri,5
-5773,Höfuðborgarsvæðið,Dalvegi,27
+5773,Höfuðborgarsvæðið,Dalvegi,26
 5773,Höfuðborgarsvæðið,Heiðrún,12
 5773,Höfuðborgarsvæðið,Kringlunni,14
 5773,Höfuðborgarsvæðið,Skeifunni,11
@@ -9793,7 +9781,7 @@ product_id,region,store,quantity
 5884,Austurland,Seyðisfirði,11
 5884,Norðurland,Siglufirði,10
 5884,Höfuðborgarsvæðið,Skeifunni,37
-5884,Höfuðborgarsvæðið,Skútuvogi,30
+5884,Höfuðborgarsvæðið,Skútuvogi,29
 5884,Höfuðborgarsvæðið,Smáralind,20
 5884,Höfuðborgarsvæðið,Spöngin,21
 5884,Höfuðborgarsvæðið,Stekkjarbakka,36
@@ -9835,7 +9823,7 @@ product_id,region,store,quantity
 5938,Suðurland,Vestmannaeyjum,9
 5938,Vestfirðir,Ísafirði,7
 5955,Norðurland,Akureyri,14
-5955,Höfuðborgarsvæðið,Dalvegi,8
+5955,Höfuðborgarsvæðið,Dalvegi,7
 5955,Höfuðborgarsvæðið,Hafnarfirði,15
 5955,Höfuðborgarsvæðið,Heiðrún,18
 5955,Höfuðborgarsvæðið,Kringlunni,4
@@ -9900,7 +9888,7 @@ product_id,region,store,quantity
 5977,Suðurland,Selfossi,27
 5977,Austurland,Seyðisfirði,7
 5977,Norðurland,Siglufirði,15
-5977,Höfuðborgarsvæðið,Skeifunni,59
+5977,Höfuðborgarsvæðið,Skeifunni,58
 5977,Höfuðborgarsvæðið,Skútuvogi,35
 5977,Höfuðborgarsvæðið,Smáralind,21
 5977,Höfuðborgarsvæðið,Spöngin,25
@@ -9978,7 +9966,7 @@ product_id,region,store,quantity
 5980,Höfuðborgarsvæðið,Mosfellsbæ,9
 5980,Suðurland,Reykjanesbæ,12
 5980,Suðurland,Selfossi,12
-5980,Höfuðborgarsvæðið,Skeifunni,14
+5980,Höfuðborgarsvæðið,Skeifunni,13
 5980,Höfuðborgarsvæðið,Skútuvogi,4
 5980,Höfuðborgarsvæðið,Smáralind,13
 5980,Höfuðborgarsvæðið,Spöngin,8
@@ -10025,7 +10013,7 @@ product_id,region,store,quantity
 6032,Vesturland,Borgarnesi,19
 6032,Höfuðborgarsvæðið,Borgartúni,34
 6032,Vesturland,Búðardal,7
-6032,Höfuðborgarsvæðið,Dalvegi,89
+6032,Höfuðborgarsvæðið,Dalvegi,86
 6032,Norðurland,Dalvík,4
 6032,Austurland,Djúpivogur,7
 6032,Austurland,Egilsstöðum,18
@@ -10139,7 +10127,7 @@ product_id,region,store,quantity
 6194,Austurland,Seyðisfirði,16
 6194,Norðurland,Siglufirði,17
 6194,Höfuðborgarsvæðið,Skeifunni,39
-6194,Höfuðborgarsvæðið,Skútuvogi,25
+6194,Höfuðborgarsvæðið,Skútuvogi,24
 6194,Höfuðborgarsvæðið,Smáralind,22
 6194,Höfuðborgarsvæðið,Spöngin,27
 6194,Höfuðborgarsvæðið,Stekkjarbakka,53
@@ -10189,7 +10177,7 @@ product_id,region,store,quantity
 6195,Austurland,Seyðisfirði,14
 6195,Norðurland,Siglufirði,12
 6195,Höfuðborgarsvæðið,Skeifunni,28
-6195,Höfuðborgarsvæðið,Skútuvogi,48
+6195,Höfuðborgarsvæðið,Skútuvogi,47
 6195,Höfuðborgarsvæðið,Smáralind,21
 6195,Höfuðborgarsvæðið,Spöngin,26
 6195,Höfuðborgarsvæðið,Stekkjarbakka,40
@@ -10388,7 +10376,7 @@ product_id,region,store,quantity
 6342,Norðurland,Akureyri,17
 6342,Höfuðborgarsvæðið,Austurstræti,6
 6342,Höfuðborgarsvæðið,Borgartúni,11
-6342,Höfuðborgarsvæðið,Dalvegi,15
+6342,Höfuðborgarsvæðið,Dalvegi,14
 6342,Höfuðborgarsvæðið,Eiðistorgi,11
 6342,Höfuðborgarsvæðið,Hafnarfirði,23
 6342,Höfuðborgarsvæðið,Heiðrún,15
@@ -10615,7 +10603,7 @@ product_id,region,store,quantity
 6437,Austurland,Seyðisfirði,11
 6437,Norðurland,Siglufirði,12
 6437,Höfuðborgarsvæðið,Skeifunni,33
-6437,Höfuðborgarsvæðið,Skútuvogi,32
+6437,Höfuðborgarsvæðið,Skútuvogi,30
 6437,Höfuðborgarsvæðið,Smáralind,21
 6437,Höfuðborgarsvæðið,Spöngin,5
 6437,Höfuðborgarsvæðið,Stekkjarbakka,27
@@ -10791,7 +10779,7 @@ product_id,region,store,quantity
 6610,Norðurland,Blönduósi,7
 6610,Vesturland,Borgarnesi,25
 6610,Höfuðborgarsvæðið,Borgartúni,48
-6610,Höfuðborgarsvæðið,Dalvegi,64
+6610,Höfuðborgarsvæðið,Dalvegi,63
 6610,Norðurland,Dalvík,5
 6610,Austurland,Egilsstöðum,11
 6610,Höfuðborgarsvæðið,Eiðistorgi,21
@@ -10841,7 +10829,7 @@ product_id,region,store,quantity
 6634,Norðurland,Akureyri,88
 6634,Höfuðborgarsvæðið,Austurstræti,171
 6634,Höfuðborgarsvæðið,Borgartúni,73
-6634,Höfuðborgarsvæðið,Dalvegi,81
+6634,Höfuðborgarsvæðið,Dalvegi,75
 6634,Austurland,Egilsstöðum,8
 6634,Höfuðborgarsvæðið,Eiðistorgi,68
 6634,Höfuðborgarsvæðið,Hafnarfirði,115
@@ -10893,7 +10881,7 @@ product_id,region,store,quantity
 6672,Vesturland,Borgarnesi,500
 6672,Höfuðborgarsvæðið,Borgartúni,1836
 6672,Vesturland,Búðardal,54
-6672,Höfuðborgarsvæðið,Dalvegi,2305
+6672,Höfuðborgarsvæðið,Dalvegi,2288
 6672,Norðurland,Dalvík,91
 6672,Austurland,Djúpivogur,34
 6672,Austurland,Egilsstöðum,562
@@ -10924,7 +10912,7 @@ product_id,region,store,quantity
 6672,Austurland,Seyðisfirði,51
 6672,Norðurland,Siglufirði,175
 6672,Höfuðborgarsvæðið,Skeifunni,2456
-6672,Höfuðborgarsvæðið,Skútuvogi,2268
+6672,Höfuðborgarsvæðið,Skútuvogi,2258
 6672,Höfuðborgarsvæðið,Smáralind,301
 6672,Höfuðborgarsvæðið,Spöngin,1080
 6672,Höfuðborgarsvæðið,Stekkjarbakka,441
@@ -10944,7 +10932,7 @@ product_id,region,store,quantity
 6696,Höfuðborgarsvæðið,Kringlunni,43
 6696,Höfuðborgarsvæðið,Mosfellsbæ,148
 6696,Höfuðborgarsvæðið,Skeifunni,242
-6696,Höfuðborgarsvæðið,Skútuvogi,273
+6696,Höfuðborgarsvæðið,Skútuvogi,271
 6696,Höfuðborgarsvæðið,Spöngin,129
 6696,Höfuðborgarsvæðið,Stekkjarbakka,160
 6706,Vesturland,Akranesi,11
@@ -11021,8 +11009,8 @@ product_id,region,store,quantity
 6707,Suðurland,Selfossi,18
 6707,Austurland,Seyðisfirði,16
 6707,Norðurland,Siglufirði,6
-6707,Höfuðborgarsvæðið,Skeifunni,17
-6707,Höfuðborgarsvæðið,Skútuvogi,34
+6707,Höfuðborgarsvæðið,Skeifunni,16
+6707,Höfuðborgarsvæðið,Skútuvogi,32
 6707,Höfuðborgarsvæðið,Smáralind,9
 6707,Höfuðborgarsvæðið,Spöngin,6
 6707,Höfuðborgarsvæðið,Stekkjarbakka,15
@@ -11337,7 +11325,7 @@ product_id,region,store,quantity
 6932,Norðurland,Akureyri,50
 6932,Höfuðborgarsvæðið,Austurstræti,81
 6932,Höfuðborgarsvæðið,Borgartúni,32
-6932,Höfuðborgarsvæðið,Dalvegi,71
+6932,Höfuðborgarsvæðið,Dalvegi,69
 6932,Höfuðborgarsvæðið,Eiðistorgi,45
 6932,Höfuðborgarsvæðið,Hafnarfirði,69
 6932,Höfuðborgarsvæðið,Heiðrún,85
@@ -11347,7 +11335,7 @@ product_id,region,store,quantity
 6932,Suðurland,Reykjanesbæ,47
 6932,Norðurland,Sauðárkróki,1
 6932,Suðurland,Selfossi,62
-6932,Höfuðborgarsvæðið,Skeifunni,67
+6932,Höfuðborgarsvæðið,Skeifunni,66
 6932,Höfuðborgarsvæðið,Skútuvogi,18
 6932,Höfuðborgarsvæðið,Smáralind,58
 6932,Höfuðborgarsvæðið,Spöngin,44
@@ -11375,7 +11363,7 @@ product_id,region,store,quantity
 6941,Vesturland,Borgarnesi,16
 6941,Höfuðborgarsvæðið,Borgartúni,5
 6941,Vesturland,Búðardal,6
-6941,Höfuðborgarsvæðið,Dalvegi,48
+6941,Höfuðborgarsvæðið,Dalvegi,47
 6941,Norðurland,Dalvík,15
 6941,Austurland,Djúpivogur,7
 6941,Austurland,Egilsstöðum,11
@@ -11456,7 +11444,7 @@ product_id,region,store,quantity
 6972,Höfuðborgarsvæðið,Smáralind,78
 6972,Höfuðborgarsvæðið,Stekkjarbakka,18
 6975,Norðurland,Akureyri,83
-6975,Höfuðborgarsvæðið,Dalvegi,109
+6975,Höfuðborgarsvæðið,Dalvegi,107
 6975,Höfuðborgarsvæðið,Hafnarfirði,86
 6975,Höfuðborgarsvæðið,Heiðrún,94
 6975,Höfuðborgarsvæðið,Kringlunni,286
@@ -11545,7 +11533,7 @@ product_id,region,store,quantity
 6997,Vesturland,Borgarnesi,17
 6997,Höfuðborgarsvæðið,Borgartúni,35
 6997,Vesturland,Búðardal,7
-6997,Höfuðborgarsvæðið,Dalvegi,76
+6997,Höfuðborgarsvæðið,Dalvegi,75
 6997,Norðurland,Dalvík,13
 6997,Austurland,Djúpivogur,5
 6997,Austurland,Egilsstöðum,20
@@ -11664,7 +11652,7 @@ product_id,region,store,quantity
 7033,Norðurland,Blönduósi,9
 7033,Vesturland,Borgarnesi,11
 7033,Höfuðborgarsvæðið,Borgartúni,14
-7033,Höfuðborgarsvæðið,Dalvegi,34
+7033,Höfuðborgarsvæðið,Dalvegi,33
 7033,Norðurland,Dalvík,20
 7033,Austurland,Egilsstöðum,16
 7033,Höfuðborgarsvæðið,Eiðistorgi,18
@@ -11696,7 +11684,7 @@ product_id,region,store,quantity
 7033,Vestfirðir,Ísafirði,7
 7033,Vesturland,Ólafsvík,10
 7034,Norðurland,Akureyri,11
-7034,Höfuðborgarsvæðið,Dalvegi,9
+7034,Höfuðborgarsvæðið,Dalvegi,8
 7034,Höfuðborgarsvæðið,Hafnarfirði,8
 7034,Höfuðborgarsvæðið,Heiðrún,28
 7034,Höfuðborgarsvæðið,Kringlunni,25
@@ -11841,7 +11829,7 @@ product_id,region,store,quantity
 7197,Höfuðborgarsvæðið,Heiðrún,32
 7197,Höfuðborgarsvæðið,Kringlunni,21
 7197,Höfuðborgarsvæðið,Skeifunni,50
-7197,Höfuðborgarsvæðið,Skútuvogi,19
+7197,Höfuðborgarsvæðið,Skútuvogi,14
 7216,Norðurland,Akureyri,8
 7216,Norðurland,Dalvík,1
 7216,Höfuðborgarsvæðið,Hafnarfirði,1
@@ -11857,7 +11845,7 @@ product_id,region,store,quantity
 7250,Vesturland,Borgarnesi,366
 7250,Höfuðborgarsvæðið,Borgartúni,1791
 7250,Vesturland,Búðardal,90
-7250,Höfuðborgarsvæðið,Dalvegi,1249
+7250,Höfuðborgarsvæðið,Dalvegi,1227
 7250,Norðurland,Dalvík,114
 7250,Austurland,Djúpivogur,35
 7250,Austurland,Egilsstöðum,387
@@ -11887,8 +11875,8 @@ product_id,region,store,quantity
 7250,Suðurland,Selfossi,919
 7250,Austurland,Seyðisfirði,31
 7250,Norðurland,Siglufirði,120
-7250,Höfuðborgarsvæðið,Skeifunni,1747
-7250,Höfuðborgarsvæðið,Skútuvogi,1470
+7250,Höfuðborgarsvæðið,Skeifunni,1705
+7250,Höfuðborgarsvæðið,Skútuvogi,1444
 7250,Höfuðborgarsvæðið,Smáralind,384
 7250,Höfuðborgarsvæðið,Spöngin,1908
 7250,Höfuðborgarsvæðið,Stekkjarbakka,674
@@ -11906,7 +11894,7 @@ product_id,region,store,quantity
 7251,Norðurland,Blönduósi,8
 7251,Vesturland,Borgarnesi,12
 7251,Höfuðborgarsvæðið,Borgartúni,22
-7251,Höfuðborgarsvæðið,Dalvegi,25
+7251,Höfuðborgarsvæðið,Dalvegi,24
 7251,Norðurland,Dalvík,17
 7251,Austurland,Egilsstöðum,22
 7251,Höfuðborgarsvæðið,Eiðistorgi,9
@@ -12400,7 +12388,7 @@ product_id,region,store,quantity
 7709,Norðurland,Akureyri,265
 7709,Höfuðborgarsvæðið,Austurstræti,239
 7709,Höfuðborgarsvæðið,Borgartúni,358
-7709,Höfuðborgarsvæðið,Dalvegi,568
+7709,Höfuðborgarsvæðið,Dalvegi,556
 7709,Austurland,Djúpivogur,48
 7709,Höfuðborgarsvæðið,Eiðistorgi,244
 7709,Höfuðborgarsvæðið,Hafnarfirði,235
@@ -12411,7 +12399,7 @@ product_id,region,store,quantity
 7709,Suðurland,Reykjanesbæ,318
 7709,Suðurland,Selfossi,222
 7709,Höfuðborgarsvæðið,Skeifunni,306
-7709,Höfuðborgarsvæðið,Skútuvogi,450
+7709,Höfuðborgarsvæðið,Skútuvogi,438
 7709,Höfuðborgarsvæðið,Smáralind,183
 7709,Höfuðborgarsvæðið,Spöngin,156
 7709,Höfuðborgarsvæðið,Stekkjarbakka,193
@@ -12576,7 +12564,7 @@ product_id,region,store,quantity
 7836,Vesturland,Borgarnesi,11
 7836,Höfuðborgarsvæðið,Borgartúni,32
 7836,Vesturland,Búðardal,11
-7836,Höfuðborgarsvæðið,Dalvegi,95
+7836,Höfuðborgarsvæðið,Dalvegi,94
 7836,Norðurland,Dalvík,7
 7836,Austurland,Djúpivogur,4
 7836,Austurland,Egilsstöðum,25
@@ -12606,7 +12594,7 @@ product_id,region,store,quantity
 7836,Suðurland,Selfossi,43
 7836,Austurland,Seyðisfirði,7
 7836,Norðurland,Siglufirði,15
-7836,Höfuðborgarsvæðið,Skeifunni,61
+7836,Höfuðborgarsvæðið,Skeifunni,60
 7836,Höfuðborgarsvæðið,Skútuvogi,30
 7836,Höfuðborgarsvæðið,Smáralind,43
 7836,Höfuðborgarsvæðið,Spöngin,45
@@ -12693,7 +12681,7 @@ product_id,region,store,quantity
 7882,Suðurland,Vestmannaeyjum,4
 7882,Vestfirðir,Ísafirði,11
 7883,Norðurland,Akureyri,19
-7883,Höfuðborgarsvæðið,Dalvegi,32
+7883,Höfuðborgarsvæðið,Dalvegi,31
 7883,Höfuðborgarsvæðið,Hafnarfirði,19
 7883,Höfuðborgarsvæðið,Heiðrún,26
 7883,Höfuðborgarsvæðið,Kringlunni,4
@@ -12711,7 +12699,7 @@ product_id,region,store,quantity
 7898,Vesturland,Borgarnesi,432
 7898,Höfuðborgarsvæðið,Borgartúni,2620
 7898,Vesturland,Búðardal,152
-7898,Höfuðborgarsvæðið,Dalvegi,1140
+7898,Höfuðborgarsvæðið,Dalvegi,1086
 7898,Norðurland,Dalvík,78
 7898,Austurland,Djúpivogur,9
 7898,Austurland,Egilsstöðum,505
@@ -12741,8 +12729,8 @@ product_id,region,store,quantity
 7898,Suðurland,Selfossi,1144
 7898,Austurland,Seyðisfirði,134
 7898,Norðurland,Siglufirði,192
-7898,Höfuðborgarsvæðið,Skeifunni,1673
-7898,Höfuðborgarsvæðið,Skútuvogi,133
+7898,Höfuðborgarsvæðið,Skeifunni,1659
+7898,Höfuðborgarsvæðið,Skútuvogi,126
 7898,Höfuðborgarsvæðið,Smáralind,2182
 7898,Höfuðborgarsvæðið,Spöngin,328
 7898,Höfuðborgarsvæðið,Stekkjarbakka,1554
@@ -12754,10 +12742,6 @@ product_id,region,store,quantity
 7898,Vesturland,Ólafsvík,91
 7898,Suðurland,Þorlákshöfn,174
 7898,Austurland,Þórshöfn,114
-7945,Höfuðborgarsvæðið,Hafnarfirði,9
-7945,Höfuðborgarsvæðið,Heiðrún,11
-7945,Höfuðborgarsvæðið,Kringlunni,6
-7945,Höfuðborgarsvæðið,Skútuvogi,13
 7946,Höfuðborgarsvæðið,Heiðrún,5
 7946,Höfuðborgarsvæðið,Kringlunni,6
 7946,Höfuðborgarsvæðið,Skútuvogi,3
@@ -12788,8 +12772,8 @@ product_id,region,store,quantity
 7953,Höfuðborgarsvæðið,Mosfellsbæ,143
 7953,Suðurland,Reykjanesbæ,290
 7953,Suðurland,Selfossi,96
-7953,Höfuðborgarsvæðið,Skeifunni,129
-7953,Höfuðborgarsvæðið,Skútuvogi,197
+7953,Höfuðborgarsvæðið,Skeifunni,125
+7953,Höfuðborgarsvæðið,Skútuvogi,196
 7953,Höfuðborgarsvæðið,Smáralind,99
 7953,Höfuðborgarsvæðið,Spöngin,112
 7953,Höfuðborgarsvæðið,Stekkjarbakka,121
@@ -12799,7 +12783,7 @@ product_id,region,store,quantity
 7960,Vesturland,Borgarnesi,385
 7960,Höfuðborgarsvæðið,Borgartúni,1744
 7960,Vesturland,Búðardal,84
-7960,Höfuðborgarsvæðið,Dalvegi,1750
+7960,Höfuðborgarsvæðið,Dalvegi,1747
 7960,Norðurland,Dalvík,90
 7960,Austurland,Djúpivogur,29
 7960,Austurland,Egilsstöðum,330
@@ -12829,8 +12813,8 @@ product_id,region,store,quantity
 7960,Suðurland,Selfossi,561
 7960,Austurland,Seyðisfirði,76
 7960,Norðurland,Siglufirði,338
-7960,Höfuðborgarsvæðið,Skeifunni,2097
-7960,Höfuðborgarsvæðið,Skútuvogi,1582
+7960,Höfuðborgarsvæðið,Skeifunni,2087
+7960,Höfuðborgarsvæðið,Skútuvogi,1567
 7960,Höfuðborgarsvæðið,Smáralind,1218
 7960,Höfuðborgarsvæðið,Spöngin,1646
 7960,Höfuðborgarsvæðið,Stekkjarbakka,1370
@@ -12873,7 +12857,7 @@ product_id,region,store,quantity
 7976,Norðurland,Blönduósi,6
 7976,Vesturland,Borgarnesi,7
 7976,Höfuðborgarsvæðið,Borgartúni,8
-7976,Höfuðborgarsvæðið,Dalvegi,27
+7976,Höfuðborgarsvæðið,Dalvegi,24
 7976,Norðurland,Dalvík,3
 7976,Austurland,Egilsstöðum,12
 7976,Höfuðborgarsvæðið,Eiðistorgi,12
@@ -12911,7 +12895,7 @@ product_id,region,store,quantity
 7992,Norðurland,Blönduósi,10
 7992,Vesturland,Borgarnesi,17
 7992,Höfuðborgarsvæðið,Borgartúni,13
-7992,Höfuðborgarsvæðið,Dalvegi,48
+7992,Höfuðborgarsvæðið,Dalvegi,47
 7992,Norðurland,Dalvík,13
 7992,Austurland,Egilsstöðum,18
 7992,Höfuðborgarsvæðið,Eiðistorgi,16
@@ -13005,7 +12989,7 @@ product_id,region,store,quantity
 8014,Norðurland,Akureyri,194
 8014,Höfuðborgarsvæðið,Austurstræti,59
 8014,Höfuðborgarsvæðið,Borgartúni,239
-8014,Höfuðborgarsvæðið,Dalvegi,643
+8014,Höfuðborgarsvæðið,Dalvegi,637
 8014,Austurland,Djúpivogur,72
 8014,Höfuðborgarsvæðið,Eiðistorgi,281
 8014,Austurland,Fáskrúðsfirði,150
@@ -13030,12 +13014,12 @@ product_id,region,store,quantity
 8026,Höfuðborgarsvæðið,Kringlunni,4
 8026,Höfuðborgarsvæðið,Skútuvogi,3
 8036,Norðurland,Akureyri,61
-8036,Höfuðborgarsvæðið,Dalvegi,121
+8036,Höfuðborgarsvæðið,Dalvegi,118
 8036,Höfuðborgarsvæðið,Hafnarfirði,39
 8036,Höfuðborgarsvæðið,Heiðrún,76
 8036,Höfuðborgarsvæðið,Kringlunni,94
 8036,Höfuðborgarsvæðið,Skeifunni,81
-8036,Höfuðborgarsvæðið,Skútuvogi,37
+8036,Höfuðborgarsvæðið,Skútuvogi,34
 8111,Vesturland,Akranesi,8
 8111,Norðurland,Akureyri,18
 8111,Höfuðborgarsvæðið,Austurstræti,51
@@ -13597,7 +13581,7 @@ product_id,region,store,quantity
 8844,Suðurland,Reykjanesbæ,20
 8844,Norðurland,Sauðárkróki,13
 8844,Suðurland,Selfossi,25
-8844,Höfuðborgarsvæðið,Skeifunni,21
+8844,Höfuðborgarsvæðið,Skeifunni,20
 8844,Höfuðborgarsvæðið,Skútuvogi,25
 8844,Höfuðborgarsvæðið,Smáralind,25
 8844,Höfuðborgarsvæðið,Spöngin,19
@@ -13794,7 +13778,7 @@ product_id,region,store,quantity
 9096,Austurland,Seyðisfirði,10
 9096,Norðurland,Siglufirði,8
 9096,Höfuðborgarsvæðið,Skeifunni,14
-9096,Höfuðborgarsvæðið,Skútuvogi,25
+9096,Höfuðborgarsvæðið,Skútuvogi,24
 9096,Höfuðborgarsvæðið,Smáralind,11
 9096,Höfuðborgarsvæðið,Spöngin,7
 9096,Höfuðborgarsvæðið,Stekkjarbakka,38
@@ -13833,7 +13817,7 @@ product_id,region,store,quantity
 9099,Höfuðborgarsvæðið,Stekkjarbakka,1
 9099,Suðurland,Vestmannaeyjum,2
 9101,Norðurland,Akureyri,59
-9101,Höfuðborgarsvæðið,Dalvegi,134
+9101,Höfuðborgarsvæðið,Dalvegi,133
 9101,Höfuðborgarsvæðið,Hafnarfirði,51
 9101,Höfuðborgarsvæðið,Heiðrún,56
 9101,Höfuðborgarsvæðið,Kringlunni,96
@@ -13858,7 +13842,7 @@ product_id,region,store,quantity
 9105,Suðurland,Selfossi,67
 9105,Norðurland,Siglufirði,5
 9105,Höfuðborgarsvæðið,Skeifunni,63
-9105,Höfuðborgarsvæðið,Skútuvogi,80
+9105,Höfuðborgarsvæðið,Skútuvogi,77
 9105,Höfuðborgarsvæðið,Smáralind,39
 9105,Höfuðborgarsvæðið,Spöngin,86
 9105,Höfuðborgarsvæðið,Stekkjarbakka,122
@@ -13932,7 +13916,7 @@ product_id,region,store,quantity
 9179,Höfuðborgarsvæðið,Mosfellsbæ,9
 9179,Suðurland,Reykjanesbæ,7
 9179,Suðurland,Selfossi,9
-9179,Höfuðborgarsvæðið,Skeifunni,4
+9179,Höfuðborgarsvæðið,Skeifunni,3
 9179,Höfuðborgarsvæðið,Skútuvogi,7
 9179,Höfuðborgarsvæðið,Smáralind,9
 9179,Höfuðborgarsvæðið,Spöngin,10
@@ -13996,7 +13980,7 @@ product_id,region,store,quantity
 9206,Norðurland,Akureyri,17
 9206,Höfuðborgarsvæðið,Austurstræti,2
 9206,Höfuðborgarsvæðið,Borgartúni,18
-9206,Höfuðborgarsvæðið,Dalvegi,12
+9206,Höfuðborgarsvæðið,Dalvegi,11
 9206,Höfuðborgarsvæðið,Eiðistorgi,19
 9206,Höfuðborgarsvæðið,Hafnarfirði,7
 9206,Höfuðborgarsvæðið,Heiðrún,25
@@ -14167,8 +14151,8 @@ product_id,region,store,quantity
 9510,Suðurland,Selfossi,18
 9510,Austurland,Seyðisfirði,6
 9510,Norðurland,Siglufirði,6
-9510,Höfuðborgarsvæðið,Skeifunni,44
-9510,Höfuðborgarsvæðið,Skútuvogi,28
+9510,Höfuðborgarsvæðið,Skeifunni,43
+9510,Höfuðborgarsvæðið,Skútuvogi,27
 9510,Höfuðborgarsvæðið,Smáralind,12
 9510,Höfuðborgarsvæðið,Spöngin,15
 9510,Höfuðborgarsvæðið,Stekkjarbakka,13
@@ -14205,13 +14189,13 @@ product_id,region,store,quantity
 9559,Höfuðborgarsvæðið,Heiðrún,35
 9559,Höfuðborgarsvæðið,Kringlunni,13
 9559,Suðurland,Reykjanesbæ,11
-9559,Höfuðborgarsvæðið,Skeifunni,3
+9559,Höfuðborgarsvæðið,Skeifunni,2
 9559,Höfuðborgarsvæðið,Skútuvogi,14
 9559,Höfuðborgarsvæðið,Smáralind,13
 9562,Norðurland,Akureyri,11
 9562,Höfuðborgarsvæðið,Austurstræti,5
 9562,Höfuðborgarsvæðið,Borgartúni,11
-9562,Höfuðborgarsvæðið,Dalvegi,47
+9562,Höfuðborgarsvæðið,Dalvegi,46
 9562,Höfuðborgarsvæðið,Eiðistorgi,14
 9562,Höfuðborgarsvæðið,Hafnarfirði,11
 9562,Höfuðborgarsvæðið,Heiðrún,19
@@ -14378,8 +14362,8 @@ product_id,region,store,quantity
 9633,Suðurland,Selfossi,208
 9633,Austurland,Seyðisfirði,6
 9633,Norðurland,Siglufirði,132
-9633,Höfuðborgarsvæðið,Skeifunni,720
-9633,Höfuðborgarsvæðið,Skútuvogi,1478
+9633,Höfuðborgarsvæðið,Skeifunni,714
+9633,Höfuðborgarsvæðið,Skútuvogi,1472
 9633,Höfuðborgarsvæðið,Smáralind,505
 9633,Höfuðborgarsvæðið,Spöngin,684
 9633,Höfuðborgarsvæðið,Stekkjarbakka,1095
@@ -14467,16 +14451,12 @@ product_id,region,store,quantity
 9656,Höfuðborgarsvæðið,Smáralind,17
 9656,Höfuðborgarsvæðið,Spöngin,7
 9656,Höfuðborgarsvæðið,Stekkjarbakka,19
-9669,Höfuðborgarsvæðið,Hafnarfirði,6
-9669,Höfuðborgarsvæðið,Heiðrún,11
-9669,Höfuðborgarsvæðið,Kringlunni,4
-9669,Höfuðborgarsvæðið,Skútuvogi,5
 9672,Vesturland,Akranesi,280
 9672,Norðurland,Akureyri,451
 9672,Höfuðborgarsvæðið,Austurstræti,182
 9672,Norðurland,Blönduósi,113
 9672,Höfuðborgarsvæðið,Borgartúni,354
-9672,Höfuðborgarsvæðið,Dalvegi,539
+9672,Höfuðborgarsvæðið,Dalvegi,514
 9672,Norðurland,Dalvík,3
 9672,Höfuðborgarsvæðið,Eiðistorgi,405
 9672,Suðurland,Flúðum,222
@@ -14491,7 +14471,7 @@ product_id,region,store,quantity
 9672,Suðurland,Reykjanesbæ,564
 9672,Suðurland,Selfossi,726
 9672,Norðurland,Siglufirði,247
-9672,Höfuðborgarsvæðið,Skeifunni,410
+9672,Höfuðborgarsvæðið,Skeifunni,405
 9672,Höfuðborgarsvæðið,Skútuvogi,235
 9672,Höfuðborgarsvæðið,Smáralind,231
 9672,Höfuðborgarsvæðið,Spöngin,261
@@ -14557,7 +14537,7 @@ product_id,region,store,quantity
 9731,Höfuðborgarsvæðið,Kringlunni,97
 9731,Höfuðborgarsvæðið,Mosfellsbæ,56
 9731,Höfuðborgarsvæðið,Skeifunni,124
-9731,Höfuðborgarsvæðið,Skútuvogi,268
+9731,Höfuðborgarsvæðið,Skútuvogi,252
 9739,Norðurland,Akureyri,5
 9739,Höfuðborgarsvæðið,Dalvegi,8
 9739,Höfuðborgarsvæðið,Hafnarfirði,3
@@ -14636,7 +14616,7 @@ product_id,region,store,quantity
 9817,Suðurland,Selfossi,1175
 9817,Norðurland,Siglufirði,307
 9817,Höfuðborgarsvæðið,Skeifunni,747
-9817,Höfuðborgarsvæðið,Skútuvogi,477
+9817,Höfuðborgarsvæðið,Skútuvogi,463
 9817,Höfuðborgarsvæðið,Smáralind,557
 9817,Höfuðborgarsvæðið,Spöngin,185
 9817,Höfuðborgarsvæðið,Stekkjarbakka,695
@@ -14673,8 +14653,8 @@ product_id,region,store,quantity
 9818,Norðurland,Sauðárkróki,591
 9818,Suðurland,Selfossi,1947
 9818,Austurland,Seyðisfirði,134
-9818,Höfuðborgarsvæðið,Skeifunni,893
-9818,Höfuðborgarsvæðið,Skútuvogi,893
+9818,Höfuðborgarsvæðið,Skeifunni,869
+9818,Höfuðborgarsvæðið,Skútuvogi,887
 9818,Höfuðborgarsvæðið,Smáralind,141
 9818,Höfuðborgarsvæðið,Spöngin,623
 9818,Höfuðborgarsvæðið,Stekkjarbakka,832
@@ -14689,7 +14669,7 @@ product_id,region,store,quantity
 9819,Vesturland,Borgarnesi,836
 9819,Höfuðborgarsvæðið,Borgartúni,792
 9819,Vesturland,Búðardal,184
-9819,Höfuðborgarsvæðið,Dalvegi,1381
+9819,Höfuðborgarsvæðið,Dalvegi,1378
 9819,Norðurland,Dalvík,643
 9819,Austurland,Egilsstöðum,747
 9819,Höfuðborgarsvæðið,Eiðistorgi,323
@@ -14756,7 +14736,7 @@ product_id,region,store,quantity
 9825,Suðurland,Selfossi,249
 9825,Norðurland,Siglufirði,254
 9825,Höfuðborgarsvæðið,Skeifunni,1438
-9825,Höfuðborgarsvæðið,Skútuvogi,675
+9825,Höfuðborgarsvæðið,Skútuvogi,671
 9825,Höfuðborgarsvæðið,Smáralind,459
 9825,Höfuðborgarsvæðið,Spöngin,65
 9825,Höfuðborgarsvæðið,Stekkjarbakka,305
@@ -14814,7 +14794,7 @@ product_id,region,store,quantity
 9858,Vesturland,Borgarnesi,7
 9858,Höfuðborgarsvæðið,Borgartúni,10
 9858,Vesturland,Búðardal,14
-9858,Höfuðborgarsvæðið,Dalvegi,23
+9858,Höfuðborgarsvæðið,Dalvegi,22
 9858,Norðurland,Dalvík,10
 9858,Austurland,Djúpivogur,6
 9858,Austurland,Egilsstöðum,10
@@ -14864,7 +14844,7 @@ product_id,region,store,quantity
 9859,Vesturland,Borgarnesi,9
 9859,Höfuðborgarsvæðið,Borgartúni,10
 9859,Vesturland,Búðardal,7
-9859,Höfuðborgarsvæðið,Dalvegi,29
+9859,Höfuðborgarsvæðið,Dalvegi,28
 9859,Norðurland,Dalvík,14
 9859,Austurland,Djúpivogur,13
 9859,Austurland,Egilsstöðum,19
@@ -14908,7 +14888,7 @@ product_id,region,store,quantity
 9859,Suðurland,Þorlákshöfn,7
 9859,Austurland,Þórshöfn,9
 9914,Norðurland,Akureyri,108
-9914,Höfuðborgarsvæðið,Dalvegi,216
+9914,Höfuðborgarsvæðið,Dalvegi,210
 9914,Suðurland,Grindavík,121
 9914,Höfuðborgarsvæðið,Hafnarfirði,73
 9914,Höfuðborgarsvæðið,Heiðrún,103
@@ -15157,7 +15137,7 @@ product_id,region,store,quantity
 10276,Suðurland,Reykjanesbæ,241
 10276,Suðurland,Selfossi,21
 10276,Höfuðborgarsvæðið,Skeifunni,184
-10276,Höfuðborgarsvæðið,Skútuvogi,212
+10276,Höfuðborgarsvæðið,Skútuvogi,210
 10276,Höfuðborgarsvæðið,Smáralind,39
 10276,Höfuðborgarsvæðið,Spöngin,162
 10276,Höfuðborgarsvæðið,Stekkjarbakka,284
@@ -15372,7 +15352,7 @@ product_id,region,store,quantity
 10393,Norðurland,Akureyri,13
 10393,Höfuðborgarsvæðið,Austurstræti,7
 10393,Höfuðborgarsvæðið,Borgartúni,11
-10393,Höfuðborgarsvæðið,Dalvegi,15
+10393,Höfuðborgarsvæðið,Dalvegi,14
 10393,Höfuðborgarsvæðið,Eiðistorgi,5
 10393,Höfuðborgarsvæðið,Hafnarfirði,10
 10393,Höfuðborgarsvæðið,Heiðrún,13
@@ -15496,7 +15476,7 @@ product_id,region,store,quantity
 10427,Vesturland,Borgarnesi,808
 10427,Höfuðborgarsvæðið,Borgartúni,772
 10427,Vesturland,Búðardal,148
-10427,Höfuðborgarsvæðið,Dalvegi,1669
+10427,Höfuðborgarsvæðið,Dalvegi,1663
 10427,Norðurland,Dalvík,184
 10427,Austurland,Djúpivogur,1
 10427,Austurland,Egilsstöðum,219
@@ -15519,8 +15499,8 @@ product_id,region,store,quantity
 10427,Norðurland,Sauðárkróki,197
 10427,Suðurland,Selfossi,741
 10427,Austurland,Seyðisfirði,151
-10427,Höfuðborgarsvæðið,Skeifunni,2113
-10427,Höfuðborgarsvæðið,Skútuvogi,2385
+10427,Höfuðborgarsvæðið,Skeifunni,2095
+10427,Höfuðborgarsvæðið,Skútuvogi,2364
 10427,Höfuðborgarsvæðið,Smáralind,572
 10427,Höfuðborgarsvæðið,Spöngin,1447
 10427,Höfuðborgarsvæðið,Stekkjarbakka,1790
@@ -15554,7 +15534,7 @@ product_id,region,store,quantity
 10446,Höfuðborgarsvæðið,Austurstræti,54
 10446,Vesturland,Borgarnesi,89
 10446,Höfuðborgarsvæðið,Borgartúni,140
-10446,Höfuðborgarsvæðið,Dalvegi,158
+10446,Höfuðborgarsvæðið,Dalvegi,156
 10446,Norðurland,Dalvík,10
 10446,Austurland,Djúpivogur,19
 10446,Austurland,Egilsstöðum,37
@@ -15583,7 +15563,7 @@ product_id,region,store,quantity
 10459,Höfuðborgarsvæðið,Heiðrún,17
 10459,Höfuðborgarsvæðið,Kringlunni,7
 10459,Suðurland,Reykjanesbæ,3
-10459,Höfuðborgarsvæðið,Skútuvogi,17
+10459,Höfuðborgarsvæðið,Skútuvogi,16
 10459,Höfuðborgarsvæðið,Smáralind,17
 10471,Höfuðborgarsvæðið,Hafnarfirði,1
 10471,Höfuðborgarsvæðið,Kringlunni,8
@@ -15663,7 +15643,7 @@ product_id,region,store,quantity
 10596,Höfuðborgarsvæðið,Austurstræti,15
 10596,Norðurland,Blönduósi,17
 10596,Höfuðborgarsvæðið,Borgartúni,38
-10596,Höfuðborgarsvæðið,Dalvegi,158
+10596,Höfuðborgarsvæðið,Dalvegi,157
 10596,Norðurland,Dalvík,72
 10596,Austurland,Egilsstöðum,230
 10596,Höfuðborgarsvæðið,Eiðistorgi,50
@@ -15780,7 +15760,7 @@ product_id,region,store,quantity
 10635,Höfuðborgarsvæðið,Hafnarfirði,84
 10635,Höfuðborgarsvæðið,Heiðrún,56
 10635,Höfuðborgarsvæðið,Kringlunni,82
-10635,Höfuðborgarsvæðið,Skeifunni,76
+10635,Höfuðborgarsvæðið,Skeifunni,75
 10635,Höfuðborgarsvæðið,Skútuvogi,73
 10635,Suðurland,Vestmannaeyjum,115
 10635,Austurland,Vopnafirði,14
@@ -16121,8 +16101,8 @@ product_id,region,store,quantity
 10786,Suðurland,Selfossi,269
 10786,Austurland,Seyðisfirði,62
 10786,Norðurland,Siglufirði,110
-10786,Höfuðborgarsvæðið,Skeifunni,923
-10786,Höfuðborgarsvæðið,Skútuvogi,505
+10786,Höfuðborgarsvæðið,Skeifunni,911
+10786,Höfuðborgarsvæðið,Skútuvogi,496
 10786,Höfuðborgarsvæðið,Smáralind,353
 10786,Höfuðborgarsvæðið,Spöngin,381
 10786,Höfuðborgarsvæðið,Stekkjarbakka,445
@@ -16286,7 +16266,7 @@ product_id,region,store,quantity
 10864,Suðurland,Reykjanesbæ,14
 10864,Norðurland,Sauðárkróki,10
 10864,Suðurland,Selfossi,8
-10864,Höfuðborgarsvæðið,Skeifunni,25
+10864,Höfuðborgarsvæðið,Skeifunni,24
 10864,Höfuðborgarsvæðið,Skútuvogi,12
 10864,Höfuðborgarsvæðið,Smáralind,14
 10864,Höfuðborgarsvæðið,Spöngin,13
@@ -16313,7 +16293,7 @@ product_id,region,store,quantity
 10866,Norðurland,Akureyri,142
 10866,Höfuðborgarsvæðið,Austurstræti,249
 10866,Höfuðborgarsvæðið,Borgartúni,240
-10866,Höfuðborgarsvæðið,Dalvegi,653
+10866,Höfuðborgarsvæðið,Dalvegi,646
 10866,Höfuðborgarsvæðið,Eiðistorgi,154
 10866,Höfuðborgarsvæðið,Hafnarfirði,705
 10866,Höfuðborgarsvæðið,Heiðrún,154
@@ -16323,7 +16303,7 @@ product_id,region,store,quantity
 10866,Suðurland,Reykjanesbæ,162
 10866,Suðurland,Selfossi,252
 10866,Höfuðborgarsvæðið,Skeifunni,425
-10866,Höfuðborgarsvæðið,Skútuvogi,227
+10866,Höfuðborgarsvæðið,Skútuvogi,221
 10866,Höfuðborgarsvæðið,Smáralind,79
 10866,Höfuðborgarsvæðið,Spöngin,150
 10866,Höfuðborgarsvæðið,Stekkjarbakka,390
@@ -16342,7 +16322,7 @@ product_id,region,store,quantity
 10882,Höfuðborgarsvæðið,Skeifunni,9
 10882,Höfuðborgarsvæðið,Skútuvogi,11
 10885,Norðurland,Akureyri,14
-10885,Höfuðborgarsvæðið,Dalvegi,15
+10885,Höfuðborgarsvæðið,Dalvegi,14
 10885,Höfuðborgarsvæðið,Hafnarfirði,12
 10885,Höfuðborgarsvæðið,Heiðrún,10
 10885,Höfuðborgarsvæðið,Kringlunni,11
@@ -16409,7 +16389,7 @@ product_id,region,store,quantity
 10909,Austurland,Seyðisfirði,6
 10909,Norðurland,Siglufirði,5
 10909,Höfuðborgarsvæðið,Skeifunni,40
-10909,Höfuðborgarsvæðið,Skútuvogi,33
+10909,Höfuðborgarsvæðið,Skútuvogi,32
 10909,Höfuðborgarsvæðið,Smáralind,13
 10909,Höfuðborgarsvæðið,Spöngin,27
 10909,Höfuðborgarsvæðið,Stekkjarbakka,25
@@ -16619,7 +16599,7 @@ product_id,region,store,quantity
 11039,Austurland,Seyðisfirði,7
 11039,Norðurland,Siglufirði,22
 11039,Höfuðborgarsvæðið,Skeifunni,42
-11039,Höfuðborgarsvæðið,Skútuvogi,26
+11039,Höfuðborgarsvæðið,Skútuvogi,25
 11039,Höfuðborgarsvæðið,Smáralind,26
 11039,Höfuðborgarsvæðið,Spöngin,25
 11039,Höfuðborgarsvæðið,Stekkjarbakka,34
@@ -16900,7 +16880,7 @@ product_id,region,store,quantity
 11500,Norðurland,Akureyri,187
 11500,Höfuðborgarsvæðið,Austurstræti,49
 11500,Höfuðborgarsvæðið,Borgartúni,136
-11500,Höfuðborgarsvæðið,Dalvegi,201
+11500,Höfuðborgarsvæðið,Dalvegi,199
 11500,Norðurland,Dalvík,60
 11500,Höfuðborgarsvæðið,Eiðistorgi,108
 11500,Höfuðborgarsvæðið,Hafnarfirði,113
@@ -16925,7 +16905,7 @@ product_id,region,store,quantity
 11508,Vesturland,Borgarnesi,15
 11508,Höfuðborgarsvæðið,Borgartúni,78
 11508,Vesturland,Búðardal,3
-11508,Höfuðborgarsvæðið,Dalvegi,26
+11508,Höfuðborgarsvæðið,Dalvegi,25
 11508,Norðurland,Dalvík,16
 11508,Austurland,Djúpivogur,6
 11508,Austurland,Egilsstöðum,10
@@ -16955,7 +16935,7 @@ product_id,region,store,quantity
 11508,Suðurland,Selfossi,23
 11508,Austurland,Seyðisfirði,10
 11508,Norðurland,Siglufirði,11
-11508,Höfuðborgarsvæðið,Skeifunni,35
+11508,Höfuðborgarsvæðið,Skeifunni,34
 11508,Höfuðborgarsvæðið,Skútuvogi,28
 11508,Höfuðborgarsvæðið,Smáralind,30
 11508,Höfuðborgarsvæðið,Spöngin,26
@@ -16976,7 +16956,7 @@ product_id,region,store,quantity
 11548,Höfuðborgarsvæðið,Heiðrún,73
 11548,Höfuðborgarsvæðið,Mosfellsbæ,27
 11548,Suðurland,Selfossi,1
-11548,Höfuðborgarsvæðið,Skeifunni,68
+11548,Höfuðborgarsvæðið,Skeifunni,67
 11548,Höfuðborgarsvæðið,Skútuvogi,115
 11548,Höfuðborgarsvæðið,Smáralind,12
 11548,Höfuðborgarsvæðið,Spöngin,11
@@ -17153,7 +17133,6 @@ product_id,region,store,quantity
 11637,Vesturland,Borgarnesi,14
 11637,Höfuðborgarsvæðið,Borgartúni,112
 11637,Vesturland,Búðardal,44
-11637,Höfuðborgarsvæðið,Dalvegi,9
 11637,Norðurland,Dalvík,9
 11637,Höfuðborgarsvæðið,Eiðistorgi,48
 11637,Suðurland,Flúðum,33
@@ -17354,8 +17333,8 @@ product_id,region,store,quantity
 11697,Höfuðborgarsvæðið,Mosfellsbæ,1190
 11697,Suðurland,Reykjanesbæ,1409
 11697,Suðurland,Selfossi,564
-11697,Höfuðborgarsvæðið,Skeifunni,1123
-11697,Höfuðborgarsvæðið,Skútuvogi,844
+11697,Höfuðborgarsvæðið,Skeifunni,1121
+11697,Höfuðborgarsvæðið,Skútuvogi,834
 11697,Höfuðborgarsvæðið,Smáralind,291
 11697,Höfuðborgarsvæðið,Spöngin,723
 11697,Höfuðborgarsvæðið,Stekkjarbakka,377
@@ -17395,7 +17374,7 @@ product_id,region,store,quantity
 11742,Höfuðborgarsvæðið,Austurstræti,1
 11742,Vesturland,Borgarnesi,12
 11742,Höfuðborgarsvæðið,Borgartúni,63
-11742,Höfuðborgarsvæðið,Dalvegi,36
+11742,Höfuðborgarsvæðið,Dalvegi,35
 11742,Austurland,Egilsstöðum,54
 11742,Höfuðborgarsvæðið,Hafnarfirði,39
 11742,Suðurland,Hveragerði,24
@@ -17420,7 +17399,7 @@ product_id,region,store,quantity
 11763,Norðurland,Akureyri,23
 11763,Höfuðborgarsvæðið,Austurstræti,15
 11763,Höfuðborgarsvæðið,Borgartúni,19
-11763,Höfuðborgarsvæðið,Dalvegi,42
+11763,Höfuðborgarsvæðið,Dalvegi,41
 11763,Höfuðborgarsvæðið,Eiðistorgi,44
 11763,Höfuðborgarsvæðið,Hafnarfirði,13
 11763,Höfuðborgarsvæðið,Heiðrún,15
@@ -17431,7 +17410,7 @@ product_id,region,store,quantity
 11776,Norðurland,Akureyri,49
 11776,Höfuðborgarsvæðið,Austurstræti,29
 11776,Höfuðborgarsvæðið,Borgartúni,40
-11776,Höfuðborgarsvæðið,Dalvegi,49
+11776,Höfuðborgarsvæðið,Dalvegi,48
 11776,Höfuðborgarsvæðið,Eiðistorgi,18
 11776,Höfuðborgarsvæðið,Hafnarfirði,36
 11776,Höfuðborgarsvæðið,Heiðrún,20
@@ -17439,7 +17418,7 @@ product_id,region,store,quantity
 11776,Höfuðborgarsvæðið,Mosfellsbæ,16
 11776,Suðurland,Reykjanesbæ,59
 11776,Suðurland,Selfossi,33
-11776,Höfuðborgarsvæðið,Skeifunni,53
+11776,Höfuðborgarsvæðið,Skeifunni,52
 11776,Höfuðborgarsvæðið,Skútuvogi,33
 11776,Höfuðborgarsvæðið,Smáralind,17
 11776,Höfuðborgarsvæðið,Spöngin,27
@@ -17459,7 +17438,7 @@ product_id,region,store,quantity
 11785,Norðurland,Blönduósi,30
 11785,Vesturland,Borgarnesi,79
 11785,Höfuðborgarsvæðið,Borgartúni,109
-11785,Höfuðborgarsvæðið,Dalvegi,96
+11785,Höfuðborgarsvæðið,Dalvegi,94
 11785,Norðurland,Dalvík,30
 11785,Austurland,Egilsstöðum,65
 11785,Höfuðborgarsvæðið,Eiðistorgi,174
@@ -17540,7 +17519,7 @@ product_id,region,store,quantity
 11814,Vesturland,Borgarnesi,214
 11814,Höfuðborgarsvæðið,Borgartúni,351
 11814,Vesturland,Búðardal,42
-11814,Höfuðborgarsvæðið,Dalvegi,336
+11814,Höfuðborgarsvæðið,Dalvegi,319
 11814,Norðurland,Dalvík,78
 11814,Austurland,Djúpivogur,12
 11814,Austurland,Egilsstöðum,202
@@ -17570,7 +17549,7 @@ product_id,region,store,quantity
 11814,Suðurland,Selfossi,239
 11814,Austurland,Seyðisfirði,70
 11814,Norðurland,Siglufirði,56
-11814,Höfuðborgarsvæðið,Skeifunni,747
+11814,Höfuðborgarsvæðið,Skeifunni,725
 11814,Höfuðborgarsvæðið,Skútuvogi,380
 11814,Höfuðborgarsvæðið,Smáralind,408
 11814,Höfuðborgarsvæðið,Spöngin,214
@@ -17683,7 +17662,7 @@ product_id,region,store,quantity
 11853,Höfuðborgarsvæðið,Heiðrún,155
 11853,Höfuðborgarsvæðið,Kringlunni,98
 11853,Suðurland,Selfossi,124
-11853,Höfuðborgarsvæðið,Skeifunni,140
+11853,Höfuðborgarsvæðið,Skeifunni,136
 11853,Höfuðborgarsvæðið,Skútuvogi,302
 11862,Norðurland,Akureyri,6
 11862,Höfuðborgarsvæðið,Heiðrún,10
@@ -17705,7 +17684,7 @@ product_id,region,store,quantity
 11880,Höfuðborgarsvæðið,Mosfellsbæ,11
 11880,Suðurland,Reykjanesbæ,9
 11880,Suðurland,Selfossi,12
-11880,Höfuðborgarsvæðið,Skeifunni,14
+11880,Höfuðborgarsvæðið,Skeifunni,13
 11880,Höfuðborgarsvæðið,Skútuvogi,13
 11880,Höfuðborgarsvæðið,Smáralind,10
 11880,Höfuðborgarsvæðið,Spöngin,13
@@ -17760,7 +17739,7 @@ product_id,region,store,quantity
 11942,Norðurland,Blönduósi,270
 11942,Vesturland,Borgarnesi,468
 11942,Höfuðborgarsvæðið,Borgartúni,702
-11942,Höfuðborgarsvæðið,Dalvegi,972
+11942,Höfuðborgarsvæðið,Dalvegi,970
 11942,Norðurland,Dalvík,190
 11942,Austurland,Egilsstöðum,390
 11942,Höfuðborgarsvæðið,Eiðistorgi,566
@@ -17787,7 +17766,7 @@ product_id,region,store,quantity
 11942,Norðurland,Sauðárkróki,374
 11942,Suðurland,Selfossi,833
 11942,Norðurland,Siglufirði,190
-11942,Höfuðborgarsvæðið,Skeifunni,1402
+11942,Höfuðborgarsvæðið,Skeifunni,1348
 11942,Höfuðborgarsvæðið,Skútuvogi,1187
 11942,Höfuðborgarsvæðið,Smáralind,294
 11942,Höfuðborgarsvæðið,Spöngin,456
@@ -17812,7 +17791,7 @@ product_id,region,store,quantity
 11943,Suðurland,Reykjanesbæ,120
 11943,Norðurland,Sauðárkróki,108
 11943,Suðurland,Selfossi,279
-11943,Höfuðborgarsvæðið,Skeifunni,338
+11943,Höfuðborgarsvæðið,Skeifunni,329
 11943,Höfuðborgarsvæðið,Skútuvogi,288
 11943,Höfuðborgarsvæðið,Smáralind,78
 11943,Höfuðborgarsvæðið,Spöngin,102
@@ -17880,7 +17859,7 @@ product_id,region,store,quantity
 12010,Norðurland,Blönduósi,35
 12010,Vesturland,Borgarnesi,96
 12010,Höfuðborgarsvæðið,Borgartúni,151
-12010,Höfuðborgarsvæðið,Dalvegi,285
+12010,Höfuðborgarsvæðið,Dalvegi,283
 12010,Norðurland,Dalvík,64
 12010,Austurland,Djúpivogur,18
 12010,Austurland,Egilsstöðum,329
@@ -17911,7 +17890,7 @@ product_id,region,store,quantity
 12010,Austurland,Seyðisfirði,57
 12010,Norðurland,Siglufirði,48
 12010,Höfuðborgarsvæðið,Skeifunni,228
-12010,Höfuðborgarsvæðið,Skútuvogi,135
+12010,Höfuðborgarsvæðið,Skútuvogi,129
 12010,Höfuðborgarsvæðið,Smáralind,105
 12010,Höfuðborgarsvæðið,Spöngin,178
 12010,Höfuðborgarsvæðið,Stekkjarbakka,123
@@ -18155,7 +18134,7 @@ product_id,region,store,quantity
 12138,Norðurland,Akureyri,30
 12138,Höfuðborgarsvæðið,Austurstræti,31
 12138,Höfuðborgarsvæðið,Borgartúni,18
-12138,Höfuðborgarsvæðið,Dalvegi,37
+12138,Höfuðborgarsvæðið,Dalvegi,36
 12138,Höfuðborgarsvæðið,Eiðistorgi,28
 12138,Höfuðborgarsvæðið,Hafnarfirði,9
 12138,Höfuðborgarsvæðið,Heiðrún,16
@@ -18199,7 +18178,7 @@ product_id,region,store,quantity
 12154,Norðurland,Sauðárkróki,8
 12154,Suðurland,Selfossi,9
 12154,Norðurland,Siglufirði,10
-12154,Höfuðborgarsvæðið,Skeifunni,24
+12154,Höfuðborgarsvæðið,Skeifunni,23
 12154,Höfuðborgarsvæðið,Skútuvogi,11
 12154,Höfuðborgarsvæðið,Smáralind,15
 12154,Höfuðborgarsvæðið,Spöngin,17
@@ -18293,7 +18272,7 @@ product_id,region,store,quantity
 12265,Suðurland,Selfossi,15
 12265,Austurland,Seyðisfirði,3
 12265,Norðurland,Siglufirði,6
-12265,Höfuðborgarsvæðið,Skeifunni,56
+12265,Höfuðborgarsvæðið,Skeifunni,55
 12265,Höfuðborgarsvæðið,Skútuvogi,40
 12265,Höfuðborgarsvæðið,Smáralind,14
 12265,Höfuðborgarsvæðið,Spöngin,19
@@ -18331,7 +18310,7 @@ product_id,region,store,quantity
 12278,Norðurland,Sauðárkróki,15
 12278,Suðurland,Selfossi,24
 12278,Norðurland,Siglufirði,2
-12278,Höfuðborgarsvæðið,Skeifunni,14
+12278,Höfuðborgarsvæðið,Skeifunni,13
 12278,Höfuðborgarsvæðið,Skútuvogi,21
 12278,Höfuðborgarsvæðið,Smáralind,18
 12278,Höfuðborgarsvæðið,Spöngin,7
@@ -18413,7 +18392,7 @@ product_id,region,store,quantity
 12488,Norðurland,Blönduósi,120
 12488,Vesturland,Borgarnesi,127
 12488,Höfuðborgarsvæðið,Borgartúni,657
-12488,Höfuðborgarsvæðið,Dalvegi,2216
+12488,Höfuðborgarsvæðið,Dalvegi,2176
 12488,Norðurland,Dalvík,30
 12488,Austurland,Egilsstöðum,158
 12488,Höfuðborgarsvæðið,Eiðistorgi,461
@@ -18434,7 +18413,7 @@ product_id,region,store,quantity
 12488,Norðurland,Sauðárkróki,275
 12488,Suðurland,Selfossi,743
 12488,Höfuðborgarsvæðið,Skeifunni,1998
-12488,Höfuðborgarsvæðið,Skútuvogi,934
+12488,Höfuðborgarsvæðið,Skútuvogi,904
 12488,Höfuðborgarsvæðið,Smáralind,263
 12488,Höfuðborgarsvæðið,Spöngin,320
 12488,Höfuðborgarsvæðið,Stekkjarbakka,422
@@ -18472,8 +18451,8 @@ product_id,region,store,quantity
 12503,Suðurland,Selfossi,140
 12503,Austurland,Seyðisfirði,1
 12503,Norðurland,Siglufirði,48
-12503,Höfuðborgarsvæðið,Skeifunni,135
-12503,Höfuðborgarsvæðið,Skútuvogi,248
+12503,Höfuðborgarsvæðið,Skeifunni,131
+12503,Höfuðborgarsvæðið,Skútuvogi,243
 12503,Höfuðborgarsvæðið,Smáralind,110
 12503,Höfuðborgarsvæðið,Spöngin,32
 12503,Höfuðborgarsvæðið,Stekkjarbakka,171
@@ -18488,7 +18467,7 @@ product_id,region,store,quantity
 12511,Höfuðborgarsvæðið,Hafnarfirði,84
 12511,Höfuðborgarsvæðið,Heiðrún,76
 12511,Höfuðborgarsvæðið,Kringlunni,102
-12511,Höfuðborgarsvæðið,Skeifunni,46
+12511,Höfuðborgarsvæðið,Skeifunni,43
 12511,Höfuðborgarsvæðið,Skútuvogi,101
 12517,Höfuðborgarsvæðið,Austurstræti,1
 12517,Vesturland,Búðardal,15
@@ -18554,7 +18533,7 @@ product_id,region,store,quantity
 12538,Norðurland,Akureyri,111
 12538,Höfuðborgarsvæðið,Austurstræti,56
 12538,Höfuðborgarsvæðið,Borgartúni,43
-12538,Höfuðborgarsvæðið,Dalvegi,99
+12538,Höfuðborgarsvæðið,Dalvegi,92
 12538,Höfuðborgarsvæðið,Eiðistorgi,78
 12538,Höfuðborgarsvæðið,Hafnarfirði,60
 12538,Höfuðborgarsvæðið,Heiðrún,79
@@ -18700,7 +18679,7 @@ product_id,region,store,quantity
 12571,Austurland,Seyðisfirði,9
 12571,Norðurland,Siglufirði,10
 12571,Höfuðborgarsvæðið,Skeifunni,41
-12571,Höfuðborgarsvæðið,Skútuvogi,13
+12571,Höfuðborgarsvæðið,Skútuvogi,12
 12571,Höfuðborgarsvæðið,Smáralind,12
 12571,Höfuðborgarsvæðið,Spöngin,14
 12571,Höfuðborgarsvæðið,Stekkjarbakka,25
@@ -18833,7 +18812,7 @@ product_id,region,store,quantity
 12652,Vesturland,Borgarnesi,31
 12652,Höfuðborgarsvæðið,Borgartúni,16
 12652,Vesturland,Búðardal,5
-12652,Höfuðborgarsvæðið,Dalvegi,69
+12652,Höfuðborgarsvæðið,Dalvegi,68
 12652,Norðurland,Dalvík,20
 12652,Austurland,Djúpivogur,5
 12652,Austurland,Egilsstöðum,25
@@ -18931,7 +18910,7 @@ product_id,region,store,quantity
 12689,Norðurland,Akureyri,21
 12689,Höfuðborgarsvæðið,Austurstræti,22
 12689,Höfuðborgarsvæðið,Borgartúni,39
-12689,Höfuðborgarsvæðið,Dalvegi,38
+12689,Höfuðborgarsvæðið,Dalvegi,37
 12689,Höfuðborgarsvæðið,Eiðistorgi,17
 12689,Höfuðborgarsvæðið,Hafnarfirði,16
 12689,Höfuðborgarsvæðið,Heiðrún,19
@@ -19188,7 +19167,7 @@ product_id,region,store,quantity
 13710,Höfuðborgarsvæðið,Heiðrún,16
 13710,Höfuðborgarsvæðið,Kringlunni,12
 13710,Höfuðborgarsvæðið,Skeifunni,32
-13710,Höfuðborgarsvæðið,Skútuvogi,12
+13710,Höfuðborgarsvæðið,Skútuvogi,10
 13713,Höfuðborgarsvæðið,Hafnarfirði,7
 13713,Höfuðborgarsvæðið,Heiðrún,10
 13713,Höfuðborgarsvæðið,Kringlunni,4
@@ -19374,7 +19353,7 @@ product_id,region,store,quantity
 13957,Suðurland,Reykjanesbæ,196
 13957,Suðurland,Selfossi,85
 13957,Höfuðborgarsvæðið,Skeifunni,101
-13957,Höfuðborgarsvæðið,Skútuvogi,166
+13957,Höfuðborgarsvæðið,Skútuvogi,163
 13957,Höfuðborgarsvæðið,Smáralind,187
 13957,Höfuðborgarsvæðið,Spöngin,121
 13957,Höfuðborgarsvæðið,Stekkjarbakka,157
@@ -19518,7 +19497,7 @@ product_id,region,store,quantity
 14031,Norðurland,Blönduósi,4
 14031,Vesturland,Borgarnesi,9
 14031,Höfuðborgarsvæðið,Borgartúni,26
-14031,Höfuðborgarsvæðið,Dalvegi,24
+14031,Höfuðborgarsvæðið,Dalvegi,23
 14031,Norðurland,Dalvík,7
 14031,Austurland,Egilsstöðum,5
 14031,Höfuðborgarsvæðið,Eiðistorgi,20
@@ -19570,7 +19549,7 @@ product_id,region,store,quantity
 14054,Norðurland,Akureyri,10
 14054,Höfuðborgarsvæðið,Austurstræti,10
 14054,Höfuðborgarsvæðið,Borgartúni,6
-14054,Höfuðborgarsvæðið,Dalvegi,29
+14054,Höfuðborgarsvæðið,Dalvegi,28
 14054,Höfuðborgarsvæðið,Eiðistorgi,9
 14054,Höfuðborgarsvæðið,Hafnarfirði,2
 14054,Höfuðborgarsvæðið,Heiðrún,14
@@ -19885,7 +19864,7 @@ product_id,region,store,quantity
 14387,Höfuðborgarsvæðið,Hafnarfirði,18
 14387,Höfuðborgarsvæðið,Heiðrún,13
 14387,Höfuðborgarsvæðið,Kringlunni,15
-14387,Höfuðborgarsvæðið,Skeifunni,15
+14387,Höfuðborgarsvæðið,Skeifunni,14
 14387,Höfuðborgarsvæðið,Skútuvogi,14
 14387,Höfuðborgarsvæðið,Smáralind,20
 14391,Höfuðborgarsvæðið,Hafnarfirði,10
@@ -19893,7 +19872,7 @@ product_id,region,store,quantity
 14391,Höfuðborgarsvæðið,Kringlunni,9
 14391,Höfuðborgarsvæðið,Skútuvogi,8
 14404,Norðurland,Akureyri,12
-14404,Höfuðborgarsvæðið,Dalvegi,13
+14404,Höfuðborgarsvæðið,Dalvegi,12
 14404,Höfuðborgarsvæðið,Hafnarfirði,7
 14404,Höfuðborgarsvæðið,Heiðrún,11
 14404,Höfuðborgarsvæðið,Kringlunni,9
@@ -20027,7 +20006,7 @@ product_id,region,store,quantity
 14742,Norðurland,Sauðárkróki,18
 14742,Suðurland,Selfossi,14
 14742,Höfuðborgarsvæðið,Skeifunni,22
-14742,Höfuðborgarsvæðið,Skútuvogi,24
+14742,Höfuðborgarsvæðið,Skútuvogi,23
 14742,Höfuðborgarsvæðið,Smáralind,20
 14742,Höfuðborgarsvæðið,Spöngin,19
 14742,Höfuðborgarsvæðið,Stekkjarbakka,17
@@ -20054,7 +20033,7 @@ product_id,region,store,quantity
 14758,Höfuðborgarsvæðið,Kringlunni,8
 14758,Höfuðborgarsvæðið,Skútuvogi,11
 14765,Norðurland,Akureyri,16
-14765,Höfuðborgarsvæðið,Dalvegi,10
+14765,Höfuðborgarsvæðið,Dalvegi,8
 14765,Höfuðborgarsvæðið,Hafnarfirði,9
 14765,Höfuðborgarsvæðið,Heiðrún,16
 14765,Höfuðborgarsvæðið,Kringlunni,23
@@ -20484,7 +20463,7 @@ product_id,region,store,quantity
 17531,Norðurland,Akureyri,9
 17531,Höfuðborgarsvæðið,Austurstræti,11
 17531,Höfuðborgarsvæðið,Borgartúni,9
-17531,Höfuðborgarsvæðið,Dalvegi,38
+17531,Höfuðborgarsvæðið,Dalvegi,37
 17531,Höfuðborgarsvæðið,Eiðistorgi,5
 17531,Höfuðborgarsvæðið,Hafnarfirði,18
 17531,Höfuðborgarsvæðið,Heiðrún,14
@@ -20511,7 +20490,7 @@ product_id,region,store,quantity
 17604,Höfuðborgarsvæðið,Austurstræti,190
 17604,Norðurland,Blönduósi,375
 17604,Höfuðborgarsvæðið,Borgartúni,520
-17604,Höfuðborgarsvæðið,Dalvegi,1115
+17604,Höfuðborgarsvæðið,Dalvegi,1105
 17604,Höfuðborgarsvæðið,Eiðistorgi,312
 17604,Suðurland,Flúðum,376
 17604,Suðurland,Grindavík,154
@@ -20530,7 +20509,7 @@ product_id,region,store,quantity
 17604,Norðurland,Sauðárkróki,360
 17604,Suðurland,Selfossi,1011
 17604,Norðurland,Siglufirði,260
-17604,Höfuðborgarsvæðið,Skeifunni,813
+17604,Höfuðborgarsvæðið,Skeifunni,803
 17604,Höfuðborgarsvæðið,Skútuvogi,649
 17604,Höfuðborgarsvæðið,Smáralind,277
 17604,Höfuðborgarsvæðið,Spöngin,254
@@ -20599,7 +20578,7 @@ product_id,region,store,quantity
 17660,Norðurland,Akureyri,155
 17660,Höfuðborgarsvæðið,Austurstræti,86
 17660,Höfuðborgarsvæðið,Borgartúni,310
-17660,Höfuðborgarsvæðið,Dalvegi,772
+17660,Höfuðborgarsvæðið,Dalvegi,754
 17660,Norðurland,Dalvík,30
 17660,Höfuðborgarsvæðið,Eiðistorgi,233
 17660,Höfuðborgarsvæðið,Hafnarfirði,270
@@ -20609,7 +20588,7 @@ product_id,region,store,quantity
 17660,Suðurland,Reykjanesbæ,216
 17660,Suðurland,Selfossi,169
 17660,Höfuðborgarsvæðið,Skeifunni,171
-17660,Höfuðborgarsvæðið,Skútuvogi,220
+17660,Höfuðborgarsvæðið,Skútuvogi,196
 17660,Höfuðborgarsvæðið,Smáralind,102
 17660,Höfuðborgarsvæðið,Spöngin,78
 17660,Höfuðborgarsvæðið,Stekkjarbakka,179
@@ -20624,7 +20603,7 @@ product_id,region,store,quantity
 17674,Vesturland,Borgarnesi,12
 17674,Höfuðborgarsvæðið,Borgartúni,11
 17674,Vesturland,Búðardal,14
-17674,Höfuðborgarsvæðið,Dalvegi,66
+17674,Höfuðborgarsvæðið,Dalvegi,65
 17674,Norðurland,Dalvík,12
 17674,Austurland,Djúpivogur,9
 17674,Austurland,Egilsstöðum,6
@@ -20655,7 +20634,7 @@ product_id,region,store,quantity
 17674,Austurland,Seyðisfirði,21
 17674,Norðurland,Siglufirði,4
 17674,Höfuðborgarsvæðið,Skeifunni,39
-17674,Höfuðborgarsvæðið,Skútuvogi,8
+17674,Höfuðborgarsvæðið,Skútuvogi,7
 17674,Höfuðborgarsvæðið,Smáralind,37
 17674,Höfuðborgarsvæðið,Spöngin,25
 17674,Höfuðborgarsvæðið,Stekkjarbakka,14
@@ -20696,7 +20675,7 @@ product_id,region,store,quantity
 17700,Norðurland,Akureyri,21
 17700,Höfuðborgarsvæðið,Austurstræti,21
 17700,Höfuðborgarsvæðið,Borgartúni,29
-17700,Höfuðborgarsvæðið,Dalvegi,18
+17700,Höfuðborgarsvæðið,Dalvegi,17
 17700,Höfuðborgarsvæðið,Eiðistorgi,21
 17700,Höfuðborgarsvæðið,Hafnarfirði,5
 17700,Höfuðborgarsvæðið,Heiðrún,15
@@ -20855,7 +20834,7 @@ product_id,region,store,quantity
 17822,Suðurland,Reykjanesbæ,108
 17822,Norðurland,Sauðárkróki,87
 17822,Suðurland,Selfossi,96
-17822,Höfuðborgarsvæðið,Skeifunni,122
+17822,Höfuðborgarsvæðið,Skeifunni,120
 17822,Höfuðborgarsvæðið,Skútuvogi,360
 17822,Höfuðborgarsvæðið,Smáralind,136
 17822,Höfuðborgarsvæðið,Spöngin,164
@@ -20911,7 +20890,7 @@ product_id,region,store,quantity
 17890,Norðurland,Blönduósi,20
 17890,Vesturland,Borgarnesi,51
 17890,Höfuðborgarsvæðið,Borgartúni,124
-17890,Höfuðborgarsvæðið,Dalvegi,123
+17890,Höfuðborgarsvæðið,Dalvegi,122
 17890,Norðurland,Dalvík,116
 17890,Austurland,Egilsstöðum,62
 17890,Höfuðborgarsvæðið,Eiðistorgi,93
@@ -20999,7 +20978,7 @@ product_id,region,store,quantity
 17916,Vesturland,Borgarnesi,53
 17916,Höfuðborgarsvæðið,Borgartúni,144
 17916,Vesturland,Búðardal,2
-17916,Höfuðborgarsvæðið,Dalvegi,215
+17916,Höfuðborgarsvæðið,Dalvegi,214
 17916,Norðurland,Dalvík,16
 17916,Austurland,Djúpivogur,7
 17916,Austurland,Egilsstöðum,19
@@ -21030,7 +21009,7 @@ product_id,region,store,quantity
 17916,Austurland,Seyðisfirði,9
 17916,Norðurland,Siglufirði,16
 17916,Höfuðborgarsvæðið,Skeifunni,260
-17916,Höfuðborgarsvæðið,Skútuvogi,197
+17916,Höfuðborgarsvæðið,Skútuvogi,195
 17916,Höfuðborgarsvæðið,Smáralind,112
 17916,Höfuðborgarsvæðið,Spöngin,40
 17916,Höfuðborgarsvæðið,Stekkjarbakka,90
@@ -21050,7 +21029,7 @@ product_id,region,store,quantity
 17919,Vesturland,Borgarnesi,19
 17919,Höfuðborgarsvæðið,Borgartúni,69
 17919,Vesturland,Búðardal,13
-17919,Höfuðborgarsvæðið,Dalvegi,75
+17919,Höfuðborgarsvæðið,Dalvegi,73
 17919,Norðurland,Dalvík,24
 17919,Austurland,Djúpivogur,16
 17919,Höfuðborgarsvæðið,Eiðistorgi,33
@@ -21076,7 +21055,7 @@ product_id,region,store,quantity
 17919,Suðurland,Selfossi,14
 17919,Austurland,Seyðisfirði,18
 17919,Norðurland,Siglufirði,14
-17919,Höfuðborgarsvæðið,Skeifunni,41
+17919,Höfuðborgarsvæðið,Skeifunni,40
 17919,Höfuðborgarsvæðið,Skútuvogi,51
 17919,Höfuðborgarsvæðið,Smáralind,13
 17919,Höfuðborgarsvæðið,Spöngin,43
@@ -21222,7 +21201,7 @@ product_id,region,store,quantity
 18072,Höfuðborgarsvæðið,Mosfellsbæ,17
 18072,Suðurland,Reykjanesbæ,27
 18072,Suðurland,Selfossi,4
-18072,Höfuðborgarsvæðið,Skeifunni,59
+18072,Höfuðborgarsvæðið,Skeifunni,58
 18072,Höfuðborgarsvæðið,Skútuvogi,29
 18072,Höfuðborgarsvæðið,Smáralind,25
 18072,Höfuðborgarsvæðið,Spöngin,16
@@ -21286,10 +21265,6 @@ product_id,region,store,quantity
 18114,Höfuðborgarsvæðið,Heiðrún,10
 18114,Höfuðborgarsvæðið,Kringlunni,14
 18114,Höfuðborgarsvæðið,Skútuvogi,7
-18116,Höfuðborgarsvæðið,Hafnarfirði,6
-18116,Höfuðborgarsvæðið,Heiðrún,20
-18116,Höfuðborgarsvæðið,Kringlunni,4
-18116,Höfuðborgarsvæðið,Skútuvogi,7
 18119,Norðurland,Akureyri,11
 18119,Höfuðborgarsvæðið,Austurstræti,2
 18119,Höfuðborgarsvæðið,Borgartúni,1
@@ -21522,7 +21497,7 @@ product_id,region,store,quantity
 18416,Höfuðborgarsvæðið,Kringlunni,7
 18416,Höfuðborgarsvæðið,Skútuvogi,5
 18418,Norðurland,Akureyri,33
-18418,Höfuðborgarsvæðið,Dalvegi,41
+18418,Höfuðborgarsvæðið,Dalvegi,39
 18418,Norðurland,Dalvík,1
 18418,Höfuðborgarsvæðið,Hafnarfirði,28
 18418,Höfuðborgarsvæðið,Heiðrún,30
@@ -21751,7 +21726,7 @@ product_id,region,store,quantity
 18771,Vesturland,Borgarnesi,170
 18771,Höfuðborgarsvæðið,Borgartúni,334
 18771,Vesturland,Búðardal,14
-18771,Höfuðborgarsvæðið,Dalvegi,590
+18771,Höfuðborgarsvæðið,Dalvegi,581
 18771,Norðurland,Dalvík,79
 18771,Austurland,Djúpivogur,3
 18771,Austurland,Egilsstöðum,270
@@ -21781,7 +21756,7 @@ product_id,region,store,quantity
 18771,Suðurland,Selfossi,467
 18771,Austurland,Seyðisfirði,74
 18771,Norðurland,Siglufirði,158
-18771,Höfuðborgarsvæðið,Skeifunni,501
+18771,Höfuðborgarsvæðið,Skeifunni,499
 18771,Höfuðborgarsvæðið,Skútuvogi,194
 18771,Höfuðborgarsvæðið,Smáralind,244
 18771,Höfuðborgarsvæðið,Spöngin,314
@@ -21848,7 +21823,7 @@ product_id,region,store,quantity
 18792,Höfuðborgarsvæðið,Austurstræti,6
 18792,Vesturland,Borgarnesi,11
 18792,Höfuðborgarsvæðið,Borgartúni,6
-18792,Höfuðborgarsvæðið,Dalvegi,38
+18792,Höfuðborgarsvæðið,Dalvegi,37
 18792,Austurland,Egilsstöðum,16
 18792,Höfuðborgarsvæðið,Eiðistorgi,5
 18792,Höfuðborgarsvæðið,Hafnarfirði,24
@@ -22172,7 +22147,7 @@ product_id,region,store,quantity
 19192,Vesturland,Borgarnesi,18
 19192,Höfuðborgarsvæðið,Borgartúni,27
 19192,Vesturland,Búðardal,5
-19192,Höfuðborgarsvæðið,Dalvegi,116
+19192,Höfuðborgarsvæðið,Dalvegi,114
 19192,Norðurland,Dalvík,12
 19192,Austurland,Djúpivogur,10
 19192,Austurland,Egilsstöðum,19
@@ -22202,7 +22177,7 @@ product_id,region,store,quantity
 19192,Suðurland,Selfossi,46
 19192,Austurland,Seyðisfirði,2
 19192,Norðurland,Siglufirði,15
-19192,Höfuðborgarsvæðið,Skeifunni,77
+19192,Höfuðborgarsvæðið,Skeifunni,75
 19192,Höfuðborgarsvæðið,Skútuvogi,41
 19192,Höfuðborgarsvæðið,Smáralind,40
 19192,Höfuðborgarsvæðið,Spöngin,28
@@ -22317,7 +22292,7 @@ product_id,region,store,quantity
 19370,Norðurland,Blönduósi,7
 19370,Vesturland,Borgarnesi,10
 19370,Höfuðborgarsvæðið,Borgartúni,5
-19370,Höfuðborgarsvæðið,Dalvegi,45
+19370,Höfuðborgarsvæðið,Dalvegi,44
 19370,Norðurland,Dalvík,13
 19370,Austurland,Egilsstöðum,8
 19370,Höfuðborgarsvæðið,Eiðistorgi,20
@@ -22341,8 +22316,8 @@ product_id,region,store,quantity
 19370,Norðurland,Sauðárkróki,21
 19370,Suðurland,Selfossi,30
 19370,Norðurland,Siglufirði,12
-19370,Höfuðborgarsvæðið,Skeifunni,29
-19370,Höfuðborgarsvæðið,Skútuvogi,28
+19370,Höfuðborgarsvæðið,Skeifunni,28
+19370,Höfuðborgarsvæðið,Skútuvogi,27
 19370,Höfuðborgarsvæðið,Smáralind,36
 19370,Höfuðborgarsvæðið,Spöngin,28
 19370,Höfuðborgarsvæðið,Stekkjarbakka,18
@@ -22389,7 +22364,7 @@ product_id,region,store,quantity
 19371,Austurland,Seyðisfirði,10
 19371,Norðurland,Siglufirði,13
 19371,Höfuðborgarsvæðið,Skeifunni,29
-19371,Höfuðborgarsvæðið,Skútuvogi,29
+19371,Höfuðborgarsvæðið,Skútuvogi,28
 19371,Höfuðborgarsvæðið,Smáralind,34
 19371,Höfuðborgarsvæðið,Spöngin,21
 19371,Höfuðborgarsvæðið,Stekkjarbakka,35
@@ -22471,7 +22446,7 @@ product_id,region,store,quantity
 19566,Höfuðborgarsvæðið,Skeifunni,38
 19566,Höfuðborgarsvæðið,Skútuvogi,38
 19567,Norðurland,Akureyri,22
-19567,Höfuðborgarsvæðið,Dalvegi,16
+19567,Höfuðborgarsvæðið,Dalvegi,15
 19567,Höfuðborgarsvæðið,Hafnarfirði,41
 19567,Höfuðborgarsvæðið,Heiðrún,21
 19567,Höfuðborgarsvæðið,Kringlunni,33
@@ -22559,7 +22534,7 @@ product_id,region,store,quantity
 19971,Höfuðborgarsvæðið,Austurstræti,139
 19971,Vesturland,Borgarnesi,320
 19971,Höfuðborgarsvæðið,Borgartúni,946
-19971,Höfuðborgarsvæðið,Dalvegi,643
+19971,Höfuðborgarsvæðið,Dalvegi,642
 19971,Austurland,Djúpivogur,24
 19971,Austurland,Egilsstöðum,157
 19971,Höfuðborgarsvæðið,Eiðistorgi,822
@@ -22573,8 +22548,8 @@ product_id,region,store,quantity
 19971,Austurland,Reyðarfirði,48
 19971,Norðurland,Sauðárkróki,97
 19971,Suðurland,Selfossi,402
-19971,Höfuðborgarsvæðið,Skeifunni,1189
-19971,Höfuðborgarsvæðið,Skútuvogi,1114
+19971,Höfuðborgarsvæðið,Skeifunni,1172
+19971,Höfuðborgarsvæðið,Skútuvogi,1108
 19971,Höfuðborgarsvæðið,Smáralind,68
 19971,Höfuðborgarsvæðið,Spöngin,285
 19971,Höfuðborgarsvæðið,Stekkjarbakka,511
@@ -22742,7 +22717,7 @@ product_id,region,store,quantity
 20007,Vesturland,Borgarnesi,286
 20007,Höfuðborgarsvæðið,Borgartúni,524
 20007,Vesturland,Búðardal,55
-20007,Höfuðborgarsvæðið,Dalvegi,783
+20007,Höfuðborgarsvæðið,Dalvegi,769
 20007,Norðurland,Dalvík,14
 20007,Austurland,Djúpivogur,5
 20007,Austurland,Egilsstöðum,198
@@ -22772,7 +22747,7 @@ product_id,region,store,quantity
 20007,Suðurland,Selfossi,470
 20007,Austurland,Seyðisfirði,10
 20007,Norðurland,Siglufirði,98
-20007,Höfuðborgarsvæðið,Skeifunni,581
+20007,Höfuðborgarsvæðið,Skeifunni,578
 20007,Höfuðborgarsvæðið,Skútuvogi,144
 20007,Höfuðborgarsvæðið,Smáralind,118
 20007,Höfuðborgarsvæðið,Spöngin,302
@@ -22815,7 +22790,7 @@ product_id,region,store,quantity
 20017,Suðurland,Reykjanesbæ,61
 20017,Austurland,Reyðarfirði,83
 20017,Suðurland,Selfossi,348
-20017,Höfuðborgarsvæðið,Skeifunni,454
+20017,Höfuðborgarsvæðið,Skeifunni,450
 20017,Höfuðborgarsvæðið,Skútuvogi,220
 20017,Höfuðborgarsvæðið,Smáralind,178
 20017,Höfuðborgarsvæðið,Spöngin,250
@@ -22854,7 +22829,7 @@ product_id,region,store,quantity
 20090,Norðurland,Akureyri,6
 20090,Höfuðborgarsvæðið,Austurstræti,7
 20090,Höfuðborgarsvæðið,Borgartúni,4
-20090,Höfuðborgarsvæðið,Dalvegi,12
+20090,Höfuðborgarsvæðið,Dalvegi,11
 20090,Höfuðborgarsvæðið,Eiðistorgi,5
 20090,Höfuðborgarsvæðið,Hafnarfirði,7
 20090,Höfuðborgarsvæðið,Heiðrún,7
@@ -22875,7 +22850,7 @@ product_id,region,store,quantity
 20102,Vesturland,Borgarnesi,367
 20102,Höfuðborgarsvæðið,Borgartúni,731
 20102,Vesturland,Búðardal,63
-20102,Höfuðborgarsvæðið,Dalvegi,813
+20102,Höfuðborgarsvæðið,Dalvegi,790
 20102,Norðurland,Dalvík,91
 20102,Austurland,Djúpivogur,41
 20102,Austurland,Egilsstöðum,153
@@ -22904,8 +22879,8 @@ product_id,region,store,quantity
 20102,Suðurland,Selfossi,441
 20102,Austurland,Seyðisfirði,36
 20102,Norðurland,Siglufirði,82
-20102,Höfuðborgarsvæðið,Skeifunni,1160
-20102,Höfuðborgarsvæðið,Skútuvogi,678
+20102,Höfuðborgarsvæðið,Skeifunni,1139
+20102,Höfuðborgarsvæðið,Skútuvogi,672
 20102,Höfuðborgarsvæðið,Smáralind,547
 20102,Höfuðborgarsvæðið,Spöngin,518
 20102,Höfuðborgarsvæðið,Stekkjarbakka,401
@@ -22942,7 +22917,7 @@ product_id,region,store,quantity
 20117,Vesturland,Borgarnesi,33
 20117,Höfuðborgarsvæðið,Borgartúni,54
 20117,Vesturland,Búðardal,14
-20117,Höfuðborgarsvæðið,Dalvegi,148
+20117,Höfuðborgarsvæðið,Dalvegi,147
 20117,Norðurland,Dalvík,15
 20117,Austurland,Djúpivogur,6
 20117,Austurland,Egilsstöðum,24
@@ -22973,7 +22948,7 @@ product_id,region,store,quantity
 20117,Austurland,Seyðisfirði,11
 20117,Norðurland,Siglufirði,17
 20117,Höfuðborgarsvæðið,Skeifunni,97
-20117,Höfuðborgarsvæðið,Skútuvogi,62
+20117,Höfuðborgarsvæðið,Skútuvogi,61
 20117,Höfuðborgarsvæðið,Smáralind,57
 20117,Höfuðborgarsvæðið,Spöngin,49
 20117,Höfuðborgarsvæðið,Stekkjarbakka,71
@@ -22996,7 +22971,7 @@ product_id,region,store,quantity
 20213,Höfuðborgarsvæðið,Austurstræti,94
 20213,Vesturland,Borgarnesi,24
 20213,Höfuðborgarsvæðið,Borgartúni,270
-20213,Höfuðborgarsvæðið,Dalvegi,492
+20213,Höfuðborgarsvæðið,Dalvegi,491
 20213,Höfuðborgarsvæðið,Eiðistorgi,301
 20213,Höfuðborgarsvæðið,Hafnarfirði,155
 20213,Höfuðborgarsvæðið,Heiðrún,310
@@ -23103,7 +23078,7 @@ product_id,region,store,quantity
 20298,Suðurland,Selfossi,379
 20298,Austurland,Seyðisfirði,54
 20298,Norðurland,Siglufirði,57
-20298,Höfuðborgarsvæðið,Skeifunni,442
+20298,Höfuðborgarsvæðið,Skeifunni,436
 20298,Höfuðborgarsvæðið,Skútuvogi,101
 20298,Höfuðborgarsvæðið,Smáralind,200
 20298,Höfuðborgarsvæðið,Spöngin,100
@@ -23174,7 +23149,7 @@ product_id,region,store,quantity
 20345,Suðurland,Reykjanesbæ,12
 20345,Norðurland,Sauðárkróki,13
 20345,Suðurland,Selfossi,7
-20345,Höfuðborgarsvæðið,Skeifunni,22
+20345,Höfuðborgarsvæðið,Skeifunni,20
 20345,Höfuðborgarsvæðið,Skútuvogi,22
 20345,Höfuðborgarsvæðið,Smáralind,14
 20345,Höfuðborgarsvæðið,Spöngin,12
@@ -23219,7 +23194,7 @@ product_id,region,store,quantity
 20349,Höfuðborgarsvæðið,Mosfellsbæ,7
 20349,Suðurland,Reykjanesbæ,2
 20349,Suðurland,Selfossi,4
-20349,Höfuðborgarsvæðið,Skeifunni,10
+20349,Höfuðborgarsvæðið,Skeifunni,8
 20349,Höfuðborgarsvæðið,Skútuvogi,17
 20349,Höfuðborgarsvæðið,Smáralind,10
 20349,Höfuðborgarsvæðið,Spöngin,9
@@ -23446,7 +23421,7 @@ product_id,region,store,quantity
 20508,Höfuðborgarsvæðið,Skútuvogi,1
 20510,Norðurland,Akureyri,2
 20526,Norðurland,Akureyri,32
-20526,Höfuðborgarsvæðið,Dalvegi,37
+20526,Höfuðborgarsvæðið,Dalvegi,36
 20526,Höfuðborgarsvæðið,Hafnarfirði,29
 20526,Höfuðborgarsvæðið,Heiðrún,36
 20526,Höfuðborgarsvæðið,Kringlunni,24
@@ -23464,7 +23439,7 @@ product_id,region,store,quantity
 20534,Höfuðborgarsvæðið,Mosfellsbæ,21
 20534,Suðurland,Reykjanesbæ,52
 20534,Suðurland,Selfossi,16
-20534,Höfuðborgarsvæðið,Skeifunni,62
+20534,Höfuðborgarsvæðið,Skeifunni,61
 20534,Höfuðborgarsvæðið,Skútuvogi,22
 20534,Höfuðborgarsvæðið,Smáralind,31
 20534,Höfuðborgarsvæðið,Spöngin,65
@@ -23547,7 +23522,7 @@ product_id,region,store,quantity
 20571,Suðurland,Selfossi,11
 20571,Norðurland,Siglufirði,10
 20571,Höfuðborgarsvæðið,Skeifunni,19
-20571,Höfuðborgarsvæðið,Skútuvogi,9
+20571,Höfuðborgarsvæðið,Skútuvogi,7
 20571,Höfuðborgarsvæðið,Smáralind,23
 20571,Höfuðborgarsvæðið,Spöngin,10
 20571,Höfuðborgarsvæðið,Stekkjarbakka,18
@@ -23898,7 +23873,7 @@ product_id,region,store,quantity
 20867,Norðurland,Akureyri,99
 20867,Höfuðborgarsvæðið,Austurstræti,46
 20867,Höfuðborgarsvæðið,Borgartúni,48
-20867,Höfuðborgarsvæðið,Dalvegi,204
+20867,Höfuðborgarsvæðið,Dalvegi,203
 20867,Höfuðborgarsvæðið,Eiðistorgi,79
 20867,Höfuðborgarsvæðið,Hafnarfirði,75
 20867,Höfuðborgarsvæðið,Heiðrún,87
@@ -23938,7 +23913,7 @@ product_id,region,store,quantity
 20885,Höfuðborgarsvæðið,Austurstræti,83
 20885,Vesturland,Borgarnesi,46
 20885,Höfuðborgarsvæðið,Borgartúni,36
-20885,Höfuðborgarsvæðið,Dalvegi,157
+20885,Höfuðborgarsvæðið,Dalvegi,155
 20885,Norðurland,Dalvík,5
 20885,Austurland,Egilsstöðum,40
 20885,Höfuðborgarsvæðið,Eiðistorgi,34
@@ -23964,7 +23939,7 @@ product_id,region,store,quantity
 20889,Höfuðborgarsvæðið,Austurstræti,169
 20889,Vesturland,Borgarnesi,101
 20889,Höfuðborgarsvæðið,Borgartúni,113
-20889,Höfuðborgarsvæðið,Dalvegi,327
+20889,Höfuðborgarsvæðið,Dalvegi,321
 20889,Norðurland,Dalvík,18
 20889,Austurland,Egilsstöðum,27
 20889,Höfuðborgarsvæðið,Eiðistorgi,328
@@ -23978,7 +23953,6 @@ product_id,region,store,quantity
 20889,Norðurland,Sauðárkróki,60
 20889,Suðurland,Selfossi,85
 20889,Norðurland,Siglufirði,1
-20889,Höfuðborgarsvæðið,Skeifunni,1
 20889,Höfuðborgarsvæðið,Skútuvogi,373
 20889,Höfuðborgarsvæðið,Smáralind,184
 20889,Höfuðborgarsvæðið,Spöngin,167
@@ -24099,7 +24073,7 @@ product_id,region,store,quantity
 21003,Vesturland,Borgarnesi,116
 21003,Höfuðborgarsvæðið,Borgartúni,221
 21003,Vesturland,Búðardal,27
-21003,Höfuðborgarsvæðið,Dalvegi,398
+21003,Höfuðborgarsvæðið,Dalvegi,396
 21003,Norðurland,Dalvík,47
 21003,Austurland,Djúpivogur,31
 21003,Austurland,Egilsstöðum,89
@@ -24143,7 +24117,7 @@ product_id,region,store,quantity
 21003,Suðurland,Þorlákshöfn,43
 21003,Austurland,Þórshöfn,12
 21011,Norðurland,Akureyri,60
-21011,Höfuðborgarsvæðið,Dalvegi,112
+21011,Höfuðborgarsvæðið,Dalvegi,111
 21011,Austurland,Egilsstöðum,24
 21011,Höfuðborgarsvæðið,Hafnarfirði,82
 21011,Höfuðborgarsvæðið,Heiðrún,111
@@ -24213,7 +24187,7 @@ product_id,region,store,quantity
 21016,Norðurland,Akureyri,17
 21016,Höfuðborgarsvæðið,Austurstræti,7
 21016,Höfuðborgarsvæðið,Borgartúni,6
-21016,Höfuðborgarsvæðið,Dalvegi,23
+21016,Höfuðborgarsvæðið,Dalvegi,21
 21016,Höfuðborgarsvæðið,Eiðistorgi,10
 21016,Höfuðborgarsvæðið,Hafnarfirði,20
 21016,Höfuðborgarsvæðið,Heiðrún,13
@@ -24234,7 +24208,7 @@ product_id,region,store,quantity
 21023,Höfuðborgarsvæðið,Hafnarfirði,31
 21023,Höfuðborgarsvæðið,Heiðrún,37
 21023,Höfuðborgarsvæðið,Kringlunni,26
-21023,Höfuðborgarsvæðið,Skeifunni,30
+21023,Höfuðborgarsvæðið,Skeifunni,29
 21023,Höfuðborgarsvæðið,Skútuvogi,36
 21025,Norðurland,Akureyri,28
 21025,Höfuðborgarsvæðið,Austurstræti,16
@@ -24438,7 +24412,7 @@ product_id,region,store,quantity
 21098,Norðurland,Akureyri,28
 21098,Höfuðborgarsvæðið,Austurstræti,78
 21098,Höfuðborgarsvæðið,Borgartúni,18
-21098,Höfuðborgarsvæðið,Dalvegi,31
+21098,Höfuðborgarsvæðið,Dalvegi,30
 21098,Höfuðborgarsvæðið,Eiðistorgi,20
 21098,Höfuðborgarsvæðið,Hafnarfirði,51
 21098,Höfuðborgarsvæðið,Heiðrún,20
@@ -24538,7 +24512,7 @@ product_id,region,store,quantity
 21125,Suðurland,Reykjanesbæ,9
 21125,Norðurland,Sauðárkróki,3
 21125,Suðurland,Selfossi,17
-21125,Höfuðborgarsvæðið,Skeifunni,19
+21125,Höfuðborgarsvæðið,Skeifunni,18
 21125,Höfuðborgarsvæðið,Skútuvogi,18
 21125,Höfuðborgarsvæðið,Smáralind,19
 21125,Höfuðborgarsvæðið,Spöngin,17
@@ -25358,7 +25332,7 @@ product_id,region,store,quantity
 21461,Norðurland,Sauðárkróki,6
 21461,Suðurland,Selfossi,3
 21461,Austurland,Seyðisfirði,3
-21461,Höfuðborgarsvæðið,Skeifunni,9
+21461,Höfuðborgarsvæðið,Skeifunni,8
 21461,Höfuðborgarsvæðið,Skútuvogi,1
 21461,Höfuðborgarsvæðið,Smáralind,6
 21461,Höfuðborgarsvæðið,Spöngin,9
@@ -25405,7 +25379,7 @@ product_id,region,store,quantity
 21465,Suðurland,Reykjanesbæ,22
 21465,Norðurland,Sauðárkróki,12
 21465,Suðurland,Selfossi,23
-21465,Höfuðborgarsvæðið,Skeifunni,29
+21465,Höfuðborgarsvæðið,Skeifunni,28
 21465,Höfuðborgarsvæðið,Skútuvogi,14
 21465,Höfuðborgarsvæðið,Smáralind,22
 21465,Höfuðborgarsvæðið,Stekkjarbakka,14
@@ -25477,7 +25451,7 @@ product_id,region,store,quantity
 21484,Höfuðborgarsvæðið,Hafnarfirði,272
 21484,Höfuðborgarsvæðið,Heiðrún,289
 21484,Höfuðborgarsvæðið,Kringlunni,156
-21484,Höfuðborgarsvæðið,Skeifunni,244
+21484,Höfuðborgarsvæðið,Skeifunni,238
 21484,Höfuðborgarsvæðið,Skútuvogi,333
 21487,Norðurland,Akureyri,72
 21487,Höfuðborgarsvæðið,Dalvegi,48
@@ -25530,7 +25504,7 @@ product_id,region,store,quantity
 21494,Austurland,Reyðarfirði,167
 21494,Suðurland,Selfossi,103
 21494,Austurland,Seyðisfirði,26
-21494,Höfuðborgarsvæðið,Skeifunni,85
+21494,Höfuðborgarsvæðið,Skeifunni,82
 21494,Höfuðborgarsvæðið,Skútuvogi,73
 21494,Höfuðborgarsvæðið,Smáralind,61
 21494,Höfuðborgarsvæðið,Spöngin,95
@@ -25587,7 +25561,7 @@ product_id,region,store,quantity
 21499,Höfuðborgarsvæðið,Mosfellsbæ,13
 21499,Suðurland,Reykjanesbæ,12
 21499,Suðurland,Selfossi,32
-21499,Höfuðborgarsvæðið,Skeifunni,36
+21499,Höfuðborgarsvæðið,Skeifunni,35
 21499,Höfuðborgarsvæðið,Skútuvogi,7
 21499,Höfuðborgarsvæðið,Smáralind,12
 21499,Höfuðborgarsvæðið,Spöngin,15
@@ -25613,7 +25587,7 @@ product_id,region,store,quantity
 21514,Höfuðborgarsvæðið,Hafnarfirði,30
 21514,Höfuðborgarsvæðið,Heiðrún,41
 21514,Höfuðborgarsvæðið,Kringlunni,48
-21514,Höfuðborgarsvæðið,Skeifunni,31
+21514,Höfuðborgarsvæðið,Skeifunni,30
 21514,Höfuðborgarsvæðið,Skútuvogi,78
 21515,Norðurland,Akureyri,12
 21515,Höfuðborgarsvæðið,Dalvegi,10
@@ -25626,7 +25600,7 @@ product_id,region,store,quantity
 21515,Höfuðborgarsvæðið,Skeifunni,4
 21515,Höfuðborgarsvæðið,Skútuvogi,23
 21526,Norðurland,Akureyri,10
-21526,Höfuðborgarsvæðið,Dalvegi,31
+21526,Höfuðborgarsvæðið,Dalvegi,30
 21526,Höfuðborgarsvæðið,Hafnarfirði,22
 21526,Höfuðborgarsvæðið,Heiðrún,15
 21526,Höfuðborgarsvæðið,Kringlunni,4
@@ -25764,7 +25738,7 @@ product_id,region,store,quantity
 21582,Suðurland,Selfossi,60
 21582,Norðurland,Siglufirði,12
 21582,Höfuðborgarsvæðið,Skeifunni,63
-21582,Höfuðborgarsvæðið,Skútuvogi,165
+21582,Höfuðborgarsvæðið,Skútuvogi,159
 21582,Höfuðborgarsvæðið,Smáralind,59
 21582,Höfuðborgarsvæðið,Spöngin,34
 21582,Höfuðborgarsvæðið,Stekkjarbakka,42
@@ -25881,7 +25855,7 @@ product_id,region,store,quantity
 21631,Suðurland,Reykjanesbæ,9
 21631,Suðurland,Selfossi,6
 21631,Höfuðborgarsvæðið,Skeifunni,14
-21631,Höfuðborgarsvæðið,Skútuvogi,11
+21631,Höfuðborgarsvæðið,Skútuvogi,9
 21631,Höfuðborgarsvæðið,Smáralind,7
 21631,Höfuðborgarsvæðið,Spöngin,9
 21631,Höfuðborgarsvæðið,Stekkjarbakka,6
@@ -25907,7 +25881,7 @@ product_id,region,store,quantity
 21646,Norðurland,Akureyri,17
 21646,Höfuðborgarsvæðið,Austurstræti,15
 21646,Höfuðborgarsvæðið,Borgartúni,18
-21646,Höfuðborgarsvæðið,Dalvegi,32
+21646,Höfuðborgarsvæðið,Dalvegi,31
 21646,Höfuðborgarsvæðið,Eiðistorgi,24
 21646,Höfuðborgarsvæðið,Hafnarfirði,7
 21646,Höfuðborgarsvæðið,Heiðrún,6
@@ -25962,7 +25936,7 @@ product_id,region,store,quantity
 21656,Norðurland,Sauðárkróki,36
 21656,Suðurland,Selfossi,63
 21656,Höfuðborgarsvæðið,Skeifunni,91
-21656,Höfuðborgarsvæðið,Skútuvogi,78
+21656,Höfuðborgarsvæðið,Skútuvogi,76
 21656,Höfuðborgarsvæðið,Smáralind,41
 21656,Höfuðborgarsvæðið,Spöngin,115
 21656,Höfuðborgarsvæðið,Stekkjarbakka,116
@@ -26190,14 +26164,14 @@ product_id,region,store,quantity
 21743,Höfuðborgarsvæðið,Skútuvogi,13
 21746,Norðurland,Akureyri,92
 21746,Höfuðborgarsvæðið,Borgartúni,132
-21746,Höfuðborgarsvæðið,Dalvegi,306
+21746,Höfuðborgarsvæðið,Dalvegi,305
 21746,Höfuðborgarsvæðið,Hafnarfirði,212
 21746,Höfuðborgarsvæðið,Heiðrún,299
 21746,Vestfirðir,Hólmavík,8
 21746,Höfuðborgarsvæðið,Kringlunni,60
 21746,Höfuðborgarsvæðið,Mosfellsbæ,112
-21746,Höfuðborgarsvæðið,Skeifunni,261
-21746,Höfuðborgarsvæðið,Skútuvogi,486
+21746,Höfuðborgarsvæðið,Skeifunni,251
+21746,Höfuðborgarsvæðið,Skútuvogi,481
 21746,Höfuðborgarsvæðið,Stekkjarbakka,160
 21747,Norðurland,Akureyri,42
 21747,Höfuðborgarsvæðið,Hafnarfirði,38
@@ -26291,7 +26265,7 @@ product_id,region,store,quantity
 21785,Höfuðborgarsvæðið,Skeifunni,12
 21785,Höfuðborgarsvæðið,Skútuvogi,15
 21786,Norðurland,Akureyri,16
-21786,Höfuðborgarsvæðið,Dalvegi,25
+21786,Höfuðborgarsvæðið,Dalvegi,24
 21786,Höfuðborgarsvæðið,Hafnarfirði,8
 21786,Höfuðborgarsvæðið,Heiðrún,18
 21786,Höfuðborgarsvæðið,Kringlunni,15
@@ -26408,7 +26382,7 @@ product_id,region,store,quantity
 21817,Höfuðborgarsvæðið,Heiðrún,19
 21817,Höfuðborgarsvæðið,Kringlunni,9
 21817,Höfuðborgarsvæðið,Skeifunni,14
-21817,Höfuðborgarsvæðið,Skútuvogi,16
+21817,Höfuðborgarsvæðið,Skútuvogi,15
 21817,Höfuðborgarsvæðið,Spöngin,6
 21821,Norðurland,Akureyri,25
 21821,Höfuðborgarsvæðið,Dalvegi,32
@@ -26539,7 +26513,7 @@ product_id,region,store,quantity
 21883,Höfuðborgarsvæðið,Heiðrún,13
 21883,Höfuðborgarsvæðið,Kringlunni,9
 21883,Suðurland,Reykjanesbæ,7
-21883,Höfuðborgarsvæðið,Skeifunni,15
+21883,Höfuðborgarsvæðið,Skeifunni,14
 21883,Höfuðborgarsvæðið,Skútuvogi,13
 21885,Norðurland,Akureyri,5
 21885,Höfuðborgarsvæðið,Austurstræti,8
@@ -26582,10 +26556,6 @@ product_id,region,store,quantity
 21891,Höfuðborgarsvæðið,Heiðrún,12
 21891,Höfuðborgarsvæðið,Kringlunni,12
 21891,Höfuðborgarsvæðið,Skútuvogi,8
-21904,Höfuðborgarsvæðið,Hafnarfirði,3
-21904,Höfuðborgarsvæðið,Heiðrún,8
-21904,Höfuðborgarsvæðið,Kringlunni,2
-21904,Höfuðborgarsvæðið,Skútuvogi,9
 21905,Norðurland,Akureyri,10
 21905,Höfuðborgarsvæðið,Dalvegi,10
 21905,Höfuðborgarsvæðið,Hafnarfirði,6
@@ -26663,7 +26633,7 @@ product_id,region,store,quantity
 21915,Höfuðborgarsvæðið,Mosfellsbæ,16
 21915,Suðurland,Selfossi,10
 21915,Höfuðborgarsvæðið,Skeifunni,10
-21915,Höfuðborgarsvæðið,Skútuvogi,14
+21915,Höfuðborgarsvæðið,Skútuvogi,13
 21915,Höfuðborgarsvæðið,Stekkjarbakka,15
 21925,Norðurland,Akureyri,5
 21925,Höfuðborgarsvæðið,Austurstræti,5
@@ -26708,7 +26678,7 @@ product_id,region,store,quantity
 21934,Höfuðborgarsvæðið,Heiðrún,90
 21934,Höfuðborgarsvæðið,Kringlunni,82
 21934,Höfuðborgarsvæðið,Skeifunni,230
-21934,Höfuðborgarsvæðið,Skútuvogi,150
+21934,Höfuðborgarsvæðið,Skútuvogi,146
 21935,Norðurland,Akureyri,15
 21935,Höfuðborgarsvæðið,Dalvegi,47
 21935,Höfuðborgarsvæðið,Hafnarfirði,48
@@ -26721,7 +26691,7 @@ product_id,region,store,quantity
 21936,Höfuðborgarsvæðið,Hafnarfirði,49
 21936,Höfuðborgarsvæðið,Heiðrún,28
 21936,Höfuðborgarsvæðið,Kringlunni,65
-21936,Höfuðborgarsvæðið,Skeifunni,68
+21936,Höfuðborgarsvæðið,Skeifunni,67
 21936,Höfuðborgarsvæðið,Skútuvogi,35
 21937,Norðurland,Akureyri,6
 21937,Höfuðborgarsvæðið,Dalvegi,13
@@ -26821,7 +26791,6 @@ product_id,region,store,quantity
 21964,Höfuðborgarsvæðið,Heiðrún,9
 21964,Höfuðborgarsvæðið,Kringlunni,8
 21964,Höfuðborgarsvæðið,Skútuvogi,10
-21966,Höfuðborgarsvæðið,Hafnarfirði,2
 21967,Höfuðborgarsvæðið,Hafnarfirði,6
 21967,Höfuðborgarsvæðið,Heiðrún,9
 21967,Höfuðborgarsvæðið,Kringlunni,9
@@ -26878,14 +26847,6 @@ product_id,region,store,quantity
 21976,Höfuðborgarsvæðið,Heiðrún,2
 21976,Höfuðborgarsvæðið,Kringlunni,9
 21976,Höfuðborgarsvæðið,Skútuvogi,10
-21977,Höfuðborgarsvæðið,Hafnarfirði,9
-21977,Höfuðborgarsvæðið,Heiðrún,13
-21977,Höfuðborgarsvæðið,Kringlunni,11
-21977,Höfuðborgarsvæðið,Skútuvogi,5
-21978,Höfuðborgarsvæðið,Hafnarfirði,6
-21978,Höfuðborgarsvæðið,Heiðrún,14
-21978,Höfuðborgarsvæðið,Kringlunni,11
-21978,Höfuðborgarsvæðið,Skútuvogi,10
 21979,Höfuðborgarsvæðið,Hafnarfirði,9
 21979,Höfuðborgarsvæðið,Heiðrún,10
 21979,Höfuðborgarsvæðið,Kringlunni,9
@@ -26897,10 +26858,6 @@ product_id,region,store,quantity
 21980,Höfuðborgarsvæðið,Kringlunni,6
 21980,Höfuðborgarsvæðið,Skeifunni,9
 21980,Höfuðborgarsvæðið,Skútuvogi,8
-21982,Höfuðborgarsvæðið,Hafnarfirði,14
-21982,Höfuðborgarsvæðið,Heiðrún,21
-21982,Höfuðborgarsvæðið,Kringlunni,22
-21982,Höfuðborgarsvæðið,Skútuvogi,24
 21983,Höfuðborgarsvæðið,Hafnarfirði,3
 21983,Höfuðborgarsvæðið,Heiðrún,3
 21986,Norðurland,Akureyri,2
@@ -26915,10 +26872,6 @@ product_id,region,store,quantity
 21990,Höfuðborgarsvæðið,Hafnarfirði,8
 21990,Höfuðborgarsvæðið,Heiðrún,10
 21990,Höfuðborgarsvæðið,Kringlunni,10
-21991,Höfuðborgarsvæðið,Hafnarfirði,4
-21991,Höfuðborgarsvæðið,Heiðrún,9
-21991,Höfuðborgarsvæðið,Kringlunni,4
-21991,Höfuðborgarsvæðið,Skútuvogi,6
 21992,Norðurland,Akureyri,15
 21992,Höfuðborgarsvæðið,Dalvegi,11
 21992,Höfuðborgarsvæðið,Hafnarfirði,9
@@ -26926,18 +26879,7 @@ product_id,region,store,quantity
 21992,Höfuðborgarsvæðið,Kringlunni,5
 21992,Höfuðborgarsvæðið,Skeifunni,8
 21992,Höfuðborgarsvæðið,Skútuvogi,12
-21993,Höfuðborgarsvæðið,Hafnarfirði,8
-21993,Höfuðborgarsvæðið,Heiðrún,8
-21993,Höfuðborgarsvæðið,Kringlunni,1
-21994,Höfuðborgarsvæðið,Hafnarfirði,4
-21994,Höfuðborgarsvæðið,Heiðrún,12
-21994,Höfuðborgarsvæðið,Kringlunni,2
-21994,Höfuðborgarsvæðið,Skútuvogi,1
 21995,Höfuðborgarsvæðið,Skútuvogi,2
-21996,Höfuðborgarsvæðið,Hafnarfirði,7
-21996,Höfuðborgarsvæðið,Heiðrún,14
-21996,Höfuðborgarsvæðið,Kringlunni,6
-21996,Höfuðborgarsvæðið,Skútuvogi,5
 21997,Norðurland,Akureyri,17
 21997,Höfuðborgarsvæðið,Borgartúni,1
 21997,Höfuðborgarsvæðið,Dalvegi,11
@@ -27004,34 +26946,10 @@ product_id,region,store,quantity
 22006,Höfuðborgarsvæðið,Kringlunni,74
 22006,Höfuðborgarsvæðið,Skeifunni,13
 22006,Höfuðborgarsvæðið,Skútuvogi,13
-22007,Höfuðborgarsvæðið,Hafnarfirði,5
-22007,Höfuðborgarsvæðið,Heiðrún,8
-22007,Höfuðborgarsvæðið,Kringlunni,6
-22007,Höfuðborgarsvæðið,Skútuvogi,5
-22008,Höfuðborgarsvæðið,Hafnarfirði,9
-22008,Höfuðborgarsvæðið,Heiðrún,11
-22008,Höfuðborgarsvæðið,Kringlunni,3
-22008,Höfuðborgarsvæðið,Skútuvogi,4
-22009,Höfuðborgarsvæðið,Hafnarfirði,7
-22009,Höfuðborgarsvæðið,Heiðrún,8
-22009,Höfuðborgarsvæðið,Kringlunni,10
-22009,Höfuðborgarsvæðið,Skútuvogi,5
-22010,Höfuðborgarsvæðið,Hafnarfirði,5
-22010,Höfuðborgarsvæðið,Heiðrún,6
-22010,Höfuðborgarsvæðið,Kringlunni,9
-22010,Höfuðborgarsvæðið,Skútuvogi,10
-22011,Höfuðborgarsvæðið,Hafnarfirði,7
-22011,Höfuðborgarsvæðið,Heiðrún,1
-22011,Höfuðborgarsvæðið,Kringlunni,11
-22011,Höfuðborgarsvæðið,Skútuvogi,3
 22012,Höfuðborgarsvæðið,Hafnarfirði,7
 22012,Höfuðborgarsvæðið,Heiðrún,15
 22012,Höfuðborgarsvæðið,Kringlunni,9
 22012,Höfuðborgarsvæðið,Skútuvogi,11
-22013,Höfuðborgarsvæðið,Hafnarfirði,3
-22013,Höfuðborgarsvæðið,Heiðrún,8
-22013,Höfuðborgarsvæðið,Kringlunni,6
-22013,Höfuðborgarsvæðið,Skútuvogi,17
 22015,Höfuðborgarsvæðið,Hafnarfirði,10
 22015,Höfuðborgarsvæðið,Heiðrún,7
 22015,Höfuðborgarsvæðið,Kringlunni,6
@@ -27066,14 +26984,6 @@ product_id,region,store,quantity
 22021,Höfuðborgarsvæðið,Kringlunni,4
 22021,Höfuðborgarsvæðið,Skeifunni,16
 22021,Höfuðborgarsvæðið,Skútuvogi,8
-22022,Höfuðborgarsvæðið,Hafnarfirði,4
-22022,Höfuðborgarsvæðið,Heiðrún,12
-22022,Höfuðborgarsvæðið,Kringlunni,5
-22022,Höfuðborgarsvæðið,Skútuvogi,8
-22023,Höfuðborgarsvæðið,Hafnarfirði,7
-22023,Höfuðborgarsvæðið,Heiðrún,7
-22023,Höfuðborgarsvæðið,Kringlunni,7
-22023,Höfuðborgarsvæðið,Skútuvogi,11
 22025,Höfuðborgarsvæðið,Hafnarfirði,16
 22025,Höfuðborgarsvæðið,Heiðrún,42
 22025,Höfuðborgarsvæðið,Kringlunni,49
@@ -27097,10 +27007,6 @@ product_id,region,store,quantity
 22030,Höfuðborgarsvæðið,Kringlunni,65
 22030,Norðurland,Sauðárkróki,7
 22030,Höfuðborgarsvæðið,Skútuvogi,69
-22031,Höfuðborgarsvæðið,Hafnarfirði,15
-22031,Höfuðborgarsvæðið,Heiðrún,13
-22031,Höfuðborgarsvæðið,Kringlunni,18
-22031,Höfuðborgarsvæðið,Skútuvogi,12
 22032,Norðurland,Akureyri,12
 22032,Höfuðborgarsvæðið,Dalvegi,22
 22032,Höfuðborgarsvæðið,Hafnarfirði,6
@@ -27118,18 +27024,13 @@ product_id,region,store,quantity
 22033,Höfuðborgarsvæðið,Kringlunni,10
 22033,Suðurland,Reykjanesbæ,15
 22033,Höfuðborgarsvæðið,Skeifunni,26
-22033,Höfuðborgarsvæðið,Skútuvogi,19
+22033,Höfuðborgarsvæðið,Skútuvogi,18
 22033,Höfuðborgarsvæðið,Smáralind,16
 22034,Höfuðborgarsvæðið,Dalvegi,19
 22034,Höfuðborgarsvæðið,Hafnarfirði,11
 22034,Höfuðborgarsvæðið,Heiðrún,7
 22034,Höfuðborgarsvæðið,Kringlunni,1
 22034,Suðurland,Vestmannaeyjum,3
-22035,Höfuðborgarsvæðið,Hafnarfirði,6
-22035,Höfuðborgarsvæðið,Heiðrún,8
-22035,Höfuðborgarsvæðið,Kringlunni,6
-22035,Höfuðborgarsvæðið,Skútuvogi,7
-22035,Suðurland,Vestmannaeyjum,3
 22036,Norðurland,Akureyri,18
 22036,Höfuðborgarsvæðið,Dalvegi,13
 22036,Höfuðborgarsvæðið,Hafnarfirði,7
@@ -27155,11 +27056,7 @@ product_id,region,store,quantity
 22047,Höfuðborgarsvæðið,Hafnarfirði,36
 22047,Höfuðborgarsvæðið,Heiðrún,31
 22047,Höfuðborgarsvæðið,Kringlunni,29
-22047,Höfuðborgarsvæðið,Skútuvogi,22
-22048,Höfuðborgarsvæðið,Hafnarfirði,26
-22048,Höfuðborgarsvæðið,Heiðrún,19
-22048,Höfuðborgarsvæðið,Kringlunni,16
-22048,Höfuðborgarsvæðið,Skútuvogi,12
+22047,Höfuðborgarsvæðið,Skútuvogi,21
 22049,Höfuðborgarsvæðið,Hafnarfirði,4
 22049,Höfuðborgarsvæðið,Heiðrún,14
 22049,Höfuðborgarsvæðið,Kringlunni,10
@@ -27171,10 +27068,6 @@ product_id,region,store,quantity
 22050,Höfuðborgarsvæðið,Kringlunni,19
 22050,Höfuðborgarsvæðið,Skeifunni,10
 22050,Höfuðborgarsvæðið,Skútuvogi,12
-22051,Höfuðborgarsvæðið,Hafnarfirði,5
-22051,Höfuðborgarsvæðið,Heiðrún,11
-22051,Höfuðborgarsvæðið,Kringlunni,7
-22051,Höfuðborgarsvæðið,Skútuvogi,8
 22054,Norðurland,Akureyri,6
 22054,Höfuðborgarsvæðið,Dalvegi,5
 22054,Höfuðborgarsvæðið,Hafnarfirði,7
@@ -27323,7 +27216,7 @@ product_id,region,store,quantity
 22091,Suðurland,Reykjanesbæ,73
 22091,Norðurland,Sauðárkróki,21
 22091,Suðurland,Selfossi,51
-22091,Höfuðborgarsvæðið,Skeifunni,110
+22091,Höfuðborgarsvæðið,Skeifunni,102
 22091,Höfuðborgarsvæðið,Skútuvogi,84
 22091,Höfuðborgarsvæðið,Smáralind,63
 22091,Höfuðborgarsvæðið,Spöngin,16
@@ -27456,7 +27349,7 @@ product_id,region,store,quantity
 22120,Höfuðborgarsvæðið,Heiðrún,231
 22120,Höfuðborgarsvæðið,Kringlunni,235
 22120,Höfuðborgarsvæðið,Skeifunni,196
-22120,Höfuðborgarsvæðið,Skútuvogi,459
+22120,Höfuðborgarsvæðið,Skútuvogi,458
 22120,Höfuðborgarsvæðið,Smáralind,137
 22121,Höfuðborgarsvæðið,Hafnarfirði,8
 22121,Höfuðborgarsvæðið,Heiðrún,8
@@ -27679,7 +27572,7 @@ product_id,region,store,quantity
 22175,Norðurland,Akureyri,29
 22175,Höfuðborgarsvæðið,Austurstræti,32
 22175,Höfuðborgarsvæðið,Borgartúni,13
-22175,Höfuðborgarsvæðið,Dalvegi,76
+22175,Höfuðborgarsvæðið,Dalvegi,68
 22175,Höfuðborgarsvæðið,Eiðistorgi,124
 22175,Höfuðborgarsvæðið,Hafnarfirði,35
 22175,Höfuðborgarsvæðið,Heiðrún,109
@@ -27777,7 +27670,7 @@ product_id,region,store,quantity
 22208,Höfuðborgarsvæðið,Hafnarfirði,24
 22208,Höfuðborgarsvæðið,Heiðrún,38
 22208,Höfuðborgarsvæðið,Kringlunni,56
-22208,Höfuðborgarsvæðið,Skeifunni,47
+22208,Höfuðborgarsvæðið,Skeifunni,46
 22208,Höfuðborgarsvæðið,Skútuvogi,72
 22209,Höfuðborgarsvæðið,Dalvegi,55
 22209,Höfuðborgarsvæðið,Hafnarfirði,28
@@ -27883,7 +27776,7 @@ product_id,region,store,quantity
 22229,Suðurland,Reykjanesbæ,48
 22229,Norðurland,Sauðárkróki,51
 22229,Suðurland,Selfossi,71
-22229,Höfuðborgarsvæðið,Skeifunni,108
+22229,Höfuðborgarsvæðið,Skeifunni,105
 22229,Höfuðborgarsvæðið,Skútuvogi,113
 22229,Höfuðborgarsvæðið,Smáralind,31
 22229,Höfuðborgarsvæðið,Spöngin,55
@@ -27913,7 +27806,7 @@ product_id,region,store,quantity
 22233,Norðurland,Akureyri,58
 22233,Höfuðborgarsvæðið,Austurstræti,18
 22233,Höfuðborgarsvæðið,Borgartúni,43
-22233,Höfuðborgarsvæðið,Dalvegi,26
+22233,Höfuðborgarsvæðið,Dalvegi,24
 22233,Höfuðborgarsvæðið,Eiðistorgi,36
 22233,Höfuðborgarsvæðið,Hafnarfirði,42
 22233,Höfuðborgarsvæðið,Heiðrún,78
@@ -28180,8 +28073,8 @@ product_id,region,store,quantity
 22307,Höfuðborgarsvæðið,Mosfellsbæ,14
 22307,Suðurland,Reykjanesbæ,112
 22307,Suðurland,Selfossi,118
-22307,Höfuðborgarsvæðið,Skeifunni,198
-22307,Höfuðborgarsvæðið,Skútuvogi,120
+22307,Höfuðborgarsvæðið,Skeifunni,186
+22307,Höfuðborgarsvæðið,Skútuvogi,113
 22307,Höfuðborgarsvæðið,Smáralind,134
 22307,Höfuðborgarsvæðið,Stekkjarbakka,245
 22307,Suðurland,Vestmannaeyjum,2
@@ -28395,7 +28288,7 @@ product_id,region,store,quantity
 22381,Höfuðborgarsvæðið,Hafnarfirði,52
 22381,Höfuðborgarsvæðið,Heiðrún,86
 22381,Höfuðborgarsvæðið,Kringlunni,72
-22381,Höfuðborgarsvæðið,Skútuvogi,143
+22381,Höfuðborgarsvæðið,Skútuvogi,142
 22385,Norðurland,Akureyri,100
 22385,Höfuðborgarsvæðið,Dalvegi,158
 22385,Norðurland,Dalvík,5
@@ -28456,13 +28349,13 @@ product_id,region,store,quantity
 22399,Höfuðborgarsvæðið,Heiðrún,56
 22399,Höfuðborgarsvæðið,Kringlunni,59
 22399,Suðurland,Reykjanesbæ,69
-22399,Höfuðborgarsvæðið,Skeifunni,68
+22399,Höfuðborgarsvæðið,Skeifunni,67
 22399,Höfuðborgarsvæðið,Skútuvogi,47
 22400,Höfuðborgarsvæðið,Hafnarfirði,54
 22400,Höfuðborgarsvæðið,Heiðrún,56
 22400,Höfuðborgarsvæðið,Kringlunni,55
 22400,Suðurland,Reykjanesbæ,103
-22400,Höfuðborgarsvæðið,Skeifunni,59
+22400,Höfuðborgarsvæðið,Skeifunni,58
 22400,Höfuðborgarsvæðið,Skútuvogi,43
 22401,Höfuðborgarsvæðið,Hafnarfirði,25
 22401,Höfuðborgarsvæðið,Heiðrún,35
@@ -28619,8 +28512,7 @@ product_id,region,store,quantity
 22437,Suðurland,Reykjanesbæ,102
 22437,Austurland,Reyðarfirði,1
 22437,Norðurland,Sauðárkróki,10
-22437,Höfuðborgarsvæðið,Skeifunni,1
-22437,Höfuðborgarsvæðið,Skútuvogi,502
+22437,Höfuðborgarsvæðið,Skútuvogi,498
 22438,Höfuðborgarsvæðið,Hafnarfirði,3
 22438,Höfuðborgarsvæðið,Heiðrún,12
 22438,Höfuðborgarsvæðið,Kringlunni,13
@@ -28705,7 +28597,7 @@ product_id,region,store,quantity
 22470,Höfuðborgarsvæðið,Hafnarfirði,108
 22470,Höfuðborgarsvæðið,Heiðrún,126
 22470,Höfuðborgarsvæðið,Kringlunni,80
-22470,Höfuðborgarsvæðið,Skeifunni,70
+22470,Höfuðborgarsvæðið,Skeifunni,68
 22470,Höfuðborgarsvæðið,Skútuvogi,191
 22473,Höfuðborgarsvæðið,Hafnarfirði,10
 22473,Höfuðborgarsvæðið,Heiðrún,10
@@ -28846,7 +28738,7 @@ product_id,region,store,quantity
 22544,Höfuðborgarsvæðið,Hafnarfirði,34
 22544,Höfuðborgarsvæðið,Heiðrún,85
 22544,Höfuðborgarsvæðið,Kringlunni,48
-22544,Höfuðborgarsvæðið,Skútuvogi,88
+22544,Höfuðborgarsvæðið,Skútuvogi,86
 22578,Höfuðborgarsvæðið,Hafnarfirði,12
 22578,Höfuðborgarsvæðið,Heiðrún,12
 22578,Höfuðborgarsvæðið,Kringlunni,11
@@ -28966,7 +28858,7 @@ product_id,region,store,quantity
 90098,Suðurland,Selfossi,106
 90098,Austurland,Seyðisfirði,34
 90098,Norðurland,Siglufirði,49
-90098,Höfuðborgarsvæðið,Skeifunni,181
+90098,Höfuðborgarsvæðið,Skeifunni,180
 90098,Höfuðborgarsvæðið,Skútuvogi,17
 90098,Höfuðborgarsvæðið,Smáralind,64
 90098,Höfuðborgarsvæðið,Spöngin,34
