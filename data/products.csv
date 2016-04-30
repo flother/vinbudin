@@ -161,7 +161,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 11415,Brennivín 6x50 ml plastfl í pakka,Ölgerðin Egill Skallagríms ehf,ísland,,,,37.5,,,false,300.0,skrúftappi,pakkning,strong,snaps,{},3230,false,false,false,2015-10-01,true,false
 11434,Stephane Brocard Meursault,Haugen-Gruppen ehf.,frakkland,bourgogne,meursault,2006,13.0,,,false,750.0,,flaska,white,,"{B,C,D,Æ}",5829,false,true,false,2010-07-01,false,false
 11436,Banfi Grappa di Brunello,Bakkus ehf.,ítalía,,,,45.0,,,false,700.0,,flaska,strong,fruitbrandy,{},8499,false,false,false,2010-10-01,true,false
-11445,Chateau Hanteillan,Bakkus ehf.,frakkland,bordeaux,haut-medoc,2011,13.0,merlot,01M,false,750.0,korkur,flaska,red,,"{E,F,J,T,Æ}",2498,false,false,false,2014-11-01,true,false
 11496,Flöskupoki Vico tvöfaldur,Danco - Daníel Pétursson ehf.,,,,,0.0,,,false,0.0,,stykki,wrapper,,{},747,false,false,false,2009-05-04,true,false
 11500,Kaldi Lite,Bruggsmiðjan Kaldi ehf.,ísland,,,,4.4,,60LL,false,330.0,crown,flaska,beer,,"{A,P}",347,false,false,false,2009-09-01,true,false
 11506,Deanston 12 ára,Alvin Nordic Associates ehf,stórabretland,skotland,highland,,46.3,,,false,700.0,korktappi,flaska,strong,whisky,{},12122,false,false,false,2012-07-01,true,false
@@ -1636,7 +1635,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 3241,Cadet d'Oc Cabernet Sauvignon,Bakkus ehf.,frakkland,languedoc-,pays d'oc,2013,13.0,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,P,Y}",1999,false,false,false,2015-05-01,true,false
 3248,Castillo de Molina Chardonnay Reserva,Ölgerðin Egill Skallagríms ehf,chile,aconcagua,valle de casablanca,2013,14.0,chardonnay,02M,false,750.0,skrúftappi,flaska,white,,"{B,C,D,P,Y}",1999,false,false,false,2003-11-01,true,false
 3252,Gato Negro Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,chile,valledecen,valle central,2014,11.5,cabernet sauvignon,01L,false,750.0,skrúftappi,flaska,red,,"{3,J,M,P,Y}",1499,false,false,false,2001-09-01,true,false
-3324,Gnarly Head Petite Sirah,Vífilfell hf.,bandaríkin,,kalifornía,,14.5,petite sirah,,false,750.0,,flaska,red,,{},2699,false,false,false,2001-09-01,true,false
 3357,Courvoisier VSOP,Haugen-Gruppen ehf.,frakkland,cognac,fine champagne,,40.0,,,false,700.0,,flaska,strong,brandy,{},9499,false,false,false,2016-02-01,true,false
 3382,Vaucher Chablis,AMKA Ísland ehf.,frakkland,bourgogne,chablis,2014,12.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",2998,false,false,false,2013-11-01,true,false
 3385,Piccini Chianti,Ölgerðin Egill Skallagríms ehf,ítalía,toskana,chianti,2014,12.5,sangiovese,01M,false,750.0,korkur,flaska,red,,"{D,I,L,P,Y}",1795,false,false,false,2009-06-01,true,false
