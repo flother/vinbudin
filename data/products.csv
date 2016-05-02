@@ -135,7 +135,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 11086,Fuller's London Porter,Winehouse ehf,stórabretland,,,,5.4,,61SP,false,500.0,crown,flaska,beer,,{},690,false,false,false,2012-03-01,true,false
 1109,Jagermeister,Ölgerðin Egill Skallagríms ehf,þýskaland,,,,35.0,,,false,700.0,skrúftappi,flaska,strong,bitterspice,{},5990,false,false,false,2000-01-01,true,false
 1110,Jagermeister,Ölgerðin Egill Skallagríms ehf,þýskaland,,,,35.0,,,false,350.0,skrúftappi,flaska,strong,bitterspice,{},3190,false,false,false,2000-01-01,true,false
-11102,VK Tropical Fruits,Magnval ehf,stórabretland,,,,4.0,,,false,275.0,crown,flaska,cidersoda,soda,{},267,false,false,false,2016-02-01,true,false
+11102,VK Tropical Fruits,Avons ehf,stórabretland,,,,4.0,,,false,275.0,crown,flaska,cidersoda,soda,{},267,false,false,false,2016-02-01,true,false
 11104,Meukow VSOP,Elgur ehf,frakkland,cognac,cognac,,40.0,,,false,200.0,skrúftappi,flaska,strong,brandy,{},2990,false,false,false,2015-07-01,true,false
 1111,Underberg 3x20 ml,Elgur ehf,þýskaland,,,,44.0,,,false,60.0,skrúftappi,pakkning,strong,bitterspice,{},990,false,false,false,2010-06-01,true,false
 1112,Gammel Dansk,Haugen-Gruppen ehf.,danmörk,,,,38.0,,,false,700.0,,flaska,strong,bitterspice,{},6199,false,false,false,2000-01-01,true,false
@@ -1422,7 +1422,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22332,Oban Distillers Edition 1999 Single Malt,Ölgerðin Egill Skallagríms ehf,stórabretland,skotland,highland,,43.0,,,false,700.0,korktappi,flaska,strong,whisky,{},13970,false,false,false,2015-12-01,true,false
 22333,Caol Ila Distillers Edition 2002 Single Malt,Ölgerðin Egill Skallagríms ehf,stórabretland,skotland,islay,,43.0,,,false,700.0,korktappi,flaska,strong,whisky,{},13099,false,false,false,2015-12-01,true,false
 22334,Ramon Bilbao Edicion Limitada,Ölgerðin Egill Skallagríms ehf,spánn,,rioja,2012,14.0,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,L,T,Æ}",2630,false,false,false,2016-03-01,true,false
-22336,Urpiner Premium,Magnval ehf,slóvakía,,,,5.0,,60LL,false,500.0,,dós,beer,,{},314,false,false,false,2016-02-01,true,false
+22336,Urpiner Premium,Avons ehf,slóvakía,,,,5.0,,60LL,false,500.0,,dós,beer,,{},314,false,false,false,2016-02-01,true,false
 22338,Poli Airone Rosso Aperitivo,Rolf Johansen & Co ehf,ítalía,,,,17.0,,,false,700.0,smella,flaska,strong,bitterspice,{},3745,false,false,false,2015-12-01,true,false
 22339,Dile D Rosa,Rolf Johansen & Co ehf,ítalía,,,,12.5,,03,false,750.0,korkur,flaska,rose,,"{2,A,I,M,Y}",1970,false,false,false,2015-12-01,true,false
 22340,Dile D Bianco,Rolf Johansen & Co ehf,ítalía,,,,12.5,,02L,false,750.0,korkur,flaska,white,,"{C,I,P,Y}",1970,false,false,false,2015-12-01,true,false
