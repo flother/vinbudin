@@ -34,7 +34,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 10320,Sunrise Chardonnay,Mekka Wines & Spirits hf,chile,valledecen,valle central,2015,13.0,chardonnay,02L,false,3000.0,Vitop,box,white,,"{C,I,M,P,Y}",5699,false,false,false,2006-08-01,true,false
 10324,Larsen VS,Ölgerðin Egill Skallagríms ehf,frakkland,cognac,cognac,,40.0,,,false,500.0,skrúftappi,flaska,strong,brandy,{},5150,false,false,false,2007-06-01,true,false
 10364,Mixtus Shiraz Malbec,Globus hf,argentína,,,2015,12.5,syrah,01L,false,3000.0,Vitop,box,red,,"{3,K,M,P,Y}",5199,false,false,false,2007-01-01,true,false
-10365,Mixtus Chardonnay Chenin,Globus hf,argentína,,,2013,12.0,chardonnay,02L,false,3000.0,Vitop,box,white,,"{A,B,C,P,Y}",4998,false,false,false,2007-01-01,true,false
+10365,Mixtus Chardonnay Chenin,Globus hf,argentína,,,2014,12.0,chardonnay,02L,false,3000.0,Vitop,box,white,,"{I,M,Y}",4998,false,false,false,2007-01-01,true,false
 1037,Southern Comfort,Mekka Wines & Spirits hf,bandaríkin,,,,35.0,,,false,700.0,,flaska,strong,liqueur,{},5799,false,false,false,2000-01-01,true,false
 10375,Citadelle Gin,Karl K. Karlsson ehf.,frakkland,,,,44.0,,,false,700.0,,flaska,strong,gin,{},8880,false,false,false,2012-08-01,true,false
 10393,Nederburg Manor House Cabernet Sauvignon,Globus hf,suðurafríka,,western cape,2012,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",2599,false,false,false,2014-06-01,true,false
@@ -229,7 +229,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 11986,Flöskupoki - Stars & Stripe black (3 litir),Sænsk-íslenska ehf,stórabretland,,,,0.0,,,false,0.0,,stykki,wrapper,,{},369,false,false,false,2012-08-09,true,false
 11993,Imperial Reserva Rioja,Haugen-Gruppen ehf.,spánn,,rioja,2010,13.5,tempranillo,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",4799,false,false,false,2016-04-01,true,false
 11998,Laurent Miquel Nord Sud Viognier,Haugen-Gruppen ehf.,frakkland,,,2013,13.5,viognier,02M,false,750.0,korkur,flaska,white,,"{C,D,I,P,Y}",2499,false,false,false,2015-08-01,true,false
-12006,Drostdy-Hof Chardonnay Viognier,Globus hf,suðurafríka,,western cape,2013,14.0,chardonnay,02M,false,3000.0,bibtwist,box,white,,"{A,C,P,Y}",5999,false,false,false,2008-06-01,true,false
+12006,Drostdy-Hof Chardonnay Viognier,Globus hf,suðurafríka,,western cape,2015,14.0,chardonnay,02M,false,3000.0,bibtwist,box,white,,"{C,M,P,Y}",5999,false,false,false,2008-06-01,true,false
 12007,Drostdy-Hof Shiraz Pinotage,Globus hf,suðurafríka,,western cape,2015,13.5,syrah,01M,false,3000.0,bibtwist,box,red,,"{D,G,M,P,Y}",5999,false,false,false,2010-03-01,true,false
 12010,Kaldi Dökkur,Bruggsmiðjan Kaldi ehf.,ísland,,,,5.0,,60DL,false,330.0,crown,flaska,beer,,{},389,false,false,false,2007-07-01,true,false
 1202,Mikkeller Beer Geek Breakfast,Járn og gler hf,danmörk,,,,7.5,,61SP,false,330.0,crown,flaska,beer,,{},832,false,false,false,2013-09-01,true,false
@@ -898,7 +898,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21167,Carls Special,Vífilfell hf.,ísland,,,,4.4,,60DL,false,500.0,,dós,beer,,{},329,false,false,false,2014-01-01,true,false
 21181,Vina Albali Verdejo,Rolf Johansen & Co ehf,spánn,castilla l,valdepenas,2015,12.5,verdejo,02L,false,750.0,skrúftappi,flaska,white,,"{B,C,I,P,Y}",1650,false,false,false,2016-05-01,true,false
 21185,Farina Amarone della Valpolicella Classico,Era Trading ehf.,ítalía,veneto,valpolicella classico,2011,15.0,corvina,01T,false,750.0,korkur,flaska,red,,"{E,F,H,L,Æ}",4998,false,false,false,2016-02-01,true,false
-21189,Volcanic Gin,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,gin,{},5798,false,false,false,2014-10-01,true,false
 21191,Volcanic Vodka,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,500.0,skrúftappi,flaska,strong,vodka,{},3999,false,false,false,2015-10-01,true,false
 21192,Volcanic Vodka,Eldfjallabrugg ehf,ísland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5529,false,false,false,2015-11-01,true,false
 21194,Banfi Aska Bolgheri,Bakkus ehf.,ítalía,toskana,bolgheri,2011,13.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",3498,false,false,false,2015-10-01,true,false
@@ -1168,7 +1167,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21990,Heritages Lirac,Bakkus ehf.,frakkland,,,2013,15.0,cinsault,01M,false,750.0,korkur,flaska,red,,"{F,G,J,Æ}",2599,false,false,false,2016-05-01,true,false
 21992,Tiki Estate Pinot Gris,Bakkus ehf.,nýjasjáland,,marlborough,2014,13.5,pinot gris,02M,false,750.0,skrúftappi,flaska,white,,"{4,B,C,D,Y}",2398,false,false,false,2016-04-01,true,false
 21995,Cocoon Zinfandel Grand Reserve,Bakkus ehf.,bandaríkin,,kalifornía,2013,13.5,zinfandel,01M,false,3000.0,,box,red,,"{3,D,J,M,Y}",6997,false,false,false,2016-02-01,true,false
-21997,Laroche Chardonnay,Bakkus ehf.,frakkland,languedoc-,pays d'oc,2013,12.5,chardonnay,02M,false,3000.0,Vitop,box,white,,{P},6498,false,false,false,2016-02-01,true,false
+21997,Laroche Chardonnay,Bakkus ehf.,frakkland,languedoc-,pays d'oc,2014,12.5,chardonnay,02M,false,3000.0,Vitop,box,white,,"{C,D,M,P,Y}",6498,false,false,false,2016-02-01,true,false
 21998,Moselland Ars Vitis Riesling,Bakkus ehf.,þýskaland,mosel,mosel,2014,8.0,riesling,02LM,false,3000.0,,box,white,,"{4,A,P,Y}",3999,false,false,false,2015-10-01,true,false
 21999,Föroya 1888 Gyltur Veðrur,Föroya Bjór ehf,færeyjar,,,,10.0,,61ÖL,false,330.0,crown,flaska,beer,,{},599,false,false,false,2015-05-01,true,false
 22000,Föroya Sterkur Veðrur,Föroya Bjór ehf,færeyjar,,,,7.2,,60LL,false,330.0,,dós,beer,,{},448,false,false,false,2015-05-01,true,false
@@ -1371,7 +1370,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22276,Para Dos Malbec,HOB-vín ehf,argentína,mendoza,mendoza,2014,13.5,malbec,01M,false,750.0,skrúftappi,flaska,red,,"{E,F,J,S,Y}",1729,false,false,false,2015-10-01,true,false
 22277,Wine Maker's Pride Pinot Noir,HOB-vín ehf,chile,valledecen,valle central,2014,13.0,pinot noir,01L,false,750.0,skrúftappi,flaska,red,,"{3,D,G,P}",1769,false,false,false,2015-10-01,true,false
 22278,Don Luciano Blue Moscato,HOB-vín ehf,spánn,,,,7.0,moscato bianco,,false,750.0,korkur,flaska,bubbly,,"{A,K,Y}",899,false,false,false,2015-10-01,true,false
-22279,Amadeus hvítt,Globus hf,spánn,,,,11.5,,02L,false,3000.0,Vitop,box,white,,"{4,B,C,I,Y}",5199,false,false,false,2015-10-01,true,false
+22279,Amadeus hvítt,Globus hf,spánn,,,,11.5,,02L,false,3000.0,Vitop,box,white,,"{3,C,P,Y}",5199,false,false,false,2015-10-01,true,false
 2228,Torres Mas La Plana,Karl K. Karlsson ehf.,spánn,catalunya,penedes,2009,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",8285,false,false,false,2014-05-01,true,false
 22280,Amadeus rautt,Globus hf,spánn,,,,13.0,,01M,false,3000.0,Vitop,box,red,,"{3,D,M,Y}",5699,false,false,false,2015-10-01,true,false
 22281,Pusarosso Zinfandel,Globus hf,ítalía,puglia,salento,,13.5,zinfandel,01M,false,3000.0,Vitop,box,red,,"{2,3,J,M,Y}",6398,false,false,false,2015-10-01,true,false
@@ -1485,7 +1484,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22423,Anderra Sauvignon Blanc,Bakkus ehf.,chile,valledecen,valle central,2014,12.5,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{1,C,I,L,Y}",2210,false,false,false,2016-02-01,true,false
 22424,La Miranda Secastilla Garnacha,Bakkus ehf.,spánn,aragon,somontano,2013,14.0,garnacha,01M,false,750.0,korkur,flaska,red,,"{D,G,J,L,M,Y}",1999,false,false,false,2016-04-01,true,false
 22425,La Miranda Secastilla Garnacha Blanca,Bakkus ehf.,spánn,aragon,somontano,2013,13.5,grenache blanc,02M,false,750.0,korkur,flaska,white,,"{4,B,C,D,Y}",1999,false,false,false,2016-02-01,true,false
-22426,Gassier Coteaux d'Aix-en-Provence rósavín,Bakkus ehf.,frakkland,provence,coteaux d'aix-en-provence,2014,13.0,cinsault,03,true,3000.0,,box,rose,,"{B,C,I,M,Y}",6498,false,false,false,2016-04-01,true,false
+22426,Gassier Coteaux d'Aix-en-Provence rósavín,Bakkus ehf.,frakkland,provence,coteaux d'aix-en-provence,2015,13.0,cinsault,03,true,3000.0,,box,rose,,"{B,C,D,P,Y}",6498,false,false,false,2016-04-01,true,false
 22428,Gerard Bertrand Gris Blanc,Globus hf,frakkland,languedoc-,pays d'oc,2014,12.5,grenache,03,false,750.0,skrúftappi,flaska,rose,,"{C,I,M,P,Y}",1999,false,false,false,2016-03-01,true,false
 22429,Gran Lomo Malbec,Globus hf,argentína,,,2015,12.5,malbec,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,J,P,Y}",1599,false,false,false,2016-03-01,true,false
 2243,Stroh 60,Haugen-Gruppen ehf.,austurríki,,,,60.0,,,false,500.0,skrúftappi,flaska,strong,rum,{},6999,false,false,false,2011-05-01,true,false
@@ -1516,7 +1515,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22470,Tuborg Classic,Ölgerðin Egill Skallagríms ehf,ísland,,,,4.6,,60DL,false,330.0,crown,flaska,beer,,{},319,false,false,false,2016-04-01,true,false
 22473,Farina Appassilento Bianco,Era Trading ehf.,ítalía,veneto,veneto,2014,13.0,garganega,02M,false,750.0,plasttappi,flaska,white,,"{1,C,M,P,Y}",2098,false,false,false,2016-03-01,true,false
 22474,Farina Appassilento Rosso,Era Trading ehf.,ítalía,veneto,veneto,2013,13.0,,01MM,false,750.0,korkur,flaska,red,,"{D,J,M,P,Y}",2098,false,false,false,2016-03-01,true,false
-22475,Smugan,Ölgerðin Egill Skallagríms ehf,ísland,,,,10.6,,62HV,false,330.0,crown,flaska,beer,,{},825,false,false,false,2016-03-01,true,false
 22478,Gammel Dansk Shot Chili & Lakrids,Haugen-Gruppen ehf.,danmörk,,,,32.0,,,false,500.0,skrúftappi,peli,strong,shots,{},3899,false,false,false,2016-04-01,true,false
 22479,Domaine Jaume Cotes du Rhone hvítt,Must ehf.,frakkland,rhone,cotes-du-rhone,2014,13.5,clairette,02M,false,750.0,korkur,flaska,white,,"{B,C,P,Y}",2950,false,false,false,2016-04-01,true,false
 22480,Murphy-Goode Cabernet Sauvignon,HOB-vín ehf,bandaríkin,,kalifornía,2010,13.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,J,T,Æ}",2499,false,false,false,2016-04-01,true,false
@@ -1817,7 +1815,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 4838,Angostura 5 ára,Alvin Nordic Associates ehf,trínidadogtóbagó,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,rum,{},8466,false,false,false,2011-12-01,true,false
 484,Taittinger Brut Reserve,Bakkus ehf.,frakkland,champagne,champagne,,12.5,chardonnay,04,false,750.0,korkur,flaska,bubbly,,"{A,B,C,P,Æ}",5999,false,false,false,2013-11-01,true,false
 4854,Moselland Avantgarde Riesling,Bakkus ehf.,þýskaland,mosel,mosel,2014,8.5,riesling,02LM,false,750.0,korkur,flaska,white,,"{4,A,K,P,Y}",1798,false,false,false,2015-09-01,true,false
-4860,Drostdy-Hof Chenin Blanc,Globus hf,suðurafríka,,western cape,2013,12.5,chenin blanc,02L,false,3000.0,bibtwist,box,white,,"{A,C,M,P,Y}",5399,false,false,false,2003-08-01,true,false
+4860,Drostdy-Hof Chenin Blanc,Globus hf,suðurafríka,,western cape,2015,12.5,chenin blanc,02L,false,3000.0,bibtwist,box,white,,"{4,I,P,Y}",5399,false,false,false,2003-08-01,true,false
 4861,Drostdy-Hof Shiraz Merlot Cape Red,Globus hf,suðurafríka,,western cape,2015,13.5,shiraz,01M,false,3000.0,bibtwist,box,red,,"{F,G,J,Y}",5699,false,false,false,2003-10-01,true,false
 4869,Mickey Finn Sour Raspberry,Haugen-Gruppen ehf.,írland,,,,15.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},2799,false,false,false,2008-06-01,true,false
 4884,De Kuyper Triple Sec,Globus hf,holland,,,,40.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},4499,false,false,false,2010-03-01,true,false
@@ -1875,7 +1873,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 5236,Two Oceans Sauvignon Blanc,Globus hf,suðurafríka,,western cape,2013,13.0,sauvignon blanc,02M,false,3000.0,bibtwist,box,white,,"{A,C,P,Y}",5499,false,false,false,2004-06-01,true,false
 5237,Two Oceans Shiraz,Globus hf,suðurafríka,,western cape,2014,14.0,syrah,01M,false,3000.0,bibtwist,box,red,,"{3,D,G,J,P,Y}",5999,false,false,false,2009-05-01,true,false
 5238,Gallo Family Vineyards Cabernet Sauvignon,Globus hf,bandaríkin,kalifornía,kalifornía,2014,13.0,cabernet sauvignon,01MM,false,3000.0,vinitap,box,red,,"{3,D,G,J,Y}",5599,false,false,false,2007-12-01,true,false
-5239,Gallo Family Chardonnay,Globus hf,bandaríkin,kalifornía,kalifornía,2013,12.5,chardonnay,02M,false,3000.0,vinitap,box,white,,"{D,M,P,Y}",5599,false,false,false,2016-02-01,true,false
+5239,Gallo Family Chardonnay,Globus hf,bandaríkin,kalifornía,kalifornía,2014,12.5,chardonnay,02M,false,3000.0,vinitap,box,white,,"{D,J,K,Y}",5599,false,false,false,2016-02-01,true,false
 5245,Peter Lehmann Wildcard Chardonnay,Globus hf,ástralía,s-australi,south australia,2012,12.5,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,M,P,Y}",1699,false,false,false,2004-12-01,true,false
 5248,Peter Lehmann Futures Shiraz,Globus hf,ástralía,barossa,barossa valley,2012,14.5,shiraz,01T,false,750.0,skrúftappi,flaska,red,,"{E,H,J,T,Æ}",3199,false,false,false,2012-02-01,true,false
 5249,Peter Lehmann Wildcard Shiraz,Globus hf,ástralía,s-australi,south australia,2011,14.5,shiraz,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,J,P,Y}",1999,false,false,false,2004-10-01,true,false
@@ -2274,7 +2272,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 9607,Peter Lehmann Art'n'Soul Riesling,Globus hf,ástralía,,south australia,2013,11.0,riesling,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,P,Y}",1999,false,false,false,2010-06-01,true,false
 9615,Gato Negro Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,chile,valledecen,valle central,2013,11.5,cabernet sauvignon,01L,false,187.5,skrúftappi,flaska,red,,"{G,M,P,Y}",410,false,false,false,2011-01-01,true,false
 9618,Gato Negro Sauvignon Blanc,Ölgerðin Egill Skallagríms ehf,chile,valledecen,valle central,2014,12.0,sauvignon blanc,02L,false,187.5,skrúftappi,flaska,white,,"{4,A,B,C,Y}",410,false,false,false,2011-01-01,true,false
-9621,Gallo Family Vineyards White Grenache,Globus hf,bandaríkin,kalifornía,kalifornía,2011,9.5,grenache blanc,03M,false,3000.0,vinitap,box,rose,,"{A,I,O,P,Y}",4398,false,false,false,2009-08-01,true,false
+9621,Gallo Family Vineyards White Grenache,Globus hf,bandaríkin,kalifornía,kalifornía,2014,9.5,grenache blanc,03M,false,3000.0,vinitap,box,rose,,"{D,J,P,Y}",4398,false,false,false,2009-08-01,true,false
 9633,Hollandia,Vín Tríó ehf,holland,,,,5.0,,60LL,false,500.0,,dós,beer,,"{C,D,P,Y}",318,false,false,false,2008-07-01,true,false
 9640,Cortel Napoleon VSOP,Karl K. Karlsson ehf.,frakkland,,,,36.0,,,false,700.0,,flaska,strong,brandy,{},5499,false,false,false,1996-12-01,true,false
 9650,Concha y Toro Trio,Mekka Wines & Spirits hf,chile,valledecen,rapel valley,2013,13.5,merlot,01M,false,750.0,skrúftappi,flaska,red,,"{E,F,J,S,Y}",2099,false,false,false,2006-01-01,true,false
