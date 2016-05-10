@@ -1218,6 +1218,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22070,Cocchi Americano Aperitivo,Karl K. Karlsson ehf.,ítalía,,,,16.5,,,false,750.0,plasttappi,flaska,strong,bitterspice,{},5799,false,false,false,2015-06-01,true,false
 22072,Monte Don Lucio Cabernet Sauvignon,Ber ehf,spánn,castilla l,la mancha,2013,13.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{D,G,M,Y}",1265,false,false,false,2015-05-01,true,false
 22073,Sarria Reserva,Ber ehf,spánn,navarra,navarra,2009,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",2365,false,false,false,2016-03-01,true,false
+22075,Sumargull,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.0,,60LL,false,330.0,crown,flaska,beer,,{},369,true,false,false,2016-05-01,true,false
 22077,To Öl Thirsty Frontier,Járn og gler hf,danmörk,,,,4.5,,61ÖL,false,330.0,crown,flaska,beer,,"{C,D,P}",599,false,false,false,2015-04-01,true,false
 22080,N'Ice Chouffe,Elgur ehf,belgía,,,,10.0,,61ÖL,false,330.0,crown,flaska,beer,,{},999,true,false,false,2015-11-01,true,false
 22081,Arrow Chardonnay,Haugen-Gruppen ehf.,bandaríkin,,kalifornía,,12.5,chardonnay,02M,false,2000.0,Vitop,box,white,,"{B,C,D,M,Y}",4199,false,false,false,2015-11-01,true,false
@@ -1503,6 +1504,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22445,Cappo Shiraz,HOB-vín ehf,spánn,,,,12.5,shiraz,01M,false,750.0,skrúftappi,flaska,red,,"{D,G,J,K,Y}",1499,false,false,false,2016-03-01,true,false
 22447,Smirnoff Electric Apple,Ölgerðin Egill Skallagríms ehf,ítalía,,,,25.0,,,false,500.0,skrúftappi,flaska,strong,shots,{},2899,false,false,false,2016-03-01,true,false
 22448,Smirnoff Electric Berry,Ölgerðin Egill Skallagríms ehf,ítalía,,,,25.0,,,false,500.0,skrúftappi,flaska,strong,shots,{},2899,false,false,false,2016-03-01,true,false
+22449,Chouffe Soleil,Elgur ehf,belgía,,,,6.0,,61ÖL,false,330.0,crown,flaska,beer,,{},589,true,false,false,2016-05-01,true,false
 22451,Steðji Icelandic Northern Lights,Brugghús Steðja ehf.,ísland,,,,5.3,,60LL,false,330.0,crown,flaska,beer,,{},393,false,false,false,2016-03-01,true,false
 22453,Grevens Grönn Te og Sitrus,Smádeilur ehf,noregur,,,,4.7,,,false,500.0,,dós,cidersoda,cider,{},491,false,false,false,2016-03-01,true,false
 22454,Segull 67 Original,Sunna ehf,ísland,,,,5.0,,60DL,false,330.0,crown,flaska,beer,,{},385,false,false,false,2016-03-01,true,false
@@ -1669,6 +1671,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 3240,Cadet d'Oc Merlot,Bakkus ehf.,frakkland,languedoc-,pays d'oc,2013,13.5,merlot,01M,false,750.0,skrúftappi,flaska,red,,"{2,D,I,M,Y}",1999,false,false,false,2015-05-01,true,false
 3248,Castillo de Molina Chardonnay Reserva,Ölgerðin Egill Skallagríms ehf,chile,aconcagua,valle de casablanca,2013,14.0,chardonnay,02M,false,750.0,skrúftappi,flaska,white,,"{B,C,D,P,Y}",2190,false,false,false,2003-11-01,true,false
 3252,Gato Negro Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,chile,valledecen,valle central,2014,11.5,cabernet sauvignon,01L,false,750.0,skrúftappi,flaska,red,,"{3,J,M,P,Y}",1450,false,false,false,2001-09-01,true,false
+3329,Svyturys Ekstra,JK Holding premium ehf.,litháen,,,,5.2,,60LL,false,568.0,,dós,beer,,{},388,false,false,false,2015-02-01,true,false
 3357,Courvoisier VSOP,Haugen-Gruppen ehf.,frakkland,cognac,fine champagne,,40.0,,,false,700.0,,flaska,strong,brandy,{},9499,false,false,false,2016-02-01,true,false
 3382,Vaucher Chablis,AMKA Ísland ehf.,frakkland,bourgogne,chablis,2014,12.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",2998,false,false,false,2013-11-01,true,false
 3385,Piccini Chianti,Ölgerðin Egill Skallagríms ehf,ítalía,toskana,chianti,2014,12.5,sangiovese,01M,false,750.0,korkur,flaska,red,,"{D,I,L,P,Y}",1750,false,false,false,2009-06-01,true,false
@@ -1833,7 +1836,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 4995,Calina Carmenere,HOB-vín ehf,chile,valledecen,maule valley,2013,13.5,carmenere,01M,false,750.0,plasttappi,flaska,red,,"{D,G,J,P,Y}",1999,false,false,false,2015-12-01,true,false
 4996,Chateau Timberlay Cuvee Marie Paule Prestige,Elgur ehf,frakkland,bordeaux,bordeaux superieur,2006,12.5,cabernet sauvignon,,false,750.0,korkur,flaska,red,,"{E,F,S,Y}",3844,false,true,false,2012-04-01,false,false
 5004,Calina Cabernet Sauvignon,HOB-vín ehf,chile,valledecen,maule valley,2014,13.5,cabernet sauvignon,01M,false,750.0,plasttappi,flaska,red,,"{F,G,J,Y}",1999,false,false,false,2015-12-01,true,false
-502,Martini Asti,Mekka Wines & Spirits hf,ítalía,piemonte,asti,,7.5,moscato bianco,04S,false,750.0,korkur,flaska,bubbly,,{},1599,false,false,false,1996-03-01,true,false
+502,Martini Asti,Mekka Wines & Spirits hf,ítalía,piemonte,asti,,7.5,moscato bianco,04S,false,750.0,korkur,flaska,bubbly,,"{A,P,R,Y}",1599,false,false,false,1996-03-01,true,false
 5032,Beringer Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,bandaríkin,kalifornía,kalifornía,2013,13.0,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{D,F,G,J,Y}",1985,false,false,false,2003-12-01,true,false
 5047,Bitburger,Winehouse ehf,þýskaland,,,,4.8,,60LL,false,500.0,,dós,beer,,{},335,false,false,false,2015-06-01,true,false
 5048,Bitburger,Winehouse ehf,þýskaland,,,,4.8,,60LL,false,330.0,crown,flaska,beer,,{},289,false,false,false,2015-06-01,true,false
@@ -2007,7 +2010,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 672,Hennessy VSOP,Ölgerðin Egill Skallagríms ehf,frakkland,cognac,cognac,,40.0,,,false,700.0,,flaska,strong,brandy,{},11445,false,false,false,2007-03-01,true,false
 6747,Don Melchor Cabernet Sauvignon,Mekka Wines & Spirits hf,chile,valledecen,puente alto,2006,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",7999,false,false,false,2015-06-01,true,false
 6751,Alion,Ber ehf,spánn,castilla y,ribera del duero,2011,14.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",7757,false,false,false,2009-03-01,true,false
-6753,Vega Sicilia Valbuena,Ber ehf,spánn,castilla y,ribera del duero,1998,13.5,,,false,750.0,,flaska,red,,"{E,H,T,Æ}",17459,false,true,false,2008-11-01,false,false
+6753,Vega Sicilia Valbuena,Ber ehf,spánn,castilla y,ribera del duero,1998,13.5,,,false,750.0,,flaska,red,,"{E,H,T,Æ}",15629,false,true,false,2008-11-01,false,false
 6755,Vega Sicilia Unico,Ber ehf,spánn,,ribera del duero,1989,14.0,,01T,false,750.0,korkur,flaska,red,,{},30623,false,false,false,2009-02-10,true,false
 677,Remy Martin Fine Champagne VSOP,Haugen-Gruppen ehf.,frakkland,,,,40.0,,,false,700.0,,flaska,strong,brandy,{},9999,false,false,false,2000-01-01,true,false
 6802,Pasqua Nero d'Avola Shiraz Organic,Rolf Johansen & Co ehf,ítalía,sikiley,terre siciliane,2012,13.0,nero d'avola,01M,true,750.0,skrúftappi,flaska,red,,"{G,L,M,P,Y}",1980,false,false,false,2015-06-01,true,false
@@ -2297,7 +2300,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 9855,Bacardi Limon,Mekka Wines & Spirits hf,þýskaland,,,,32.0,,,false,700.0,skrúftappi,flaska,strong,snaps,{},5599,false,false,false,1999-05-03,true,false
 9858,Opal Vodkaskot,Ölgerðin Egill Skallagríms ehf,ísland,,,,27.0,,,false,500.0,skrúftappi,flaska,strong,shots,{},3799,false,false,false,2006-02-01,true,false
 9859,Tópas Vodkaskot,Ölgerðin Egill Skallagríms ehf,ísland,,,,27.0,,,false,500.0,skrúftappi,flaska,strong,shots,{},3799,false,false,false,2006-01-01,true,false
-9876,Chateau Corbin,Ber ehf,frakkland,bordeaux,saint-emilion grand cru,2002,13.5,merlot,,false,750.0,,flaska,red,,"{D,E,F,L,Y}",6881,false,true,false,2005-07-11,false,false
+9876,Chateau Corbin,Ber ehf,frakkland,bordeaux,saint-emilion grand cru,2002,13.5,merlot,,false,750.0,,flaska,red,,"{D,E,F,L,Y}",6160,false,true,false,2005-07-11,false,false
 9908,Porto Cruz Blanc,Elgur ehf,portúgal,,,,19.0,,,false,750.0,,flaska,fortified,port,"{A,L,N,W,Y}",3458,false,true,false,2011-11-01,false,false
 9914,Víking Lite,Vífilfell hf.,ísland,,,,4.4,,60LL,false,330.0,crown,flaska,beer,,{},293,false,false,false,2006-08-01,true,false
 993,DOM Bénédictine,Mekka Wines & Spirits hf,frakkland,,,,40.0,,,false,500.0,,flaska,strong,liqueur,{},4999,false,false,false,2000-01-01,true,false
