@@ -2010,7 +2010,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 672,Hennessy VSOP,Ölgerðin Egill Skallagríms ehf,frakkland,cognac,cognac,,40.0,,,false,700.0,,flaska,strong,brandy,{},11445,false,false,false,2007-03-01,true,false
 6747,Don Melchor Cabernet Sauvignon,Mekka Wines & Spirits hf,chile,valledecen,puente alto,2006,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",7999,false,false,false,2015-06-01,true,false
 6751,Alion,Ber ehf,spánn,castilla y,ribera del duero,2011,14.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",7757,false,false,false,2009-03-01,true,false
-6753,Vega Sicilia Valbuena,Ber ehf,spánn,castilla y,ribera del duero,1998,13.5,,,false,750.0,,flaska,red,,"{E,H,T,Æ}",15629,false,true,false,2008-11-01,false,false
+6753,Vega Sicilia Valbuena,Ber ehf,spánn,castilla y,ribera del duero,1998,14.0,,,false,750.0,,flaska,red,,"{E,H,T,Æ}",15629,false,true,false,2008-11-01,false,false
 6755,Vega Sicilia Unico,Ber ehf,spánn,,ribera del duero,1989,14.0,,01T,false,750.0,korkur,flaska,red,,{},30623,false,false,false,2009-02-10,true,false
 677,Remy Martin Fine Champagne VSOP,Haugen-Gruppen ehf.,frakkland,,,,40.0,,,false,700.0,,flaska,strong,brandy,{},9999,false,false,false,2000-01-01,true,false
 6802,Pasqua Nero d'Avola Shiraz Organic,Rolf Johansen & Co ehf,ítalía,sikiley,terre siciliane,2012,13.0,nero d'avola,01M,true,750.0,skrúftappi,flaska,red,,"{G,L,M,P,Y}",1980,false,false,false,2015-06-01,true,false
@@ -2051,7 +2051,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 7030,Gonzalez Byass Tio Pepe Fino,Bakkus ehf.,spánn,,jerez,,15.0,palomino,,false,375.0,korktappi,flaska,fortified,port,"{2,4,L,P,Y}",1798,false,false,false,2015-11-01,true,false
 7031,Trivento Tribu Chardonnay,Globus hf,argentína,mendoza,mendoza,2014,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,I,P,Y}",1599,false,false,false,2001-06-01,true,false
 7033,Trivento Reserve Cabernet Malbec,Globus hf,argentína,,mendoza,2013,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",1899,false,false,false,2001-06-01,true,false
-7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.0,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2014-10-01,true,false
+7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2014-10-01,true,false
 7036,Trivento Tribu Syrah,Globus hf,argentína,mendoza,mendoza,2012,13.5,syrah,01L,false,750.0,skrúftappi,flaska,red,,"{A,G,J,P,Y}",1699,false,false,false,2008-08-01,true,false
 7037,Trivento Tribu Viognier,Globus hf,argentína,mendoza,mendoza,2013,12.5,viognier,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,M,Y}",1699,false,false,false,2012-10-01,true,false
 7039,Willm Pinot Gris Reserve,Haugen-Gruppen ehf.,frakkland,alsace,alsace ac,2014,12.5,pinot gris,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,K,R,Y}",2699,false,false,false,2013-11-01,true,false
@@ -2265,7 +2265,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 9499,Flöskupoki 1 flösku gylltur,Pappír hf,,,,,0.0,,,false,0.0,,stykki,wrapper,,{},363,false,false,false,2004-12-02,true,false
 9506,Villa Lucia Pinot Grigio,Vífilfell hf.,ítalía,,venezie,2014,12.0,pinot grigio,02L,false,750.0,skrúftappi,flaska,white,,"{3,C,I,P,Y}",1599,false,false,false,2005-12-01,true,false
 9510,Poggio al Casone Chianti Superiore,Vífilfell hf.,ítalía,toskana,chianti,2011,12.5,sangiovese,01M,true,750.0,korkur,flaska,red,,"{E,F,L,P,Y}",1999,false,false,false,2006-02-01,true,false
-9525,Castillo Perelada 3 Fincas,Ber ehf,spánn,catalunya,emporda,2012,14.5,samsó,01T,false,750.0,korkur,flaska,red,,"{E,H,J,S,Æ}",2385,false,false,false,2015-02-01,true,false
+9525,Castillo Perelada 3 Fincas,Ber ehf,spánn,catalunya,emporda,2012,13.5,samsó,01T,false,750.0,korkur,flaska,red,,"{E,H,J,S,Æ}",2385,false,false,false,2015-02-01,true,false
 9559,Mouton Cadet,Bakkus ehf.,frakkland,bordeaux,bordeaux,2011,12.5,cabernet sauvignon,01M,false,375.0,korkur,flaska,red,,"{G,P,S,Y}",1197,false,false,false,2013-10-01,true,false
 9562,Lindemans Chardonnay,Ölgerðin Egill Skallagríms ehf,ástralía,enginn,south eastern australia,2015,12.0,chardonnay,02LM,false,3000.0,Vitop,box,white,,"{B,J,P,Y}",6695,false,false,false,2005-09-01,true,false
 9563,Lindemans Shiraz Cabernet,Ölgerðin Egill Skallagríms ehf,ástralía,enginn,south eastern australia,2015,12.5,shiraz,01MM,false,3000.0,Vitop,box,red,,"{3,D,J,P,Y}",6739,false,false,false,2005-07-01,true,false
