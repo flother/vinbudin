@@ -1017,6 +1017,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21550,Heitz Cellar Martha's Vineyard Cabernet Sauvignon,Ber ehf,bandaríkin,northcoast,napa valley,2005,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",18498,false,false,false,2015-08-01,true,false
 21552,Sumargull,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.0,,60LL,false,500.0,,dós,beer,,{},389,true,false,false,2016-05-01,true,false
 21553,Sólveig Hveitibjór nr. 25,Ölgerðin Egill Skallagríms ehf,ísland,,,,6.0,,62HV,false,330.0,crown,flaska,beer,,{},499,true,false,false,2016-05-01,true,false
+21555,Einstök Icelandic Arctic Berry Ale,Vífilfell hf.,ísland,,,,5.0,,62HV,false,330.0,,dós,beer,,{},304,true,false,false,2016-05-01,true,false
 21559,Chateau de Tracy Pouilly Fume,Vínekran Bourgogne ehf,frakkland,loire,pouilly-fumé,2013,13.0,sauvignon blanc,02M,false,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",3990,false,false,false,2015-10-01,true,false
 21564,Vedrenne Mirabelle,Vínekran Bourgogne ehf,frakkland,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,fruitbrandy,{},7712,false,false,false,2011-04-01,true,false
 21565,Vedrenne Poire William,Vínekran Bourgogne ehf,frakkland,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,fruitbrandy,{},8454,false,false,false,2011-04-01,true,false
@@ -1197,7 +1198,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 2205,Hardys Nottage Hill Chardonnay,Haugen-Gruppen ehf.,ástralía,,south eastern australia,2014,13.5,chardonnay,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,G,M,Y}",1999,false,false,false,2015-09-01,true,false
 22050,Les Dauphins Reserve rautt,Ölgerðin Egill Skallagríms ehf,frakkland,rhone,cotes-du-rhone,2013,13.0,grenache,01M,false,750.0,plasttappi,flaska,red,,"{G,J,M,P,Y}",1940,false,false,false,2016-03-01,true,false
 22054,Best of Belgium 6x33 cl í gjafaöskju,Haugen-Gruppen ehf.,belgía,,,,5.5,,,false,1980.0,crown,askja,beer,,{},2359,false,false,false,2015-05-01,true,true
-22055,Somersby Citrus,Ölgerðin Egill Skallagríms ehf,danmörk,,,,4.5,,,false,500.0,,dós,cidersoda,cider,{},399,false,false,false,2015-08-01,true,false
 22056,Kona Longboard,Vín Tríó ehf,bandaríkin,,,,4.6,,60LL,false,355.0,crown,flaska,beer,,{},428,false,false,false,2015-05-01,true,false
 22057,Charles Ellner Brut,Bakkus ehf.,frakkland,champagne,champagne,,12.0,,04,false,750.0,korkur,flaska,bubbly,,"{4,A,B,Y}",4297,false,false,false,2015-10-01,true,false
 22058,Dom Potier Demi Sec,Bakkus ehf.,spánn,,cava,,11.5,,04M,false,750.0,korkur,flaska,bubbly,,"{A,C,P,Y}",1498,false,false,false,2015-05-01,true,false
@@ -1218,6 +1218,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22073,Sarria Reserva,Ber ehf,spánn,navarra,navarra,2009,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",2365,false,false,false,2016-03-01,true,false
 22075,Sumargull,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.0,,60LL,false,330.0,crown,flaska,beer,,{},369,true,false,false,2016-05-01,true,false
 22077,To Öl Thirsty Frontier,Járn og gler hf,danmörk,,,,4.5,,61ÖL,false,330.0,crown,flaska,beer,,"{C,D,P}",599,false,false,false,2015-04-01,true,false
+22079,Víking Lite Lime,Vífilfell hf.,ísland,,,,4.4,,60LL,false,330.0,crown,flaska,beer,,{},299,true,false,false,2016-05-01,true,false
 22080,N'Ice Chouffe,Elgur ehf,belgía,,,,10.0,,61ÖL,false,330.0,crown,flaska,beer,,{},999,true,false,false,2015-11-01,true,false
 22081,Arrow Chardonnay,Haugen-Gruppen ehf.,bandaríkin,,kalifornía,,12.5,chardonnay,02M,false,2000.0,Vitop,box,white,,"{B,C,D,M,Y}",4199,false,false,false,2015-11-01,true,false
 22082,Arrow Ruby Cabernet,Haugen-Gruppen ehf.,bandaríkin,,kalifornía,,12.0,ruby cabernet,01LM,false,3000.0,Vitop,box,red,,"{3,J,L,Y}",5999,false,false,false,2015-11-01,true,false
