@@ -1092,7 +1092,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21838,Louis Latour Gevrey-Chambertin Les Cazetiers,Mekka Wines & Spirits hf,frakkland,bourgogne,gevrey-chambertin,2009,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{D,E,G,T,Y}",12159,false,false,false,2014-12-01,true,false
 21840,Louis Latour Chambolle-Musigny,Mekka Wines & Spirits hf,frakkland,bourgogne,chambolle-musigny,2012,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{2,D,G,T,Æ}",7999,false,false,false,2014-12-01,true,false
 21843,Latour Volnay en Chevret 1er Cru,Mekka Wines & Spirits hf,frakkland,bourgogne,volnay premier cru,2010,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{C,D,T,Æ}",7999,false,false,false,2014-12-01,true,false
-21844,Louis Latour Puligny-Montrachet Hameau de Blagny,Mekka Wines & Spirits hf,frakkland,bourgogne,puligny-montrachet,2006,13.5,chardonnay,02T,false,750.0,korkur,flaska,white,,"{B,C,D,G,Æ}",7323,false,false,false,2015-11-01,true,false
 21845,Louis Latour Vosne Romanee,Mekka Wines & Spirits hf,frakkland,bourgogne,vosne-romanée,2011,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{2,D,G,T,Æ}",7999,false,false,false,2014-12-01,true,false
 21846,Latour Nuits St Georges les Damodes 1er Cru,Mekka Wines & Spirits hf,frakkland,bourgogne,nuits-saint-georges premier cru,2008,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{D,G,L,T,Y}",10279,false,false,false,2014-12-01,true,false
 21847,Louis Latour Aloxe-Corton Les Chaillots,Mekka Wines & Spirits hf,frakkland,bourgogne,aloxe-corton ac,2011,13.5,pinot noir,01M,false,750.0,korkur,flaska,red,,"{D,I,L,T,Y}",6599,false,false,false,2014-12-01,true,false
@@ -1749,7 +1748,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 449,Mouton Cadet Rose,Bakkus ehf.,frakkland,bordeaux,bordeaux,2013,12.5,cabernet franc,03,false,750.0,skrúftappi,flaska,rose,,"{C,M,P,Y}",1999,false,false,false,2015-02-01,true,false
 451,Marques de Riscal Rosado,Bakkus ehf.,spánn,,rioja,,13.5,tempranillo,03,false,750.0,skrúftappi,flaska,rose,,"{D,G,P,Y}",1999,false,false,false,2014-10-01,true,false
 4519,Captain Morgan Spiced Gold,Karl K. Karlsson ehf.,,,,,35.0,,,false,1000.0,skrúftappi,flaska,strong,rum,{},7995,false,false,false,2004-03-01,true,false
-4524,Koskenkorva,Globus hf,finnland,,,,37.5,,,false,1000.0,skrúftappi,flaska,strong,vodka,{},7298,false,false,false,2006-01-01,true,false
+4524,Koskenkorva,Globus hf,finnland,,,,37.5,,,false,1000.0,,flaska,strong,vodka,{},7298,false,false,false,2006-01-01,true,false
 4532,Absolut,Globus hf,svíþjóð,,,,40.0,,,false,1000.0,skrúftappi,flaska,strong,vodka,{},7799,false,false,false,1999-11-01,true,false
 454,Mateus,Mekka Wines & Spirits hf,portúgal,,,,10.0,,03M,false,750.0,skrúftappi,flaska,rose,,"{3,I,M,P,Y}",1499,false,false,false,2000-01-01,true,false
 455,Mateus,Mekka Wines & Spirits hf,portúgal,,,,10.0,,03M,false,375.0,skrúftappi,flaska,rose,,"{A,D,I,P,Y}",779,false,false,false,2013-04-01,true,false
@@ -2017,7 +2016,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 7031,Trivento Tribu Chardonnay,Globus hf,argentína,mendoza,mendoza,2014,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,I,P,Y}",1599,false,false,false,2001-06-01,true,false
 7033,Trivento Reserve Cabernet Malbec,Globus hf,argentína,,mendoza,2013,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",1899,false,false,false,2001-06-01,true,false
 7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2014-10-01,true,false
-7036,Trivento Tribu Syrah,Globus hf,argentína,mendoza,mendoza,2012,13.5,syrah,01L,false,750.0,skrúftappi,flaska,red,,"{A,G,J,P,Y}",1699,false,false,false,2008-08-01,true,false
+7036,Trivento Tribu Syrah,Globus hf,argentína,mendoza,mendoza,2012,13.0,syrah,01L,false,750.0,skrúftappi,flaska,red,,"{A,G,J,P,Y}",1699,false,false,false,2008-08-01,true,false
 7037,Trivento Tribu Viognier,Globus hf,argentína,mendoza,mendoza,2013,12.5,viognier,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,M,Y}",1699,false,false,false,2012-10-01,true,false
 7039,Willm Pinot Gris Reserve,Haugen-Gruppen ehf.,frakkland,alsace,alsace ac,2014,12.5,pinot gris,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,K,R,Y}",2699,false,false,false,2013-11-01,true,false
 7040,Willm Riesling Reserve,Haugen-Gruppen ehf.,frakkland,alsace,alsace ac,2013,12.0,riesling,02L,false,750.0,skrúftappi,flaska,white,,"{4,B,C,Æ}",2699,false,false,false,2013-01-01,true,false
@@ -2150,7 +2149,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 867,Tinda vodka,Ölgerðin Egill Skallagríms ehf,ísland,,,,37.5,,,false,1000.0,skrúftappi,flaska,strong,vodka,{},7249,false,false,false,1996-12-30,true,false
 8678,Freixenet Cordon Negro Brut,Vín Tríó ehf,spánn,,cava,,11.5,,04,false,750.0,korkur,flaska,bubbly,,"{A,B,C,Y}",1990,false,false,false,2007-03-01,true,false
 8712,Absolut Mandarin,Globus hf,svíþjóð,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5599,false,false,false,2011-07-01,true,false
-874,Koskenkorva,Globus hf,finnland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5199,false,false,false,2000-01-01,true,false
+874,Koskenkorva,Globus hf,finnland,,,,37.5,,,false,700.0,,flaska,strong,vodka,{},5199,false,false,false,2000-01-01,true,false
 8754,Antinori Badia a Passignano Riserva,Globus hf,ítalía,toskana,chianti classico,2008,14.0,sangiovese,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",5599,false,false,false,2008-12-15,true,false
 876,Koskenkorva,Globus hf,finnland,,,,37.5,,,false,350.0,skrúftappi,peli,strong,vodka,{},2798,false,false,false,2000-01-01,true,false
 8762,Trimbach Gewurztraminer Reserve,Globus hf,frakkland,alsace,alsace ac,2011,14.5,gewurztraminer,02TM,false,750.0,korkur,flaska,white,,"{C,D,K,L,Y}",3599,false,false,false,2015-12-01,true,false
