@@ -738,7 +738,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 20318,Brew Dog Punk IPA,Járn og gler hf,stórabretland,,,,5.6,,61ÖL,false,330.0,crown,flaska,beer,,"{D,F,G,K}",525,false,false,false,2013-06-01,true,false
 20319,Brew Dog Hardcore IPA,Járn og gler hf,stórabretland,,,,9.2,,61ÖL,false,330.0,crown,flaska,beer,,{},864,false,false,false,2013-06-01,true,false
 20321,Pimm's,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,25.0,,,false,1000.0,skrúftappi,flaska,strong,shots,{},4665,false,false,false,2013-05-01,true,false
-20345,Gerard Bertrand Cabernet Sauvignon Reserve Special,Globus hf,frakkland,languedoc-,pays d'oc,2014,13.0,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,P,Y}",2299,false,false,false,2012-11-01,true,false
+20345,Gerard Bertrand Cabernet Sauvignon Reserve Special,Globus hf,frakkland,languedoc-,pays d'oc,2014,13.5,cabernet sauvignon,01M,true,750.0,skrúftappi,flaska,red,,"{F,G,J,P,Y}",2299,false,false,false,2012-11-01,true,false
 20346,Gerard Bertrand Syrah Reserve Speciale,Globus hf,frakkland,languedoc-,pays d'oc,2012,13.5,syrah,01M,false,750.0,plasttappi,flaska,red,,"{E,F,J,L,Y}",2299,false,false,false,2016-02-01,true,false
 20347,Gerard Bertrand Pic Saint Loup Grand Terroir,Globus hf,frakkland,languedoc-,coteaux du languedoc pic saint loup,2013,14.0,grenache,01M,false,750.0,korkur,flaska,red,,"{E,F,J,L,Æ}",2699,false,false,false,2012-11-01,true,false
 20349,Gerard Bertrand Chardonnay Reserve Speciale,Globus hf,frakkland,languedoc-,pays d'oc,2014,13.0,chardonnay,02M,true,750.0,skrúftappi,flaska,white,,"{B,C,D,P,Y}",2299,false,false,false,2012-12-01,true,false
@@ -814,7 +814,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 20889,Bríó,Ölgerðin Egill Skallagríms ehf,ísland,,,,4.8,,60LL,false,330.0,crown,flaska,beer,,{},329,false,false,false,2013-03-01,true,false
 2089,Talisker 10 ára,Ölgerðin Egill Skallagríms ehf,stórabretland,skotland,highland,,45.8,,,false,700.0,korktappi,flaska,strong,whisky,{},10530,false,false,false,2009-10-01,true,false
 20895,D+D,Globus hf,portúgal,,douro,2007,13.5,touriga nacional,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",2999,false,false,false,2014-01-01,true,false
-20896,Emilio Moro,Globus hf,spánn,castilla y,ribera del duero,2010,14.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,J,Æ}",3399,false,false,false,2014-10-01,true,false
+20896,Emilio Moro,Globus hf,spánn,castilla y,ribera del duero,2010,14.0,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,J,Æ}",3399,false,false,false,2014-10-01,true,false
 20897,Emilio Moro Finca Resalso,Globus hf,spánn,castilla y,ribera del duero,2013,13.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",2499,false,false,false,2013-11-01,true,false
 20899,Chateau l'Hospitalet,Globus hf,frakkland,languedoc-,coteaux du languedoc la clape,2012,14.0,grenache,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",4998,false,false,false,2015-02-01,true,false
 20919,Chateau La Sauvageonne Cuvee Pica Broca - Terrasse,Globus hf,frakkland,languedoc-,coteaux du languedoc,2013,13.5,grenache,01M,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",2899,false,false,false,2013-06-01,true,false
@@ -992,7 +992,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21496,Appassimento Originale,Bakkus ehf.,ítalía,puglia,puglia,,14.5,,01T,false,3000.0,Vitop,box,red,,"{E,F,J,S,Y}",6698,false,false,false,2014-07-01,true,false
 21499,Casa Vinironia Appassimento Edizione Oro,Bakkus ehf.,ítalía,,,2013,14.5,,01TM,false,750.0,korkur,flaska,red,,"{J,K,R,S,Y}",2198,false,false,false,2014-11-01,true,false
 21505,Hot n'Sweet Cactus,Mekka Wines & Spirits hf,danmörk,,,,16.0,,,false,700.0,skrúftappi,flaska,strong,shots,{},3499,false,false,false,2015-02-01,true,false
-21507,Somersby Blackberry,Ölgerðin Egill Skallagríms ehf,danmörk,,,,4.5,,,false,330.0,crown,flaska,cidersoda,cider,{},349,false,false,false,2014-08-01,true,false
 21511,Monte Velho rautt,Árgali ehf.,portúgal,,alentejo,2013,13.5,aragones,01M,false,750.0,korkur,flaska,red,,"{D,G,J,P,Y}",2369,false,false,false,2015-08-01,true,false
 21512,Gustave Lorentz Evidence Pinot Gris,Eðaldrykkir ehf.,frakkland,alsace,alsace ac,2013,13.5,pinot gris,02M,true,750.0,korkur,flaska,white,,"{B,C,I,P,Y}",2982,false,false,false,2015-05-01,true,false
 21513,Gustave Lorentz Evidence Riesling,Eðaldrykkir ehf.,frakkland,alsace,alsace ac,2012,12.5,riesling,02T,true,750.0,korkur,flaska,white,,"{A,B,C,I,Y}",2827,false,false,false,2015-05-01,true,false
@@ -1450,7 +1449,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22422,Anderra Cabernet Sauvignon,Bakkus ehf.,chile,valledecen,valle central,2013,13.0,cabernet sauvignon,01M,false,750.0,plasttappi,flaska,red,,"{E,F,L,S,Æ}",2210,false,false,false,2016-02-01,true,false
 22423,Anderra Sauvignon Blanc,Bakkus ehf.,chile,valledecen,valle central,2014,12.5,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{1,C,I,L,Y}",2210,false,false,false,2016-02-01,true,false
 22424,La Miranda Secastilla Garnacha,Bakkus ehf.,spánn,aragon,somontano,2013,14.0,garnacha,01M,false,750.0,korkur,flaska,red,,"{D,G,J,L,M,Y}",1999,false,false,false,2016-04-01,true,false
-22425,La Miranda Secastilla Garnacha Blanca,Bakkus ehf.,spánn,aragon,somontano,2013,13.5,grenache blanc,02M,false,750.0,korkur,flaska,white,,"{4,B,C,D,Y}",1999,false,false,false,2016-02-01,true,false
+22425,La Miranda Secastilla Garnacha Blanca,Bakkus ehf.,spánn,aragon,somontano,2013,13.0,grenache blanc,02M,false,750.0,korkur,flaska,white,,"{4,B,C,D,Y}",1999,false,false,false,2016-02-01,true,false
 22426,Gassier Coteaux d'Aix-en-Provence rósavín,Bakkus ehf.,frakkland,provence,coteaux d'aix-en-provence,2015,13.0,cinsault,03,true,3000.0,,box,rose,,"{B,C,D,P,Y}",6498,false,false,false,2016-04-01,true,false
 22428,Gerard Bertrand Gris Blanc,Globus hf,frakkland,languedoc-,pays d'oc,2014,12.5,grenache,03,false,750.0,skrúftappi,flaska,rose,,"{C,I,M,P,Y}",1999,false,false,false,2016-03-01,true,false
 22429,Gran Lomo Malbec,Globus hf,argentína,,,2015,12.5,malbec,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,J,P,Y}",1599,false,false,false,2016-03-01,true,false
@@ -2014,7 +2013,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 7009,Joseph Cartron Creme de Peche de Vigne,Mekka Wines & Spirits hf,frakkland,,,,18.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},3499,false,false,false,2011-01-01,true,false
 7030,Gonzalez Byass Tio Pepe Fino,Bakkus ehf.,spánn,,jerez,,15.0,palomino,,false,375.0,korktappi,flaska,fortified,port,"{2,4,L,P,Y}",1798,false,false,false,2015-11-01,true,false
 7031,Trivento Tribu Chardonnay,Globus hf,argentína,mendoza,mendoza,2014,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,I,P,Y}",1599,false,false,false,2001-06-01,true,false
-7033,Trivento Reserve Cabernet Malbec,Globus hf,argentína,,mendoza,2013,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",1899,false,false,false,2001-06-01,true,false
+7033,Trivento Reserve Cabernet Malbec,Globus hf,argentína,,mendoza,2013,13.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",1899,false,false,false,2001-06-01,true,false
 7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2014-10-01,true,false
 7036,Trivento Tribu Syrah,Globus hf,argentína,mendoza,mendoza,2012,13.0,syrah,01L,false,750.0,skrúftappi,flaska,red,,"{A,G,J,P,Y}",1699,false,false,false,2008-08-01,true,false
 7037,Trivento Tribu Viognier,Globus hf,argentína,mendoza,mendoza,2013,12.5,viognier,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,M,Y}",1699,false,false,false,2012-10-01,true,false
