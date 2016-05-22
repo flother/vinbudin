@@ -1054,7 +1054,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21739,Passoa,Haugen-Gruppen ehf.,frakkland,,,,17.0,,,false,350.0,skrúftappi,flaska,strong,liqueur,{},2399,false,false,false,2015-05-01,true,false
 21741,Heitz Cellar Cabernet Sauvignon,Ber ehf,bandaríkin,northcoast,napa valley,2008,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",7123,false,false,false,2015-11-01,true,false
 21743,Vina Albali Gran Seleccion Tempranillo,Rolf Johansen & Co ehf,spánn,castilla l,valdepenas,2011,13.0,tempranillo,01M,false,3000.0,Vitop,box,red,,"{F,G,J,Y}",6350,false,false,false,2015-06-01,true,false
-21746,Svyturys Ekstra,JK Holding premium ehf.,litháen,,,,5.2,,60LL,false,500.0,,dós,beer,,{},350,false,false,false,2015-02-01,true,false
 21748,Volcanic Askja Apple Schnapps,Eldfjallabrugg ehf,ísland,,,,18.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},3390,false,false,false,2015-12-01,true,false
 21756,Chapoutier Duo,Vínekran Bourgogne ehf,frakkland,,,,13.0,,,false,1500.0,,askja,red,,{},6799,false,false,false,2014-12-01,true,true
 21760,Momo Verdejo Viura,Trölladyngja sf,spánn,castilla y,rueda,2013,12.5,verdejo,02L,false,750.0,korkur,flaska,white,,"{A,M,Y}",1703,false,false,false,2015-12-01,true,false
