@@ -572,6 +572,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 18147,Saku Kuld,Bakkus ehf.,eistland,,,,5.2,,60LL,false,500.0,,dós,beer,,{},314,false,false,false,2015-10-01,true,false
 18198,Liefmans ávaxtabjór,Elgur ehf,belgía,,,,3.8,,62ÁK,false,250.0,crown,flaska,beer,,"{A,O,W}",528,false,false,false,2013-08-09,true,false
 18200,Liefmans Goudenband,Elgur ehf,belgía,,,,8.0,,61ÖL,false,375.0,korkur,flaska,beer,,"{D,L,P,T}",1090,false,false,false,2013-08-09,true,false
+18201,Liefmans Goudenband,Elgur ehf,belgía,,,,8.0,,61ÖL,false,330.0,crown,flaska,beer,,{},799,false,false,false,2013-08-09,true,false
 18203,Scarecrow Organic Pale Ale,Elgur ehf,stórabretland,,,,4.7,,61ÖL,true,500.0,crown,flaska,beer,,"{C,D,M,P}",639,false,false,false,2010-11-01,true,false
 18206,Famiglia Terraccia Chianti Riserva,Era Trading ehf.,ítalía,toskana,chianti,2012,13.0,sangiovese,01L,false,750.0,korkur,flaska,red,,"{M,S,Y}",1999,false,false,false,2015-04-01,true,false
 18209,Vecchia Cantina Vino Nobile di Montepulciano,Era Trading ehf.,ítalía,toskana,vino nobile de montepulciano,2011,13.5,canaiolo,01M,false,750.0,korkur,flaska,red,,"{F,G,L,T,Y}",2499,false,false,false,2015-12-01,true,false
