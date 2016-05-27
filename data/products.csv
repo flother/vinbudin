@@ -102,8 +102,8 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 10865,Villa Puccini Chianti Superiore,AMKA Ísland ehf.,ítalía,toskana,chianti,2012,12.5,sangiovese,01M,false,750.0,korkur,flaska,red,,"{D,G,L,P,Y}",1898,false,false,false,2007-08-01,true,false
 10866,Saku Rock,Bakkus ehf.,eistland,,,,5.3,,60LL,false,500.0,,dós,beer,,{},327,false,false,false,2013-12-01,true,false
 10873,Kanonkop Cabernet Sauvignon,Haugen-Gruppen ehf.,suðurafríka,,simonsberg stellenbosch,2002,14.0,cabernet sauvignon,,false,750.0,,flaska,red,,"{E,L,S,Y}",5039,false,true,false,2008-08-01,false,false
-10878,Vina Maipo Vitral Reserva Cabernet Sauvignon,Globus hf,chile,valledecen,valle del maipo,2012,13.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,Y}",1899,false,false,false,2015-03-01,true,false
-10882,Vina Maipo Vitral Reserva Chardonnay,Globus hf,chile,aconcagua,valle de casablanca,2013,13.5,chardonnay,02L,false,750.0,korkur,flaska,white,,"{A,B,C,Y}",1899,false,false,false,2015-03-01,true,false
+10878,Vina Maipo Vitral Reserva Cabernet Sauvignon,Globus hf,chile,valledecen,valle del maipo,2012,13.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,Y}",1899,false,false,false,2016-05-24,true,false
+10882,Vina Maipo Vitral Reserva Chardonnay,Globus hf,chile,aconcagua,valle de casablanca,2013,13.5,chardonnay,02L,false,750.0,korkur,flaska,white,,"{A,B,C,Y}",1899,false,false,false,2016-05-24,true,false
 10885,Alamos Merlot,Bakkus ehf.,argentína,mendoza,mendoza,2013,13.0,merlot,01M,false,750.0,skrúftappi,flaska,red,,"{2,E,F,J,Y}",1999,false,false,false,2015-07-01,true,false
 10887,Altano Duoro rautt,Bakkus ehf.,portúgal,,douro,2012,13.5,tinta barroca,01M,false,750.0,korkur,flaska,red,,"{1,G,J,P,Y}",1898,false,false,false,2014-09-01,true,false
 109,Georges Duboeuf Beaujolais,Bakkus ehf.,frakkland,bourgogne,beaujolais,2013,12.0,gamay,01L,false,750.0,korkur,flaska,red,,"{2,C,D,J,Y}",1999,false,false,false,2009-06-01,true,false
@@ -475,7 +475,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 1722,Bulleit Bourbon Frontier Whiskey,Ölgerðin Egill Skallagríms ehf,bandaríkin,,kentucky,,45.0,,,false,700.0,korktappi,flaska,strong,whisky,{},9199,false,false,false,2015-06-01,true,false
 1723,Bulleit Rye Frontier Whiskey,Ölgerðin Egill Skallagríms ehf,bandaríkin,,,,45.0,,,false,700.0,korktappi,flaska,strong,whisky,{},9310,false,false,false,2015-09-01,true,false
 17269,Graham's Fine Tawny,Globus hf,portúgal,,,,19.0,,,false,750.0,korkur,flaska,fortified,port,"{A,L,N}",3699,false,false,false,2010-04-01,true,false
-17270,Jacqueline Brut Blanc de Blancs,Globus hf,frakkland,,,,11.5,,04,false,750.0,korkur,flaska,bubbly,,"{C,I,P,Y}",1498,false,false,false,2015-02-01,true,false
+17270,Jacqueline Brut Blanc de Blancs,Globus hf,frakkland,,,,11.5,,04,false,750.0,korkur,flaska,bubbly,,"{C,I,P,Y}",1498,false,false,false,2016-05-24,true,false
 17273,Fjallagrasa Islandica Schnapps,Íslensk fjallagrös hf.,ísland,,,,38.0,,,false,700.0,skrúftappi,flaska,strong,snaps,{},6301,false,false,false,2012-02-01,true,false
 17277,Hine Cigar Reserve,Alvin Nordic Associates ehf,frakkland,cognac,cognac,,40.0,,,false,700.0,,flaska,strong,brandy,{},18650,false,true,false,2009-12-01,false,false
 17285,Lamadoro Primitivo Negroamaro,Vínfélagið ehf,ítalía,puglia,puglia,2013,12.0,negroamaro,01M,false,750.0,skrúftappi,flaska,red,,"{F,G,J,P,Y}",1750,false,false,false,2010-05-01,true,false
@@ -527,7 +527,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 17719,Torres Altos Ibericos Crianza,Karl K. Karlsson ehf.,spánn,,rioja,2013,13.5,tempranillo,01M,false,750.0,korkur,flaska,red,,"{1,2,F,L,Æ}",2345,false,false,false,2011-01-01,true,false
 1772,Seizoen Bretta,Járn og gler hf,bandaríkin,,,,8.0,,61ÖL,true,750.0,crown,flaska,beer,,{},2476,false,false,false,2015-10-01,true,false
 17721,"Torres Natureo 0,5%",Karl K. Karlsson ehf.,spánn,,,2011,0.5,muscat,,false,750.0,korkur,flaska,other,,"{A,B,C,Y}",1057,false,false,false,2010-07-01,true,false
-17727,Two Oceans Fresh & Fruity White,Globus hf,suðurafríka,,western cape,2015,13.0,,02M,false,750.0,skrúftappi,flaska,white,,"{C,L,M,P,Y}",1498,false,false,false,2013-10-01,true,false
+17727,Two Oceans Fresh & Fruity White,Globus hf,suðurafríka,,western cape,2015,13.0,,02M,false,750.0,skrúftappi,flaska,white,,"{C,L,M,P,Y}",1498,false,false,false,2016-05-24,true,false
 17742,Don Opas Valdepenas rautt,HOB-vín ehf,spánn,castilla l,valdepenas,2012,12.0,tempranillo,01L,false,750.0,skrúftappi,flaska,red,,"{D,G,M,Y}",1319,false,false,false,2010-08-01,true,false
 17748,Fischer Classic Gruner Veltliner,Haugen-Gruppen ehf.,austurríki,,thermenregion,2014,10.5,gruner veltliner,02L,true,750.0,skrúftappi,flaska,white,,"{B,C,I,Y}",1999,false,false,false,2013-02-01,true,false
 17751,Joseph Mellot Pouilly Fume le Chant des Vignes,Rolf Johansen & Co ehf,frakkland,loire,pouilly-fumé,2014,12.5,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{4,B,C,M,Y}",3350,false,false,false,2015-10-01,true,false
@@ -614,7 +614,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 18584,Patron XO Coffee Liqueur,Karl K. Karlsson ehf.,mexíkó,,,,35.0,,,false,375.0,korkur,flaska,strong,liqueur,{},4390,false,false,false,2012-03-01,true,false
 18622,Jacob's Creek í gjafaöskju,Mekka Wines & Spirits hf,ástralía,,south eastern australia,,13.2,,,false,1500.0,skrúftappi,askja,red,,{},4899,false,false,false,2013-12-01,true,true
 18626,Úlfur India Pale Ale nr. 3,Ölgerðin Egill Skallagríms ehf,ísland,,,,5.9,,61ÖL,false,330.0,crown,flaska,beer,,"{D,G,J,L}",444,false,false,false,2011-06-01,true,false
-18644,Tukulu Fairtrade Cabernet Sauvignon,Elgur ehf,suðurafríka,coastalreg,groenekloof,2011,13.5,cabernet sauvignon,01M,false,750.0,skrúftappi,flaska,red,,"{E,F,J,L,Y}",2590,false,false,false,2011-06-01,true,false
 18689,Mamma Piccini Bianco di Toscana,Ölgerðin Egill Skallagríms ehf,ítalía,toskana,toscana,,12.5,malvasia,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,P,Y}",1549,false,false,false,2011-08-01,true,false
 18699,Föroya Pilsnar,Föroya Bjór ehf,færeyjar,,,,4.6,,60LL,false,330.0,,dós,beer,,{},265,false,false,false,2015-06-01,true,false
 18727,Zinfandelic Zinfandel,Ber ehf,bandaríkin,sierrafoot,sierra foothills,2011,14.5,zinfandel,01M,false,750.0,korkur,flaska,red,,"{E,F,G,J,Y}",3565,false,false,false,2012-04-01,true,false
@@ -731,7 +730,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 20301,Carlo Rossi Sweet Red,Globus hf,bandaríkin,,,,9.0,,01LS,false,1500.0,skrúftappi,flaska,red,,"{K,O,R,V,Y}",2398,false,false,false,2015-04-01,true,false
 20309,Tommasi Poggio al Tufo Rompicollo Maremma Toscana,Mekka Wines & Spirits hf,ítalía,toskana,toscana,,13.0,sangiovese,01M,false,3000.0,Vitop,box,red,,"{2,3,J,M,Y}",6399,false,false,false,2016-01-01,true,false
 20316,Sobieski Vodka,Karl K. Karlsson ehf.,pólland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5499,false,false,false,2013-05-01,true,false
-20317,Brew Dog 5 A.M Saint,Járn og gler hf,stórabretland,,,,5.0,,,false,330.0,crown,flaska,beer,,"{E,F,J,L}",437,false,true,false,2012-05-01,false,false
 20318,Brew Dog Punk IPA,Járn og gler hf,stórabretland,,,,5.6,,61ÖL,false,330.0,crown,flaska,beer,,"{D,F,G,K}",525,false,false,false,2013-06-01,true,false
 20319,Brew Dog Hardcore IPA,Járn og gler hf,stórabretland,,,,9.2,,61ÖL,false,330.0,crown,flaska,beer,,{},864,false,false,false,2013-06-01,true,false
 20321,Pimm's,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,25.0,,,false,1000.0,skrúftappi,flaska,strong,shots,{},4665,false,false,false,2013-05-01,true,false
@@ -1146,7 +1144,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21983,Kinross Gin Premium Berry,Eyjavík ehf,spánn,,,,40.0,,,false,700.0,skrúftappi,flaska,strong,gin,{},7849,false,false,false,2015-07-01,true,false
 21986,Tempelier 2x33 cl fl m/glasi,Elgur ehf,belgía,,,,6.0,,61ÖL,false,660.0,crown,gjafaaskja,beer,,{},2299,false,false,false,2015-11-01,true,false
 21987,Corsendonk 2x33 cl fl m/glasi,Elgur ehf,belgía,,,,7.5,,,false,660.0,crown,gjafaaskja,beer,,{},2199,false,false,false,2015-11-01,true,true
-21990,Heritages Lirac,Bakkus ehf.,frakkland,,,2013,15.0,cinsault,01M,false,750.0,korkur,flaska,red,,"{F,G,J,Æ}",2599,false,false,false,2016-05-01,true,false
+21990,Heritages Lirac,Bakkus ehf.,frakkland,,,2013,13.5,cinsault,01M,false,750.0,korkur,flaska,red,,"{F,G,J,Æ}",2599,false,false,false,2016-05-01,true,false
 21992,Tiki Estate Pinot Gris,Bakkus ehf.,nýjasjáland,,marlborough,2014,13.5,pinot gris,02M,false,750.0,skrúftappi,flaska,white,,"{4,B,C,D,Y}",2398,false,false,false,2016-04-01,true,false
 21995,Cocoon Zinfandel Grand Reserve,Bakkus ehf.,bandaríkin,,kalifornía,2013,13.5,zinfandel,01M,false,3000.0,,box,red,,"{3,D,J,M,Y}",6997,false,false,false,2016-02-01,true,false
 21997,Laroche Chardonnay,Bakkus ehf.,frakkland,languedoc-,pays d'oc,2014,12.5,chardonnay,02M,false,3000.0,Vitop,box,white,,"{C,D,M,P,Y}",6498,false,false,false,2016-02-01,true,false
@@ -1182,7 +1180,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22061,Yellow Tail Jammy Red Roo,Bakkus ehf.,ástralía,,south eastern australia,,12.0,,01LM,false,750.0,skrúftappi,flaska,red,,"{3,J,P,R,Y}",1898,false,false,false,2015-06-01,true,false
 22063,Hugel Riesling,Bakkus ehf.,frakkland,alsace,alsace ac,2013,12.5,riesling,02L,false,375.0,korkur,flaska,white,,"{B,C,P,Y}",1498,false,false,false,2015-06-01,true,false
 22064,Flóki Icelandic Young Malt,Eimverk ehf.,ísland,,,,47.0,,,false,500.0,korktappi,flaska,strong,whisky,{},9690,false,false,false,2015-09-01,true,false
-22068,Schmitt Söhne Riesling,Elgur ehf,þýskaland,rheinhesse,rheinhessen,2013,9.0,riesling,02LM,false,187.0,skrúftappi,peli,white,,"{A,K,V,Y}",428,false,false,false,2016-04-01,true,false
+22068,Schmitt Söhne Riesling,Elgur ehf,þýskaland,rheinhesse,rheinhessen,2013,10.0,riesling,02LM,false,187.0,skrúftappi,peli,white,,"{A,K,V,Y}",428,false,false,false,2016-04-01,true,false
 2207,Bolla Pinot Grigio,Karl K. Karlsson ehf.,ítalía,,venezie,2013,12.0,pinot grigio,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,I,Y}",1950,false,false,false,2004-07-01,true,false
 22070,Cocchi Americano Aperitivo,Karl K. Karlsson ehf.,ítalía,,,,16.5,,,false,750.0,plasttappi,flaska,strong,bitterspice,{},5799,false,false,false,2015-06-01,true,false
 22073,Sarria Reserva,Ber ehf,spánn,navarra,navarra,2009,14.0,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",2365,false,false,false,2016-03-01,true,false
@@ -1836,7 +1834,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 5217,Frontera Chardonnay,Mekka Wines & Spirits hf,chile,valledecen,valle central,2015,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{B,C,D,P,Y}",1499,false,false,false,2009-07-01,true,false
 5236,Two Oceans Sauvignon Blanc,Globus hf,suðurafríka,,western cape,2015,13.0,sauvignon blanc,02M,false,3000.0,bibtwist,box,white,,"{4,B,C,P,Y}",5499,false,false,false,2004-06-01,true,false
 5237,Two Oceans Shiraz,Globus hf,suðurafríka,,western cape,2014,14.0,syrah,01M,false,3000.0,bibtwist,box,red,,"{3,D,G,J,P,Y}",5999,false,false,false,2009-05-01,true,false
-5238,Gallo Family Vineyards Cabernet Sauvignon,Globus hf,bandaríkin,kalifornía,kalifornía,2014,13.0,cabernet sauvignon,01MM,false,3000.0,vinitap,box,red,,"{3,D,G,J,Y}",5599,false,false,false,2007-12-01,true,false
+5238,Gallo Family Vineyards Cabernet Sauvignon,Globus hf,bandaríkin,kalifornía,kalifornía,2014,13.0,cabernet sauvignon,01MM,false,3000.0,vinitap,box,red,,"{3,D,G,J,Y}",5599,false,false,false,2016-05-24,true,false
 5239,Gallo Family Chardonnay,Globus hf,bandaríkin,kalifornía,kalifornía,2014,12.5,chardonnay,02M,false,3000.0,vinitap,box,white,,"{D,J,K,Y}",5599,false,false,false,2016-02-01,true,false
 5245,Peter Lehmann Wildcard Chardonnay,Globus hf,ástralía,s-australi,south australia,2012,12.5,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,M,P,Y}",1699,false,false,false,2004-12-01,true,false
 5248,Peter Lehmann Futures Shiraz,Globus hf,ástralía,barossa,barossa valley,2012,14.5,shiraz,01T,false,750.0,skrúftappi,flaska,red,,"{E,H,J,T,Æ}",3199,false,false,false,2012-02-01,true,false
@@ -2012,7 +2010,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 7030,Gonzalez Byass Tio Pepe Fino,Bakkus ehf.,spánn,,jerez,,15.0,palomino,,false,375.0,korktappi,flaska,fortified,port,"{2,4,L,P,Y}",1798,false,false,false,2015-11-01,true,false
 7031,Trivento Tribu Chardonnay,Globus hf,argentína,mendoza,mendoza,2014,13.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{C,I,P,Y}",1599,false,false,false,2001-06-01,true,false
 7033,Trivento Reserve Cabernet Malbec,Globus hf,argentína,,mendoza,2013,13.5,cabernet sauvignon,01M,false,750.0,korkur,flaska,red,,"{E,F,H,T,Y}",1899,false,false,false,2001-06-01,true,false
-7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2014-10-01,true,false
+7034,Trivento Chardonnay Reserve,Globus hf,argentína,mendoza,mendoza,2014,13.5,chardonnay,02M,false,750.0,korkur,flaska,white,,"{C,D,Y}",1798,false,false,false,2016-05-24,true,false
 7036,Trivento Tribu Syrah,Globus hf,argentína,mendoza,mendoza,2012,13.0,syrah,01L,false,750.0,skrúftappi,flaska,red,,"{A,G,J,P,Y}",1699,false,false,false,2008-08-01,true,false
 7037,Trivento Tribu Viognier,Globus hf,argentína,mendoza,mendoza,2013,12.5,viognier,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,M,Y}",1699,false,false,false,2012-10-01,true,false
 7039,Willm Pinot Gris Reserve,Haugen-Gruppen ehf.,frakkland,alsace,alsace ac,2014,12.5,pinot gris,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,K,R,Y}",2699,false,false,false,2013-11-01,true,false
