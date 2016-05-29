@@ -15,7 +15,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 10126,Underberg 12x20 ml í álboxi,Elgur ehf,þýskaland,,,,44.0,,,false,240.0,skrúftappi,álbox,strong,bitterspice,{},3989,false,false,false,2013-07-01,true,true
 1015,Malibu,Mekka Wines & Spirits hf,stórabretland,,,,21.0,,,false,500.0,skrúftappi,flaska,strong,liqueur,{},2999,false,false,false,1998-03-02,true,false
 1016,Malibu,Mekka Wines & Spirits hf,stórabretland,,,,21.0,,,false,1000.0,skrúftappi,flaska,strong,liqueur,{},5999,false,false,false,1999-05-01,true,false
-10161,Samuel Adams Winter Lager,Mekka Wines & Spirits hf,bandaríkin,,,,5.5,,60DL,false,355.0,crown,flaska,beer,,{},539,true,false,false,2015-11-01,true,false
 10163,Fortius Tempranillo,Haugen-Gruppen ehf.,spánn,navarra,navarra,2011,13.5,tempranillo,01M,false,750.0,korkur,flaska,red,,"{F,G,I,J,Y}",1899,false,false,false,2007-05-01,true,false
 10196,Prunotto Barbaresco,Globus hf,ítalía,piemonte,barbaresco,2011,13.5,nebbiolo,01M,false,750.0,korkur,flaska,red,,"{E,F,L,T,Æ}",4698,false,false,false,2008-11-01,true,false
 10203,Passoa,Haugen-Gruppen ehf.,frakkland,,,,17.0,,,false,1000.0,skrúftappi,flaska,strong,liqueur,{},5399,false,false,false,1999-10-01,true,false
@@ -996,7 +995,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 21535,Barefoot White Zinfandel,Globus hf,bandaríkin,,kalifornía,,8.5,zinfandel,03M,false,750.0,skrúftappi,flaska,rose,,"{D,J,P,Y}",1299,false,false,false,2015-03-01,true,false
 21544,Villa Wolf Pinot Gris,Vínfélagið ehf,þýskaland,pfalz,pfalz,2014,12.5,pinot gris,02L,false,750.0,skrúftappi,flaska,white,,"{A,B,C,P,Y}",1999,false,false,false,2016-06-01,true,false
 21545,Matsu El Picaro,Vín Tríó ehf,spánn,castilla y,toro,2013,14.5,tinta de toro,01T,false,750.0,korkur,flaska,red,,"{2,E,J,S,Æ}",1990,false,false,false,2015-02-01,true,false
-21546,Truchard Roussanne,Ber ehf,bandaríkin,northcoast,carneros,2012,14.1,roussanne,02M,false,750.0,korkur,flaska,white,,"{B,C,D,J,Y}",3883,false,false,false,2014-07-01,true,false
 21548,Cims de Porrera Solanes,Ber ehf,spánn,catalunya,priorat,2007,14.5,,01T,false,750.0,korkur,flaska,red,,"{E,F,H,S,Y}",3965,false,false,false,2015-08-01,true,false
 21549,Pesquera Reserva Especial,Ber ehf,spánn,castilla y,ribera del duero,2003,14.0,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,H,L,Y}",6617,false,false,false,2015-08-01,true,false
 21550,Heitz Cellar Martha's Vineyard Cabernet Sauvignon,Ber ehf,bandaríkin,northcoast,napa valley,2005,14.5,cabernet sauvignon,01T,false,750.0,korkur,flaska,red,,"{E,F,H,T,Æ}",18498,false,false,false,2015-08-01,true,false
