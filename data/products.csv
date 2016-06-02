@@ -1481,6 +1481,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22470,Tuborg Classic,Ölgerðin Egill Skallagríms ehf,ísland,,,,4.6,,60DL,false,330.0,crown,flaska,beer,,{},319,false,false,false,2016-04-01,true,false
 22473,Farina Appassilento Bianco,Era Trading ehf.,ítalía,veneto,veneto,2014,13.0,garganega,02M,false,750.0,plasttappi,flaska,white,,"{1,C,M,P,Y}",2098,false,false,false,2016-03-01,true,false
 22474,Farina Appassilento Rosso,Era Trading ehf.,ítalía,veneto,veneto,2013,13.0,,01MM,false,750.0,korkur,flaska,red,,"{D,J,M,P,Y}",2098,false,false,false,2016-03-01,true,false
+22476,Steðji Búkolla sms,Brugghús Steðja ehf.,ísland,,,,4.6,,61SP,false,330.0,crown,flaska,beer,,{},406,true,false,false,2016-06-01,true,false
 22477,Sólbert Aldinbjór með engiferbragði,Ölgerðin Egill Skallagríms ehf,ísland,,,,4.5,,,false,330.0,crown,flaska,cidersoda,soda,{},339,false,false,false,2016-05-01,true,false
 22478,Gammel Dansk Shot Chili & Lakrids,Haugen-Gruppen ehf.,danmörk,,,,32.0,,,false,500.0,skrúftappi,peli,strong,shots,{},3899,false,false,false,2016-04-01,true,false
 22479,Domaine Jaume Cotes du Rhone hvítt,Must ehf.,frakkland,rhone,cotes-du-rhone,2014,13.5,clairette,02M,false,750.0,korkur,flaska,white,,"{B,C,P,Y}",2950,false,false,false,2016-04-01,true,false
@@ -1490,6 +1491,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22483,Murphy-Goode The Fume Sauvignon Blanc,HOB-vín ehf,bandaríkin,northcoast,north coast,2011,13.5,sauvignon blanc,02M,false,750.0,skrúftappi,flaska,white,,"{4,B,C,P,Y}",2499,false,false,false,2016-04-01,true,false
 22485,Pievalta Domine Verdicchio dei Castelli di Jesi,Vínfélagið ehf,ítalía,marche,castelli di jesi classico,2014,12.5,verdicchio,02M,true,750.0,korkur,flaska,white,,"{4,A,B,C,Y}",2995,false,false,false,2016-04-01,true,false
 22488,G G Gin & Grape,Ölgerðin Egill Skallagríms ehf,ísland,,,,4.5,,,false,330.0,,dós,cidersoda,soda,{},399,false,false,false,2016-05-01,true,false
+22489,Forseti Sumaröl 2016,Karl K. Karlsson ehf.,ísland,,,,4.6,,61ÖL,false,330.0,crown,flaska,beer,,{},389,true,false,false,2016-06-01,true,false
 22490,Sólveig Hveitibjór nr. 25,Ölgerðin Egill Skallagríms ehf,ísland,,,,6.0,,62HV,false,330.0,,dós,beer,,{},459,true,false,false,2016-05-01,true,false
 22491,Pares Balta Ros de Pacs,Haugen-Gruppen ehf.,spánn,catalunya,penedes,2015,12.5,garnatxa,03,false,750.0,skrúftappi,flaska,rose,,"{C,D,I,P,Y}",1999,false,false,false,2016-04-01,true,false
 22492,Camino Dominio Romano Tinto Fino,Haugen-Gruppen ehf.,spánn,castilla y,ribera del duero,2014,14.5,tinta fina,01T,true,750.0,korkur,flaska,red,,"{E,F,H,S,Æ}",2999,false,false,false,2016-04-01,true,false
