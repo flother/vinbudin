@@ -707,7 +707,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 19995,Domaine Drouhin Arthur Chardonnay,Bakkus ehf.,bandaríkin,,oregon,2008,14.0,chardonnay,02M,false,750.0,,flaska,white,,"{A,B,C,D,Y}",5399,false,false,false,2013-03-01,true,false
 20001,Bree Riesling,Bakkus ehf.,þýskaland,mosel,mosel,2014,11.0,riesling,02LM,false,750.0,skrúftappi,flaska,white,,"{4,K,P,V,Y}",1599,false,false,false,2012-06-01,true,false
 20004,Björk,Globus hf,ísland,,,,27.5,,,false,500.0,korktappi,flaska,strong,liqueur,{},5599,false,false,false,2013-10-01,true,false
-20007,Einstök Arctic Ale,Vífilfell hf.,ísland,,,,5.6,,61ÖL,false,330.0,crown,flaska,beer,,{},419,false,false,false,2012-01-01,true,false
+20007,Einstök Arctic Pale Ale,Vífilfell hf.,ísland,,,,5.6,,61ÖL,false,330.0,crown,flaska,beer,,{},419,false,false,false,2012-01-01,true,false
 20016,Gæðingur Pale Ale,Gæðingur-Öl ehf,ísland,,,,4.5,,61ÖL,false,330.0,crown,flaska,beer,,{},360,false,false,false,2012-06-01,true,false
 20017,Víking Classic,Vífilfell hf.,ísland,,,,4.6,,60LL,false,500.0,,dós,beer,,{},329,false,false,false,2011-12-01,true,false
 20033,Cune Gran Reserva,Haugen-Gruppen ehf.,spánn,,rioja,2008,13.5,tempranillo,01T,false,750.0,korkur,flaska,red,,"{E,F,S,T,Y}",3998,false,false,false,2016-01-01,true,false
@@ -1282,7 +1282,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 22209,Cortes Mojito,Rain ehf,pólland,,,,5.0,,,false,330.0,crown,flaska,cidersoda,soda,{},348,false,false,false,2015-10-01,true,false
 22210,Lomza Export,Rain ehf,pólland,,,,5.7,,60LL,false,500.0,,dós,beer,,{},379,false,false,false,2016-02-01,true,false
 22211,Karpackie Pils,Rain ehf,pólland,,,,4.0,,60LL,false,500.0,,dós,beer,,{},263,false,false,false,2015-12-01,true,false
-22212,Bofferding,Arja ehf,lúxemborg,,,,4.8,,60LL,false,330.0,crown,flaska,beer,,{},333,false,false,false,2015-10-01,true,false
+22212,Bofferding,Arja ehf,lúxemborg,,,,4.8,,60LL,false,330.0,crown,flaska,beer,,{},333,false,false,false,2016-07-01,true,false
 22213,Domaine Sainte Marie des Pins rautt,Berjamór ehf.,frakkland,languedoc-,cite de carcassonne,,12.0,cabernet franc,01L,true,750.0,korkur,flaska,red,,"{2,D,I,P,Y}",2672,false,false,false,2015-08-01,true,false
 22214,Capoccia Terre Siciliane rautt,Vínfélagið ehf,ítalía,sikiley,terre siciliane,2013,13.5,cabernet sauvignon,01MM,false,750.0,skrúftappi,flaska,red,,"{2,G,J,P,Y}",2396,false,false,false,2015-08-01,true,false
 22215,Capoccia Terre Siciliane hvítt,Vínfélagið ehf,ítalía,sikiley,terre siciliane,2014,13.5,grillo,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,I,M,Y}",2396,false,false,false,2015-08-01,true,false
