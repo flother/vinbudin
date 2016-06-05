@@ -312,7 +312,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 1274,To Öl First Frontier IPA,Járn og gler hf,danmörk,,,,7.1,,61ÖL,false,330.0,crown,flaska,beer,,{},758,false,false,false,2016-06-01,true,false
 12743,Domaine des Malandes Petit Chablis,Haugen-Gruppen ehf.,frakkland,bourgogne,petit chablis,2014,12.0,chardonnay,02L,false,750.0,skrúftappi,flaska,white,,"{B,C,D,L,Y}",2499,false,false,false,2015-02-01,true,false
 12744,Domaine des Malandes Cote de Lechet,Haugen-Gruppen ehf.,frakkland,bourgogne,chablis premier cru,2010,13.0,,,false,750.0,korkur,flaska,white,,"{A,B,C,I,P,Y}",3745,false,true,false,2010-10-01,false,false
-12745,Villa Maria Reserve Pinot Noir,Karl K. Karlsson ehf.,nýjasjáland,,marlborough,2010,13.5,pinot noir,01L,false,750.0,skrúftappi,flaska,red,,"{D,E,G,T,Æ}",4790,false,false,false,2012-07-01,true,false
+12745,Villa Maria Reserve Pinot Noir,Karl K. Karlsson ehf.,nýjasjáland,,marlborough,2010,14.0,pinot noir,01L,false,750.0,skrúftappi,flaska,red,,"{D,E,G,T,Æ}",4790,false,false,false,2012-07-01,true,false
 12764,Baroncini Nobile di Montepulciano Fontelellera,Era Trading ehf.,ítalía,toskana,vino nobile de montepulciano,2011,13.5,sangiovese,01M,false,750.0,korkur,flaska,red,,"{E,F,L,M,Æ}",2398,false,false,false,2016-05-01,true,false
 1277,Tariquet Rose de Pressee,Vínekran Bourgogne ehf,frakkland,,cotes de gascogne,2015,11.5,cabernet franc,03,false,750.0,skrúftappi,flaska,rose,,"{2,4,I,P,Y}",2190,false,false,false,2016-05-01,true,false
 12790,Fuller's Vintage Ale,Vínfélagið ehf,stórabretland,,,2012,8.5,,61ÖL,false,500.0,crown,flaska,beer,,{},1498,false,false,false,2010-08-01,true,false
@@ -732,7 +732,6 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 20298,Somersby Blackberry,Ölgerðin Egill Skallagríms ehf,danmörk,,,,4.5,,,false,330.0,,dós,cidersoda,cider,{},289,false,false,false,2012-09-01,true,false
 20301,Carlo Rossi Sweet Red,Globus hf,bandaríkin,,,,9.0,,01LS,false,1500.0,skrúftappi,flaska,red,,"{K,O,R,V,Y}",2398,false,false,false,2015-04-01,true,false
 20309,Tommasi Poggio al Tufo Rompicollo Maremma Toscana,Mekka Wines & Spirits hf,ítalía,toskana,toscana,,13.0,sangiovese,01M,false,3000.0,Vitop,box,red,,"{2,3,J,M,Y}",6399,false,false,false,2016-01-01,true,false
-20316,Sobieski Vodka,Karl K. Karlsson ehf.,pólland,,,,37.5,,,false,700.0,skrúftappi,flaska,strong,vodka,{},5499,false,false,false,2013-05-01,true,false
 20318,Brew Dog Punk IPA,Járn og gler hf,stórabretland,,,,5.6,,61ÖL,false,330.0,crown,flaska,beer,,"{D,F,G,K}",525,false,false,false,2013-06-01,true,false
 20319,Brew Dog Hardcore IPA,Járn og gler hf,stórabretland,,,,9.2,,61ÖL,false,330.0,crown,flaska,beer,,{},864,false,false,false,2013-06-01,true,false
 20321,Pimm's,Ölgerðin Egill Skallagríms ehf,stórabretland,,,,25.0,,,false,1000.0,skrúftappi,flaska,strong,shots,{},4665,false,false,false,2013-05-01,true,false
@@ -1706,7 +1705,7 @@ id,name,supplier,country_of_origin,district_of_origin,place_of_origin,year,alcoh
 346,Torres San Valentin,Karl K. Karlsson ehf.,spánn,catalunya,catalunya,2013,10.5,parellada,02LM,false,375.0,korkur,flaska,white,,"{A,K,P,Y}",985,false,false,false,2012-02-01,true,false
 3477,Lombardo Marsala Cucina,Kísill ehf,ítalía,sikiley,marsala,,17.5,catarratto,,false,750.0,skrúftappi,flaska,fortified,port,{},4148,false,false,false,2008-11-01,true,false
 348,Torres Gran Vina Sol Chardonnay,Karl K. Karlsson ehf.,spánn,catalunya,penedes,2012,13.5,chardonnay,02M,false,750.0,skrúftappi,flaska,white,,"{C,D,P,Y}",2490,false,false,false,2013-11-01,true,false
-349,Torres Vina Esmeralda,Karl K. Karlsson ehf.,spánn,catalunya,catalunya,2014,11.0,gewurztraminer,02L,false,750.0,skrúftappi,flaska,white,,"{3,K,P,R,Y}",1699,false,false,false,2000-01-01,true,false
+349,Torres Vina Esmeralda,Karl K. Karlsson ehf.,spánn,catalunya,catalunya,2014,11.5,gewurztraminer,02L,false,750.0,skrúftappi,flaska,white,,"{3,K,P,R,Y}",1699,false,false,false,2000-01-01,true,false
 3495,Rosemount Shiraz,Ölgerðin Egill Skallagríms ehf,ástralía,,south australia,2014,13.5,shiraz,01M,false,750.0,skrúftappi,flaska,red,,"{D,I,J,K,Y}",2430,false,false,false,1999-08-01,true,false
 3496,Rosemount Cabernet Sauvignon,Ölgerðin Egill Skallagríms ehf,ástralía,,south eastern australia,2012,13.5,cabernet sauvignon,01T,false,750.0,skrúftappi,flaska,red,,"{E,F,H,J,Y}",2350,false,false,false,2001-12-01,true,false
 3498,Jim Beam Black Bourbon 6 ára,Haugen-Gruppen ehf.,bandaríkin,,kentucky,,43.0,,,false,700.0,skrúftappi,flaska,strong,whisky,{},7199,false,false,false,2012-07-01,true,false
